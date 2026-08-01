@@ -246,4 +246,5 @@
     <string name="faq_8_text">Menambah folder pada Folder Yang Disertakan tidak mengecualikan apa-apa secara automatik. Apa yang boleh anda lakukan ialah pergi ke Tetapan -&gt; Urus folder yang dikecualikan, kecualikan folder akar “/”, kemudian tambah folder yang dikehendaki di Tetapan -&gt; Urus folder yang disertakan.\nItu akan menjadikan hanya folder yang dipilih kelihatan, kerana pengecualian dan penyertaan kedua-duanya bersifat rekursif dan jika sesuatu folder dikecualikan dan disertakan pada masa yang sama, ia akan muncul.</string>
     <string name="faq_10_title">Bolehkah saya memangkas imej dengan aplikasi ini?</string>
     <string name="faq_10_text">Ya, anda boleh memangkas imej dalam penyunting, dengan menyeret bucu imej. Anda boleh pergi ke penyunting sama ada dengan menekan lama lakaran kenit imej dan memilih Sunting, atau memilih Sunting daripada paparan skrin penuh.</string>
+    <string name="faq_11_title">Bolehkah saya mengumpulkan lakaran kenit fail media?</string>
 </resources>
