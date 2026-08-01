@@ -160,4 +160,5 @@
     <string name="show_folder_name">Rādīt mapes nosaukumu</string>
     <string name="autoplay_videos">Atskaņot video automātiski</string>
     <string name="remember_last_video_position">Atcerēties pēdējo video atskaņošanas pozīciju</string>
+    <string name="loop_videos">Atkārtot video</string>
 </resources>
