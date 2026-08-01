@@ -78,4 +78,5 @@
     <string name="images_resized_successfully">Tókst að breyta stærð myndanna</string>
     <string name="editor">Myndvinnsla</string>
     <string name="basic_editor">Einföld myndvinnsla</string>
+    <string name="advanced_editor">Ítarleg myndvinnsla</string>
 </resources>
