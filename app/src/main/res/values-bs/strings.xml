@@ -87,4 +87,5 @@
     <string name="image_editing_failed">Uređivanje slike nije uspjelo</string>
     <string name="video_editing_failed">Uređivanje videozapisa nije uspjelo</string>
     <string name="image_editing_cancelled">Uređivanje slike je otkazano</string>
+    <string name="video_editing_cancelled">Uređivanje videozapisa je otkazano</string>
 </resources>
