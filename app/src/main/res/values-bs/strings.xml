@@ -35,4 +35,5 @@
     <string name="unset_as_default_folder">Ukloni kao zadani folder</string>
     <string name="reorder_by_dragging">Promijeni redoslijed foldera prevlačenjem</string>
     <string name="reorder_by_dragging_pro">Promijeni redoslijed foldera prevlačenjem (Pro)</string>
+    <string name="restore_to_path">Vraćanje u „%s”</string>
 </resources>
