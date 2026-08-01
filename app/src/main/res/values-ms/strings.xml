@@ -193,4 +193,5 @@
     <string name="avoid_showing_invalid_files">Elakkan menunjukkan fail yang tidak sah</string>
     <string name="show_image_file_types">Tunjukkan jenis fail imej</string>
     <string name="allow_zooming_videos">Benarkan zum video dengan mengetiknya dua kali</string>
+    <string name="folder_thumbnail_style">Gaya lakaran kenit folder</string>
 </resources>
