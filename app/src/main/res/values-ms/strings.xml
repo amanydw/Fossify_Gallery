@@ -227,4 +227,5 @@
     <string name="file_is_malformed_or_corrupted">Fail cacat atau rosak.</string>
     <string name="media_exceeds_device_capabilities">Media melebihi keupayaan peranti.</string>
     <string name="unsupported_format">Format tidak disokong.</string>
+    <string name="video_no_sound">Video ini tiada audio</string>
 </resources>
