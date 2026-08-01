@@ -130,4 +130,5 @@
     <string name="animation">Animation</string>
     <string name="no_animation">Wala</string>
     <string name="fade">Fade</string>
+    <string name="slide">Slide</string>
 </resources>
