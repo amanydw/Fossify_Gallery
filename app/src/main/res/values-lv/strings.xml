@@ -200,4 +200,5 @@
     <string name="avoid_showing_invalid_files">Nerādīt nederīgas datnes</string>
     <string name="show_image_file_types">Rādīt attēlu datņu veidus</string>
     <string name="allow_zooming_videos">Atļaut tuvināt video ar dubultpieskārienu</string>
+    <string name="folder_thumbnail_style">Mapju sīktēlu stils</string>
 </resources>
