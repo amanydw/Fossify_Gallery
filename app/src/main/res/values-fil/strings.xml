@@ -36,4 +36,8 @@
     <string name="reorder_by_dragging">Muling ayusin ang mga folder sa pamamagitan ng pag-drag</string>
     <string name="reorder_by_dragging_pro">Muling ayusin ang mga folder sa pamamagitan ng pag-drag (Pro)</string>
     <string name="restore_to_path">Ibinabalik sa “%s”</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">Sigurado ka bang gusto mong ibalik ang %d file?</item>
+        <item quantity="other">Sigurado ka bang gusto mong ibalik ang %d na file?</item>
+    </plurals>
 </resources>
