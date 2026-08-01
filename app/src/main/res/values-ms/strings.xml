@@ -211,4 +211,5 @@
     <string name="media_management_manual">Sesuatu telah tidak kena, sila pergi ke Tetapan peranti anda - Aplikasi - Akses aplikasi khas - Aplikasi pengurusan media dan benarkan aplikasi ini mengurus media.</string>
     <string name="media_management_note">Jika lencongan itu tidak berfungsi, sila pergi ke Tetapan peranti anda - Aplikasi - Akses aplikasi khas - Aplikasi pengurusan media dan benarkan aplikasi ini mengurus media.</string>
     <string name="media_management_alternative">Jika anda tidak mahu berbuat demikian, anda juga boleh pergi ke Tetapan peranti anda - Aplikasi - Akses aplikasi khas - Aplikasi pengurusan media dan benarkan aplikasi ini mengurus media.</string>
+    <string name="alternative_media_access">Sebagai alternatif, anda boleh membenarkan akses kepada fail media sahaja. Dalam keadaan itu anda tidak akan dapat bekerja dengan fail tersembunyi.</string>
 </resources>
