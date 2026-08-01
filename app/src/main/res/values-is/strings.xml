@@ -186,4 +186,5 @@
     <string name="open_videos_on_separate_screen">Spila myndbönd á sérstökum skjá með láréttum bendingum</string>
     <string name="on_video_tap">Þegar smellt er á myndband</string>
     <string name="open_in_app_player">Opna spilarann í forritinu</string>
+    <string name="open_system_default_player">Opna sjálfgefið spilunarforrit</string>
 </resources>
