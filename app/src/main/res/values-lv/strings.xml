@@ -224,4 +224,5 @@
     <string name="search_all_files">Galvenajā ekrānā meklēt visas datnes, nevis mapes</string>
     <string name="show_all_folders">Rādīt izvēlnes pogu, lai ātri ieslēgtu visu mapju satura rādīšanu</string>
     <string name="thumbnails">Sīktēli</string>
+    <string name="fullscreen_media">Multivide pilnekrānā</string>
 </resources>
