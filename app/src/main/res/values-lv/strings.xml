@@ -129,4 +129,5 @@
     <string name="home_and_lock_screen">Sākuma un bloķēšanas ekrāns</string>
     <string name="allow_changing_aspect_ratio">Atļaut mainīt malu attiecību</string>
     <string name="slideshow">Slaidrāde</string>
+    <string name="interval">Intervāls</string>
 </resources>
