@@ -30,4 +30,5 @@
     <string name="dates_fixed_successfully">Datumi su uspješno popravljeni</string>
     <string name="no_date_takens_found">Nije pronađena nijedna vrijednost datuma snimanja</string>
     <string name="share_resized">Podijeli verziju promijenjene veličine</string>
+    <string name="switch_to_file_search">Prebaci na pretragu datoteka u svim vidljivim folderima</string>
 </resources>
