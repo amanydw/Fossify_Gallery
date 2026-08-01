@@ -117,4 +117,5 @@
     <string name="wallpaper_set_successfully">Pozadina je uspješno postavljena</string>
     <string name="portrait_aspect_ratio">Uspravni omjer stranica</string>
     <string name="landscape_aspect_ratio">Položeni omjer stranica</string>
+    <string name="home_screen">Početni ekran</string>
 </resources>
