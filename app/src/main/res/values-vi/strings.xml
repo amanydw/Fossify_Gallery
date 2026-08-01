@@ -63,9 +63,7 @@
     <string name="resize_factor_error">Nhập một số từ 10 đến 90</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">Thay đổi kích thước %d ảnh thất bại</item>
-    
-        <item quantity="one">Thay đổi kích thước %d ảnh thất bại</item>
-</plurals>
+    </plurals>
     <string name="images_resized_successfully">Thay đổi kích thước hình ảnh thành công</string>
     <string name="editor">Trình chỉnh sửa</string>
     <string name="basic_editor">Trình chỉnh sửa cơ bản</string>
