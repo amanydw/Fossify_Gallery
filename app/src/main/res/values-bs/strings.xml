@@ -122,4 +122,5 @@
     <string name="home_and_lock_screen">Početni i zaključani ekran</string>
     <string name="allow_changing_aspect_ratio">Dozvoli promjenu omjera stranica</string>
     <string name="slideshow">Slajdšou</string>
+    <string name="interval">Interval</string>
 </resources>
