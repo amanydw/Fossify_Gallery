@@ -141,4 +141,5 @@
     <string name="by_folder">Folderu</string>
     <string name="by_last_modified">Posljednjoj izmjeni</string>
     <string name="by_last_modified_daily">Posljednjoj izmjeni (dnevno)</string>
+    <string name="by_last_modified_monthly">Posljednjoj izmjeni (mjesečno)</string>
 </resources>
