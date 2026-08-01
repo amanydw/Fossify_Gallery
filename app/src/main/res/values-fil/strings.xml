@@ -46,4 +46,5 @@
     <string name="raw_images">Mga RAW na imahe</string>
     <string name="svgs">Mga SVG</string>
     <string name="portraits">Mga portrait</string>
+    <string name="no_media_with_filters">Walang natagpuang media file gamit ang mga napiling filter.</string>
 </resources>
