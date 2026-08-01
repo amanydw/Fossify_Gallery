@@ -120,4 +120,5 @@
     <string name="home_and_lock_screen">Heima- og lásskjár</string>
     <string name="allow_changing_aspect_ratio">Leyfa breytingu á stærðarhlutföllum</string>
     <string name="slideshow">Skyggnusýning</string>
+    <string name="interval">Millibil</string>
 </resources>
