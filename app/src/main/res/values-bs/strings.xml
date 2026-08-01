@@ -238,4 +238,5 @@
     <string name="faq_2_text">To možeš riješiti na dva načina. Možeš ponovo instalirati aplikaciju ili pronaći aplikaciju u postavkama uređaja i odabrati „Obriši podatke”. Time će se poništiti sve tvoje postavke, ali neće biti uklonjena nijedna medijska datoteka.</string>
     <string name="faq_3_title">Kako mogu postići da se album uvijek prikazuje na vrhu?</string>
     <string name="faq_3_text">Dugo pritisni željeni album i odaberi ikonu čiode u meniju radnji, čime ćeš ga zakačiti na vrh. Možeš zakačiti i više foldera, a zakačene stavke bit će sortirane prema zadanom načinu sortiranja.</string>
+    <string name="faq_4_title">Kako mogu premotati videozapise unaprijed?</string>
 </resources>
