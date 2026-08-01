@@ -45,4 +45,5 @@
     <string name="gifs">GIF-myndir</string>
     <string name="raw_images">RAW-myndir</string>
     <string name="svgs">SVG-myndir</string>
+    <string name="portraits">Andlitsmyndir</string>
 </resources>
