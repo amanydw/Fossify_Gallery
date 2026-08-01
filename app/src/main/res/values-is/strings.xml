@@ -207,4 +207,5 @@
     <string name="rounded_corners">Ávöl horn</string>
     <string name="export_favorite_paths">Flytja út eftirlæti</string>
     <string name="import_favorite_paths">Flytja inn eftirlæti</string>
+    <string name="paths_imported_successfully">Tókst að flytja inn slóðir</string>
 </resources>
