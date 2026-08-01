@@ -265,4 +265,5 @@
     <string name="faq_16_text_extra">Ili možeš ovoj galeriji odobriti pristup svim datotekama u postavkama uređaja, što će nam omogućiti prikaz skrivenih stavki i općenito pouzdanije radnje s datotekama.</string>
     <string name="faq_17_title">Zašto više ne mogu uključiti foldere koji nedostaju?</string>
     <string name="faq_17_text">I to je prestalo raditi zbog sistemskih promjena koje je donio Android 11, aplikacija više ne može pregledati stvarne foldere, već se pri dohvaćanju podataka oslanja na takozvani MediaStore.</string>
+    <string name="faq_18_title">Zašto vidim reklame tokom reprodukcije videozapisa?</string>
 </resources>
