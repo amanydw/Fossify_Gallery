@@ -53,4 +53,5 @@
     <string name="exclude_folder_parent">Ibukod na lang ang parent folder?</string>
     <string name="excluded_activity_placeholder">Kapag ibinukod ang mga folder, matatago ang mga ito kasama ang kanilang mga subfolder sa Fossify Gallery lamang, makikita pa rin ang mga ito sa ibang mga app.\n\nKung gusto mo ring itago ang mga ito sa ibang mga app, gamitin ang function na Itago.</string>
     <string name="hidden_folders">Mga nakatagong folder</string>
+    <string name="manage_hidden_folders">Pamahalaan ang mga nakatagong folder</string>
 </resources>
