@@ -181,4 +181,5 @@
     <string name="deep_zoomable_images">Myndir með miklum aðdrætti</string>
     <string name="show_highest_quality">Sýna myndir í hæstu mögulegu gæðum</string>
     <string name="show_recycle_bin_last">Sýna ruslafötuna sem síðasta atriðið á aðalskjánum</string>
+    <string name="allow_down_gesture">Leyfa að loka heilskjásýn með bendingu niður á við</string>
 </resources>
