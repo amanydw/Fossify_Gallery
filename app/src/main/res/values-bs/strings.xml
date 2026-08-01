@@ -196,4 +196,5 @@
     <string name="compromise">Kompromis</string>
     <string name="avoid_showing_invalid_files">Izbjegavaj prikazivanje neispravnih datoteka</string>
     <string name="show_image_file_types">Prikaži vrste slikovnih datoteka</string>
+    <string name="allow_zooming_videos">Dozvoli uvećavanje videozapisa dvostrukim dodirom</string>
 </resources>
