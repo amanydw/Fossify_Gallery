@@ -134,4 +134,5 @@
     <string name="group_direct_subfolders">Kumpulkan subfolder terus</string>
     <string name="group_by">Kumpulkan mengikut</string>
     <string name="do_not_group_files">Jangan kumpulkan fail</string>
+    <string name="by_folder">Folder</string>
 </resources>
