@@ -66,4 +66,5 @@
     <string name="width">Lapad</string>
     <string name="height">Taas</string>
     <string name="keep_aspect_ratio">Panatilihin ang aspect ratio</string>
+    <string name="invalid_values">Maglagay ng wastong resolusyon</string>
 </resources>
