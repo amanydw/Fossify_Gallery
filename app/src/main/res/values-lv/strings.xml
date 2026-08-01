@@ -69,4 +69,5 @@
     <string name="change_filters_underlined"><u>Mainīt filtrus</u></string>
     <string name="hide_folder_description">Šī funkcija paslēpj mapi, tajā pievienojot datni “.nomedia”, un paslēpj arī visas apakšmapes. Tās var apskatīt, iestatījumos ieslēdzot iespēju “Rādīt paslēptos vienumus”. Vai turpināt?</string>
     <string name="exclude_folder_description">Tādējādi izvēlētā mape kopā ar tās apakšmapēm netiks iekļauta tikai Fossify Gallery. Neiekļautās mapes var pārvaldīt iestatījumos.</string>
+    <string name="exclude_folder_parent">Vai tā vietā neiekļaut virsmapi?</string>
 </resources>
