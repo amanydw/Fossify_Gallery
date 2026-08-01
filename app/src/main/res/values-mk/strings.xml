@@ -64,9 +64,7 @@
     <string name="include_folders">Вклучени папки</string>
     <string name="manage_included_folders">Управувај со вклучени папки</string>
     <string name="add_folder">Додади папка</string>
-    <string name="included_activity_placeholder">Ако имате папки кои содржат медиуми, но не биле препознаени од апликацијата, можете да ги додадете рачно овде.
-
-Додавањето ставки овде нема да исклучи друга папка.</string>
+    <string name="included_activity_placeholder">Ако имате папки кои содржат медиуми, но не биле препознаени од апликацијата, можете да ги додадете рачно овде.\n\nДодавањето ставки овде нема да исклучи друга папка.</string>
     <string name="no_media_add_included">Не се пронајдени медиумски датотеки. Можете да го решите ова со рачно додавање на папките што содржат медиумски датотеки.</string>
     <string name="resize_and_save">Промени ја големината на изборот и зачувај</string>
     <string name="width">Ширина</string>
