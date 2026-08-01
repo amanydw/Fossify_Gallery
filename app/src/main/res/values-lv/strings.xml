@@ -266,4 +266,5 @@
     <string name="faq_17_title">Kāpēc es vairs nevaru iekļaut trūkstošās mapes?</string>
     <string name="faq_17_text">Arī tas pārstāja darboties sistēmas izmaiņu dēļ, kas ieviestas ar Android 11; lietotne vairs nevar pārlūkot īstas mapes, datu iegūšanai tā izmanto tā saukto MediaStore.</string>
     <string name="faq_18_title">Kāpēc video atskaņošanas laikā es redzu reklāmas?</string>
+    <string name="faq_18_text">Mūsu lietotnēs nav nekādu reklāmu. Ja tās redzat video atskaņošanas laikā, jūs, visticamāk, izmantojat kādas citas lietotnes video atskaņotāju. Mēģiniet ierīces iestatījumos atrast savu noklusējuma video atskaņotāju un veiciet tam “Notīrīt noklusējumus”. Nākamreiz, atverot kādu video, parādīsies lietotņu izvēle, kurā varēsiet norādīt, kuru lietotni vēlaties izmantot.</string>
 </resources>
