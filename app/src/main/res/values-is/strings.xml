@@ -54,4 +54,5 @@
     <string name="excluded_activity_placeholder">Þegar möppur eru útilokaðar verða þær ásamt undirmöppum sínum faldar eingöngu í Fossify Gallerí, þær verða áfram sýnilegar í öðrum forritum.\n\nEf þú vilt einnig fela þær fyrir öðrum forritum skaltu nota aðgerðina Fela.</string>
     <string name="hidden_folders">Faldar möppur</string>
     <string name="manage_hidden_folders">Sýsla með faldar möppur</string>
+    <string name="hidden_folders_placeholder">Það lítur út fyrir að engar möppur séu faldar hjá þér með „.nomedia“ skrá.</string>
 </resources>
