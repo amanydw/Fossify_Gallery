@@ -238,4 +238,5 @@
     <string name="faq_4_text">Anda boleh melakukannya dengan mengetik dua kali pada tepi skrin, atau mengetik teks tempoh semasa atau tempoh maksimum berhampiran bar cari. Jika anda mendayakan pembukaan video pada skrin berasingan dalam tetapan aplikasi, anda juga boleh menggunakan gerak isyarat mendatar.</string>
     <string name="faq_5_title">Apakah perbezaan antara menyembunyikan dan mengecualikan sesuatu folder?</string>
     <string name="faq_5_text">Kecualikan hanya menghalang folder itu daripada dipaparkan dalam Fossify Gallery, manakala Sembunyikan berfungsi pada peringkat sistem dan ia turut menyembunyikan folder itu daripada galeri lain. Ia berfungsi dengan mencipta fail “.nomedia” kosong dalam folder berkenaan, yang kemudiannya boleh anda buang dengan mana-mana pengurus fail. Ambil perhatian bahawa sesetengah peranti tidak membenarkan penyembunyian folder seperti Camera, Screenshots dan Downloads.</string>
+    <string name="faq_6_title">Mengapakah folder yang mengandungi seni muka depan muzik atau pelekat muncul?</string>
 </resources>
