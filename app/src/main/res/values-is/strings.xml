@@ -208,4 +208,5 @@
     <string name="export_favorite_paths">Flytja út eftirlæti</string>
     <string name="import_favorite_paths">Flytja inn eftirlæti</string>
     <string name="paths_imported_successfully">Tókst að flytja inn slóðir</string>
+    <string name="media_management_prompt">Til að tryggja að allar skráaraðgerðir virki áreiðanlega skaltu gera þetta forrit að forriti til að sýsla með margmiðlunarefni í stillingum tækisins.</string>
 </resources>
