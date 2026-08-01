@@ -239,4 +239,5 @@
     <string name="faq_5_title">Apakah perbezaan antara menyembunyikan dan mengecualikan sesuatu folder?</string>
     <string name="faq_5_text">Kecualikan hanya menghalang folder itu daripada dipaparkan dalam Fossify Gallery, manakala Sembunyikan berfungsi pada peringkat sistem dan ia turut menyembunyikan folder itu daripada galeri lain. Ia berfungsi dengan mencipta fail “.nomedia” kosong dalam folder berkenaan, yang kemudiannya boleh anda buang dengan mana-mana pengurus fail. Ambil perhatian bahawa sesetengah peranti tidak membenarkan penyembunyian folder seperti Camera, Screenshots dan Downloads.</string>
     <string name="faq_6_title">Mengapakah folder yang mengandungi seni muka depan muzik atau pelekat muncul?</string>
+    <string name="faq_6_text">Ada kalanya anda akan melihat beberapa album yang luar biasa muncul. Anda boleh mengecualikannya dengan mudah dengan menekan lama padanya dan memilih Kecualikan. Dalam dialog seterusnya anda boleh memilih folder induknya, kemungkinan besar ini akan menghalang album lain yang berkaitan daripada muncul juga.</string>
 </resources>
