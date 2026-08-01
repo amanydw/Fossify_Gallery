@@ -239,10 +239,8 @@
     <string name="cant_unhide_folder">フォルダーまたは親フォルダーの名前がドットから始まる場合、そのフォルダーは非表示となり、このような形で表示することはできません。名前からドットを削除する必要があります。</string>
     <string name="resize_factor_info">指定した割合に画像のサイズを変更。値は10から90までの間を指定してください。</string>
     <plurals name="failed_to_resize_images">
-        <item quantity="other">%d個の画像のサイズを変更できませんでした</item>
-    
-        <item quantity="one">%d 枚の画像のサイズ変更に失敗しました</item>
-</plurals>
+        <item quantity="other">%d 枚の画像のサイズ変更に失敗しました</item>
+    </plurals>
     <string name="images_resized_successfully">画像のサイズを変更しました</string>
     <string name="wallpaper">壁紙</string>
     <string name="exclude_folder_description">選択したフォルダーとその子フォルダーをFossifyギャラリーから除外します。除外したフォルダーは設定画面で管理できます。</string>
