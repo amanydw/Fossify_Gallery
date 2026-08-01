@@ -103,4 +103,5 @@
     <string name="crop">I-crop</string>
     <string name="draw">Gumuhit</string>
     <string name="flip">I-flip</string>
+    <string name="flip_horizontally">I-flip nang pahalang</string>
 </resources>
