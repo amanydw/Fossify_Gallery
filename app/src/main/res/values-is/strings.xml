@@ -251,4 +251,5 @@
     <string name="faq_11_title">Get ég einhvern veginn flokkað smámyndir margmiðlunarskráa?</string>
     <string name="faq_11_text">Að sjálfsögðu, notaðu bara valmyndaratriðið „Flokka eftir“ í smámyndasýninni. Þú getur flokkað skrár eftir mörgum forsendum, þar á meðal upptökudagsetningu. Ef þú notar aðgerðina „Sýna innihald allra mappa“ geturðu einnig flokkað þær eftir möppum.</string>
     <string name="faq_12_title">Röðun eftir upptökudagsetningu virðist ekki virka rétt, hvernig get ég lagað það?</string>
+    <string name="faq_12_text">Það stafar líklegast af því að skrárnar hafa verið afritaðar einhvers staðar frá. Þú getur lagað það með því að velja smámyndir skránna og velja „Laga gildi upptökudagsetningar“.</string>
 </resources>
