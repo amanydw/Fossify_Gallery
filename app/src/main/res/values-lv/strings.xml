@@ -240,4 +240,5 @@
     <string name="faq_3_title">Kā es varu panākt, lai albums vienmēr būtu redzams augšpusē?</string>
     <string name="faq_3_text">Ilgi piespiediet vēlamo albumu un darbību izvēlnē izvēlieties piespraudes ikonu — tas piespraudīs albumu augšpusē. Var piespraust arī vairākas mapes; piespraustie vienumi tiks sakārtoti pēc noklusējuma kārtošanas veida.</string>
     <string name="faq_4_title">Kā es varu attīt video uz priekšu?</string>
+    <string name="faq_4_text">To var izdarīt, divreiz pieskaroties ekrāna malai vai pieskaroties pašreizējā vai maksimālā ilguma tekstam pie meklēšanas joslas. Ja lietotnes iestatījumos ieslēdzat video atvēršanu atsevišķā ekrānā, var izmantot arī horizontālus žestus.</string>
 </resources>
