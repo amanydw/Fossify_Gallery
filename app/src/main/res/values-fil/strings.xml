@@ -65,4 +65,5 @@
     <string name="resize_and_save">Baguhin ang laki ng napili at i-save</string>
     <string name="width">Lapad</string>
     <string name="height">Taas</string>
+    <string name="keep_aspect_ratio">Panatilihin ang aspect ratio</string>
 </resources>
