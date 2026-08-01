@@ -43,4 +43,9 @@
     <string name="screen_rotation_system_setting">सिस्टम सेटिङ</string>
     <string name="speed">गति</string>
     <string name="show_image_file_types">तस्बिरको फाईल किसिम देखाउनुहोस</string>
+    <string name="gifs">GIF हरु</string>
+    <string name="excluded">(छुटाइएको)</string>
+    <string name="lock_orientation">अभिमुखीकरण लक गर्नुहोस</string>
+    <string name="unlock_orientation">अभिमुखीकरण अनलक गर्नुहोस</string>
+    <string name="fixing">मिलाउँदै…</string>
 </resources>
