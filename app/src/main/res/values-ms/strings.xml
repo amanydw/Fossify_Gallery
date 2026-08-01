@@ -58,4 +58,5 @@
     <string name="cant_unhide_folder">Jika sesuatu folder atau salah satu folder induknya mempunyai titik di hadapan namanya, ia tersembunyi dan tidak boleh dinyahsembunyikan dengan cara ini. Anda perlu membuang titik tersebut dengan menamakannya semula.</string>
     <string name="include_folders">Folder yang disertakan</string>
     <string name="manage_included_folders">Urus folder yang disertakan</string>
+    <string name="add_folder">Tambah folder</string>
 </resources>
