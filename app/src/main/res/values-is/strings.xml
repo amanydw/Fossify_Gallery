@@ -121,4 +121,5 @@
     <string name="allow_changing_aspect_ratio">Leyfa breytingu á stærðarhlutföllum</string>
     <string name="slideshow">Skyggnusýning</string>
     <string name="interval">Millibil</string>
+    <string name="include_photos">Hafa ljósmyndir með</string>
 </resources>
