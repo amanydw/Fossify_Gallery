@@ -252,4 +252,5 @@
     <string name="faq_11_text">Oo naman, gamitin lang ang menu item na “Pangkatin ayon sa” habang nasa view ng mga thumbnail. Maaari mong pangkatin ang mga file ayon sa maraming pamantayan, kabilang ang Petsa ng Pagkuha. Kung gagamitin mo ang function na “Ipakita ang nilalaman ng lahat ng folder”, maaari mo ring pangkatin ang mga ito ayon sa folder.</string>
     <string name="faq_12_title">Mukhang hindi gumagana nang tama ang pag-uuri ayon sa Petsa ng Pagkuha, paano ko ito maaayos?</string>
     <string name="faq_12_text">Malamang na dulot ito ng mga file na kinopya mula sa ibang lugar. Maaayos mo ito sa pamamagitan ng pagpili sa mga thumbnail ng file at pagpili ng “Ayusin ang halaga ng Petsa ng Pagkuha”.</string>
+    <string name="faq_13_title">May nakikita akong color banding sa mga imahe. Paano ko mapapabuti ang kalidad?</string>
 </resources>
