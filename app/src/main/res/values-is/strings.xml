@@ -88,4 +88,5 @@
     <string name="video_editing_cancelled">Hætt við vinnslu myndbands</string>
     <string name="file_edited_successfully">Tókst að breyta skránni</string>
     <string name="image_edited_successfully">Tókst að breyta myndinni</string>
+    <string name="video_edited_successfully">Tókst að breyta myndbandinu</string>
 </resources>
