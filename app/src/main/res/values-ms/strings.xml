@@ -184,4 +184,5 @@
     <string name="open_videos_on_separate_screen">Mainkan video pada skrin berasingan dengan gerak isyarat mendatar</string>
     <string name="on_video_tap">Apabila video diketik</string>
     <string name="open_in_app_player">Buka pemain dalam aplikasi</string>
+    <string name="open_system_default_player">Buka aplikasi pemain lalai</string>
 </resources>
