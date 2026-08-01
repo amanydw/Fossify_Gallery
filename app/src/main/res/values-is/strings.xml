@@ -176,4 +176,5 @@
     <string name="allow_instant_change">Leyfa að skipta samstundis um efni með því að smella á hliðar skjásins</string>
     <string name="allow_deep_zooming_images">Leyfa mikinn aðdrátt að myndum</string>
     <string name="hide_extended_details">Fela ítarlegar upplýsingar þegar stöðustikan er falin</string>
+    <string name="show_at_bottom">Sýna suma aðgerðahnappa neðst á skjánum</string>
 </resources>
