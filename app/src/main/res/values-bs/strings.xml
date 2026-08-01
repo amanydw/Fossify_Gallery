@@ -135,4 +135,5 @@
     <string name="slide">Klizanje</string>
     <string name="slideshow_ended">Slajdšou je završen</string>
     <string name="no_media_for_slideshow">Nije pronađen nijedan medij za slajdšou</string>
+    <string name="group_direct_subfolders">Grupiši direktne podfoldere</string>
 </resources>
