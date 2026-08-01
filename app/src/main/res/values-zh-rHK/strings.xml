@@ -173,9 +173,7 @@
     <string name="restore_to_path">還原到「%s」</string>
     <plurals name="restore_confirmation">
         <item quantity="other">您確定要還原 %d 個檔案嗎？</item>
-    
-        <item quantity="one">您確定要還原 %d 個檔案嗎？</item>
-</plurals>
+    </plurals>
     <string name="full_storage_permission_required">Fossify 圖庫需要完整存取權限才能顯示您所有的照片與影片。請到「設定」→「私隱權」→「應用程式權限」→「相片和影片」→「一律全部允許」。</string>
     <string name="portraits">直向</string>
     <string name="exclude_folder_description">僅在 Fossify 圖片庫中排除選定的資料夾及其所有子資料夾。稍後可在設定中管理排除的資料夾。</string>
