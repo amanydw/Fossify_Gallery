@@ -234,4 +234,5 @@
     <string name="video_no_sound">Ovaj videozapis nema zvuk</string>
     <string name="faq_1_title">Kako mogu postaviti Fossify Galeriju kao zadanu galeriju na uređaju?</string>
     <string name="faq_1_text">Prvo moraš pronaći trenutno zadanu galeriju u odjeljku Aplikacije u postavkama uređaja, potraži dugme koje kaže nešto poput „Otvaranje prema zadanim postavkama”, dodirni ga i odaberi „Obriši zadane postavke”. Sljedeći put kada pokušaš otvoriti sliku ili videozapis, pojavit će se birač aplikacija u kojem možeš odabrati Fossify Galeriju i postaviti je kao zadanu aplikaciju.</string>
+    <string name="faq_2_title">Zaključao sam aplikaciju lozinkom, ali sam je zaboravio. Šta mogu uraditi?</string>
 </resources>
