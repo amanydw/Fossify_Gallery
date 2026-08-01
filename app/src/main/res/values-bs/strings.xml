@@ -113,4 +113,5 @@
     <string name="set_as_wallpaper">Postavi kao pozadinu</string>
     <string name="set_as_wallpaper_failed">Postavljanje pozadine nije uspjelo</string>
     <string name="set_as_wallpaper_with">Postavi kao pozadinu pomoću:</string>
+    <string name="setting_wallpaper">Postavljanje pozadine…</string>
 </resources>
