@@ -90,4 +90,5 @@
     <string name="image_edited_successfully">Matagumpay na na-edit ang imahe</string>
     <string name="video_edited_successfully">Matagumpay na na-edit ang video</string>
     <string name="edit_image_with">I-edit ang imahe gamit ang:</string>
+    <string name="edit_video_with">I-edit ang video gamit ang:</string>
 </resources>
