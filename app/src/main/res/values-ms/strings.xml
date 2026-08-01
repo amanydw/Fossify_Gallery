@@ -149,4 +149,5 @@
     <string name="show_folder_name">Tunjukkan nama folder</string>
     <string name="autoplay_videos">Mainkan video secara automatik</string>
     <string name="remember_last_video_position">Ingat kedudukan main balik video yang terakhir</string>
+    <string name="loop_videos">Ulang video</string>
 </resources>
