@@ -125,4 +125,5 @@
     <string name="include_videos">Isama ang mga video</string>
     <string name="include_gifs">Isama ang mga GIF</string>
     <string name="random_order">Random na pagkakasunod-sunod</string>
+    <string name="move_backwards">Umatras</string>
 </resources>
