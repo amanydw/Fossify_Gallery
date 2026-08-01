@@ -60,4 +60,5 @@
     <string name="cant_unhide_folder">Ako folder ili neki od njegovih nadređenih foldera ima tačku ispred imena, on je skriven i ne može se otkriti na ovaj način. Moraš ukloniti tačku preimenovanjem.</string>
     <string name="include_folders">Uključeni folderi</string>
     <string name="manage_included_folders">Upravljaj uključenim folderima</string>
+    <string name="add_folder">Dodaj folder</string>
 </resources>
