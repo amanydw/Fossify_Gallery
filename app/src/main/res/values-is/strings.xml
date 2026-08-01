@@ -206,4 +206,5 @@
     <string name="square">Ferningur</string>
     <string name="rounded_corners">Ávöl horn</string>
     <string name="export_favorite_paths">Flytja út eftirlæti</string>
+    <string name="import_favorite_paths">Flytja inn eftirlæti</string>
 </resources>
