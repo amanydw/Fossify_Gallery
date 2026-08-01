@@ -237,4 +237,5 @@
     <string name="faq_3_title">Hvernig get ég látið albúm alltaf birtast efst?</string>
     <string name="faq_3_text">Þú getur haldið inni á viðkomandi albúmi og valið nælutáknið í aðgerðavalmyndinni, það festir albúmið efst. Þú getur líka fest margar möppur, festum atriðum er raðað eftir sjálfgefnu röðunaraðferðinni.</string>
     <string name="faq_4_title">Hvernig get ég spólað áfram í myndböndum?</string>
+    <string name="faq_4_text">Þú getur gert það með því að tvísmella á hlið skjásins eða smella á textann með núverandi lengd eða heildarlengd við leitarstikuna. Ef þú kveikir á því að opna myndbönd á sérstökum skjá í stillingum forritsins geturðu einnig notað láréttar bendingar.</string>
 </resources>
