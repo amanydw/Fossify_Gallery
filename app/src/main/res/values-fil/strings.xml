@@ -201,4 +201,5 @@
     <string name="thumbnail_spacing">Puwang sa pagitan ng mga thumbnail</string>
     <string name="show_file_count_line">Ipakita ang bilang ng file sa hiwalay na linya</string>
     <string name="show_file_count_brackets">Ipakita ang bilang ng file sa loob ng panaklong</string>
+    <string name="show_file_count_none">Huwag ipakita ang bilang ng file</string>
 </resources>
