@@ -230,4 +230,5 @@
     <string name="media_exceeds_device_capabilities">Lumalampas ang media sa kakayahan ng device.</string>
     <string name="unsupported_format">Hindi suportadong format.</string>
     <string name="video_no_sound">Walang audio ang video na ito</string>
+    <string name="faq_1_title">Paano ko magagawang default na gallery ng device ang Fossify Gallery?</string>
 </resources>
