@@ -246,4 +246,5 @@
     <string name="faq_6_text">Var gadīties, ka parādās kādi neparasti albumi. Tos var viegli neiekļaut, ilgi piespiežot un izvēloties “Neiekļaut”. Nākamajā dialoglodziņā var izvēlēties virsmapi — visticamāk, tas novērsīs arī citu saistīto albumu parādīšanos.</string>
     <string name="faq_7_title">Mape ar attēliem neparādās vai nerāda visus vienumus. Ko es varu darīt?</string>
     <string name="faq_7_text">Tam var būt vairāki iemesli, taču atrisināt to ir vienkārši. Dodieties uz Iestatījumi -&gt; Pārvaldīt iekļautās mapes, izvēlieties plusa zīmi un atveriet nepieciešamo mapi.</string>
+    <string name="faq_8_title">Ko darīt, ja vēlos, lai būtu redzamas tikai dažas noteiktas mapes?</string>
 </resources>
