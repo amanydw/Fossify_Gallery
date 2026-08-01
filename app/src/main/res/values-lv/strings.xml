@@ -196,4 +196,5 @@
     <string name="allow_rotating_gestures">Atļaut pagriezt attēlus ar žestiem</string>
     <string name="file_loading_priority">Datņu ielādes prioritāte</string>
     <string name="speed">Ātrums</string>
+    <string name="compromise">Kompromiss</string>
 </resources>
