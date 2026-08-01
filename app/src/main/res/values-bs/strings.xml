@@ -57,4 +57,5 @@
     <string name="manage_hidden_folders">Upravljaj skrivenim folderima</string>
     <string name="hidden_folders_placeholder">Izgleda da nemaš nijedan folder skriven datotekom „.nomedia”.</string>
     <string name="hidden_all_files">Moraš aplikaciji odobriti pristup svim datotekama da bi vidio skrivene datoteke, u suprotnom ovo ne može raditi.</string>
+    <string name="cant_unhide_folder">Ako folder ili neki od njegovih nadređenih foldera ima tačku ispred imena, on je skriven i ne može se otkriti na ovaj način. Moraš ukloniti tačku preimenovanjem.</string>
 </resources>
