@@ -182,4 +182,5 @@
     <string name="show_recycle_bin">Prikaži korpu za smeće na ekranu s folderima</string>
     <string name="deep_zoomable_images">Slike s dubokim uvećavanjem</string>
     <string name="show_highest_quality">Prikaži slike u najvišem mogućem kvalitetu</string>
+    <string name="show_recycle_bin_last">Prikaži korpu za smeće kao posljednju stavku na glavnom ekranu</string>
 </resources>
