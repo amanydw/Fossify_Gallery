@@ -191,4 +191,5 @@
     <string name="open_system_default_player">Otvori zadanu aplikaciju plejera</string>
     <string name="show_notch">Prikaži zarez ako je dostupan</string>
     <string name="allow_rotating_gestures">Dozvoli rotiranje slika pokretima</string>
+    <string name="file_loading_priority">Prioritet učitavanja datoteka</string>
 </resources>
