@@ -77,4 +77,5 @@
         <item quantity="few">Nije uspjela promjena veličine %d slike</item>
         <item quantity="other">Nije uspjela promjena veličine %d slika</item>
     </plurals>
+    <string name="images_resized_successfully">Veličina slika je uspješno promijenjena</string>
 </resources>
