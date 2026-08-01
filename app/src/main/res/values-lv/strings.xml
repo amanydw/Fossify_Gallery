@@ -48,4 +48,5 @@
     <string name="unlock_orientation">Atbloķēt orientāciju</string>
     <string name="change_orientation">Mainīt orientāciju</string>
     <string name="force_portrait">Piespiedu portreta orientācija</string>
+    <string name="force_landscape">Piespiedu ainavas orientācija</string>
 </resources>
