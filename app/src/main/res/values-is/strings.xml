@@ -70,4 +70,5 @@
     <string name="resize_multiple_images">Breyta stærð margra mynda</string>
     <string name="resize_factor">Stærðarstuðull</string>
     <string name="resize_factor_info">Breyta stærð mynda í uppgefið hlutfall, gildið verður að vera á bilinu 10 til 90.</string>
+    <string name="resize_factor_error">Sláðu inn tölu á bilinu 10 til 90</string>
 </resources>
