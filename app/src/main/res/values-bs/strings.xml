@@ -107,4 +107,5 @@
     <string name="flip">Preokreni</string>
     <string name="flip_horizontally">Preokreni vodoravno</string>
     <string name="flip_vertically">Preokreni uspravno</string>
+    <string name="free_aspect_ratio">Slobodno</string>
 </resources>
