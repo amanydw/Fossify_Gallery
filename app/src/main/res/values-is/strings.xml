@@ -5,4 +5,5 @@
     <string name="open_camera">Opna myndavél</string>
     <string name="images">Myndir</string>
     <string name="videos">Myndbönd</string>
+    <string name="hidden">(falið)</string>
 </resources>
