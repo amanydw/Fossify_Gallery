@@ -72,4 +72,9 @@
     <string name="resize_factor">Faktor promjene veličine</string>
     <string name="resize_factor_info">Promijeni veličinu slika na zadani postotak, vrijednost mora biti između 10 i 90.</string>
     <string name="resize_factor_error">Unesi broj između 10 i 90</string>
+    <plurals name="failed_to_resize_images">
+        <item quantity="one">Nije uspjela promjena veličine %d slike</item>
+        <item quantity="few">Nije uspjela promjena veličine %d slike</item>
+        <item quantity="other">Nije uspjela promjena veličine %d slika</item>
+    </plurals>
 </resources>
