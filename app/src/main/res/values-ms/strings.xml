@@ -92,4 +92,5 @@
     <string name="no_image_editor_found">Tiada penyunting imej ditemui</string>
     <string name="no_video_editor_found">Tiada penyunting video ditemui</string>
     <string name="unknown_file_location">Lokasi fail tidak diketahui</string>
+    <string name="overwrite_original">Tulis ganti yang asal</string>
 </resources>
