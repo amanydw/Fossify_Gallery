@@ -40,4 +40,5 @@
         <item quantity="other">Adakah anda pasti mahu memulihkan %d fail?</item>
     </plurals>
     <string name="full_storage_permission_required">Fossify Gallery memerlukan akses penuh untuk memaparkan semua foto dan video anda. Pergi ke Tetapan &gt; Kebenaran &gt; Foto dan video &gt; Benarkan semua.</string>
+    <string name="filter_media">Tapis media</string>
 </resources>
