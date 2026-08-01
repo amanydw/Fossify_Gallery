@@ -196,4 +196,5 @@
     <string name="folder_thumbnail_style">Gaya lakaran kenit folder</string>
     <string name="file_thumbnail_style">Gaya lakaran kenit fail</string>
     <string name="mark_favorite_items">Tandakan item kegemaran</string>
+    <string name="thumbnail_spacing">Jarak antara lakaran kenit</string>
 </resources>
