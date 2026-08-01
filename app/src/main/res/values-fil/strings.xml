@@ -119,4 +119,5 @@
     <string name="lock_screen">Lock screen</string>
     <string name="home_and_lock_screen">Home at lock screen</string>
     <string name="allow_changing_aspect_ratio">Payagan ang pagbabago ng aspect ratio</string>
+    <string name="slideshow">Slideshow</string>
 </resources>
