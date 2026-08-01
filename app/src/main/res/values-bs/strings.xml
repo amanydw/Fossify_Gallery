@@ -5,4 +5,5 @@
     <string name="open_camera">Otvori kameru</string>
     <string name="images">Slike</string>
     <string name="videos">Videozapisi</string>
+    <string name="hidden">(skriveno)</string>
 </resources>
