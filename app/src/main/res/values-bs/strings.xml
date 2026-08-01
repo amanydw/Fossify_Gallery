@@ -226,4 +226,5 @@
     <string name="bottom_actions">Donje radnje</string>
     <string name="manage_bottom_actions">Upravljaj vidljivim donjim radnjama</string>
     <string name="toggle_favorite">Uključi/isključi omiljeno</string>
+    <string name="toggle_file_visibility">Uključi/isključi vidljivost datoteke</string>
 </resources>
