@@ -206,7 +206,7 @@
     <string name="resize_multiple_images">שינוי גודל תמונות מרובות</string>
     <string name="resize_factor_error">יש להקליד מספר בין 10 ל־90</string>
     <plurals name="failed_to_resize_images">
-        <item quantity="one">נכשל שינוי גודל התמונה</item>
+        <item quantity="one">נכשל שינוי גודל של %d תמונה</item>
         <item quantity="two">נכשל שינוי הגודל של שתי תמונות</item>
         <item quantity="other">נכשל שינוי הגודל של %d תמונות</item>
     </plurals>
@@ -256,7 +256,7 @@
     <string name="resize_factor">שינוי מקדם הגודל</string>
     <string name="keep_screen_on_fullscreen_photos">השארת המסך דלוק בעת צפייה בתמונות במסך מלא</string>
     <plurals name="restore_confirmation">
-        <item quantity="one">לשחזר את הקובץ?</item>
+        <item quantity="one">האם אתה בטוח שברצונך לשחזר %d קובץ?</item>
         <item quantity="two">לשחזר שני קבצים?</item>
         <item quantity="other">לשחזר %d קבצים?</item>
     </plurals>
