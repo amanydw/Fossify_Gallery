@@ -92,4 +92,5 @@
     <string name="resize_factor_error">Ievadiet skaitli no 10 līdz 90</string>
     <string name="images_resized_successfully">Attēlu izmērs veiksmīgi mainīts</string>
     <string name="editor">Redaktors</string>
+    <string name="basic_editor">Vienkāršais redaktors</string>
 </resources>
