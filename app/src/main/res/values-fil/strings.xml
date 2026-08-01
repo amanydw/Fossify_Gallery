@@ -104,4 +104,5 @@
     <string name="draw">Gumuhit</string>
     <string name="flip">I-flip</string>
     <string name="flip_horizontally">I-flip nang pahalang</string>
+    <string name="flip_vertically">I-flip nang patayo</string>
 </resources>
