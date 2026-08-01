@@ -252,4 +252,5 @@
     <string name="faq_10_text">Da, slike možeš izrezati u uređivaču prevlačenjem uglova slike. Do uređivača možeš doći dugim pritiskom na sličicu slike i odabirom opcije Uredi ili odabirom opcije Uredi u prikazu preko cijelog ekrana.</string>
     <string name="faq_11_title">Mogu li nekako grupisati sličice medijskih datoteka?</string>
     <string name="faq_11_text">Naravno, samo koristi stavku menija „Grupiši po” u prikazu sličica. Datoteke možeš grupisati prema više kriterija, uključujući datum snimanja. Ako koristiš funkciju „Prikaži sadržaj svih foldera”, možeš ih grupisati i prema folderima.</string>
+    <string name="faq_12_title">Sortiranje prema datumu snimanja ne radi ispravno, kako to mogu popraviti?</string>
 </resources>
