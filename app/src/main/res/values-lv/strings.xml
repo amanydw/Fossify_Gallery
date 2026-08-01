@@ -170,4 +170,5 @@
     <string name="black_background_at_fullscreen">Melns fons multividei pilnekrānā</string>
     <string name="scroll_thumbnails_horizontally">Ritināt sīktēlus horizontāli</string>
     <string name="hide_system_ui_at_fullscreen">Automātiski slēpt sistēmas saskarni multividei pilnekrānā</string>
+    <string name="delete_empty_folders">Dzēst tukšās mapes pēc to satura dzēšanas</string>
 </resources>
