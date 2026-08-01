@@ -13,4 +13,5 @@
     <string name="show_all">Sýna innihald allra mappa</string>
     <string name="all_folders">Allar möppur</string>
     <string name="folder_view">Skipta yfir í möppusýn</string>
+    <string name="other_folder">Önnur mappa</string>
 </resources>
