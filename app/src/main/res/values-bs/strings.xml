@@ -263,4 +263,5 @@
     <string name="faq_16_title">Šta se desilo sa skrivanjem datoteka i foldera i zašto više ne vidim skrivene stavke?</string>
     <string name="faq_16_text">Počevši od Androida 11 više ne možeš skrivati niti otkrivati datoteke ili foldere, a zbog sistemskih ograničenja ne možeš ni vidjeti skrivene stavke u galerijama. Za to ćeš morati koristiti neki upravljač datoteka.</string>
     <string name="faq_16_text_extra">Ili možeš ovoj galeriji odobriti pristup svim datotekama u postavkama uređaja, što će nam omogućiti prikaz skrivenih stavki i općenito pouzdanije radnje s datotekama.</string>
+    <string name="faq_17_title">Zašto više ne mogu uključiti foldere koji nedostaju?</string>
 </resources>
