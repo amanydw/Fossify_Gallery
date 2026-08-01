@@ -143,4 +143,5 @@
     <string name="by_last_modified_daily">Posljednjoj izmjeni (dnevno)</string>
     <string name="by_last_modified_monthly">Posljednjoj izmjeni (mjesečno)</string>
     <string name="by_date_taken">Datumu snimanja</string>
+    <string name="by_date_taken_daily">Datumu snimanja (dnevno)</string>
 </resources>
