@@ -35,4 +35,5 @@
     <string name="unset_as_default_folder">Nyahtetapkan sebagai folder lalai</string>
     <string name="reorder_by_dragging">Susun semula folder dengan menyeretnya</string>
     <string name="reorder_by_dragging_pro">Susun semula folder dengan menyeretnya (Pro)</string>
+    <string name="restore_to_path">Memulihkan ke “%s”</string>
 </resources>
