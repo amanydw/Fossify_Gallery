@@ -5,4 +5,5 @@
     <string name="open_camera">Buka kamera</string>
     <string name="images">Imej</string>
     <string name="videos">Video</string>
+    <string name="hidden">(tersembunyi)</string>
 </resources>
