@@ -71,9 +71,7 @@
     <string name="resize_factor_error">请输入 10 到 90 之间的数字</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">调整 %d 张图像的大小失败</item>
-    
-        <item quantity="one">调整 %d 张图像的大小失败</item>
-</plurals>
+    </plurals>
     <string name="images_resized_successfully">调整图像大小成功</string>
     <string name="editor">编辑器</string>
     <string name="basic_editor">简易编辑器</string>
