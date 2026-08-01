@@ -53,4 +53,5 @@
     <string name="exclude_folder_description">Ovo će isključiti odabir zajedno s njegovim podfolderima samo iz Fossify Galerije. Isključenim folderima možeš upravljati u postavkama.</string>
     <string name="exclude_folder_parent">Isključiti nadređeni folder umjesto toga?</string>
     <string name="excluded_activity_placeholder">Isključivanjem foldera oni će, zajedno sa svojim podfolderima, biti skriveni samo u Fossify Galeriji, a i dalje će biti vidljivi u drugim aplikacijama.\n\nAko ih želiš sakriti i od drugih aplikacija, koristi funkciju Sakrij.</string>
+    <string name="hidden_folders">Skriveni folderi</string>
 </resources>
