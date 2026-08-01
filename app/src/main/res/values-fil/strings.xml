@@ -131,4 +131,5 @@
     <string name="no_animation">Wala</string>
     <string name="fade">Fade</string>
     <string name="slide">Slide</string>
+    <string name="slideshow_ended">Natapos na ang slideshow</string>
 </resources>
