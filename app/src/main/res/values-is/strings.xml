@@ -67,4 +67,5 @@
     <string name="height">Hæð</string>
     <string name="keep_aspect_ratio">Halda stærðarhlutföllum</string>
     <string name="invalid_values">Sláðu inn gilda upplausn</string>
+    <string name="resize_multiple_images">Breyta stærð margra mynda</string>
 </resources>
