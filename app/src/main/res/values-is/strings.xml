@@ -18,4 +18,5 @@
     <string name="unknown_location">Óþekkt staðsetning</string>
     <string name="volume">Hljóðstyrkur</string>
     <string name="brightness">Birtustig</string>
+    <string name="lock_orientation">Læsa stefnu skjás</string>
 </resources>
