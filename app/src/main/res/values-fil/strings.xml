@@ -62,4 +62,5 @@
     <string name="add_folder">Magdagdag ng folder</string>
     <string name="included_activity_placeholder">Kung mayroon kang mga folder na naglalaman ng media ngunit hindi nakilala ng app, maaari mong idagdag ang mga ito nang manu-mano dito.\n\nAng pagdaragdag ng mga item dito ay hindi magbubukod ng anumang ibang folder.</string>
     <string name="no_media_add_included">Walang natagpuang media file. Malulutas mo ito sa pamamagitan ng manu-manong pagdaragdag ng mga folder na naglalaman ng mga media file.</string>
+    <string name="resize_and_save">Baguhin ang laki ng napili at i-save</string>
 </resources>
