@@ -45,4 +45,5 @@
     <string name="filter_media">Filtriraj medije</string>
     <string name="gifs">GIF-ovi</string>
     <string name="raw_images">RAW slike</string>
+    <string name="svgs">SVG-ovi</string>
 </resources>
