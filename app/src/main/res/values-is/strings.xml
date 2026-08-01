@@ -187,4 +187,5 @@
     <string name="on_video_tap">Þegar smellt er á myndband</string>
     <string name="open_in_app_player">Opna spilarann í forritinu</string>
     <string name="open_system_default_player">Opna sjálfgefið spilunarforrit</string>
+    <string name="show_notch">Sýna skarð ef það er til staðar</string>
 </resources>
