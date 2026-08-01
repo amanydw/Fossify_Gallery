@@ -44,4 +44,5 @@
     <string name="filter_media">I-filter ang media</string>
     <string name="gifs">Mga GIF</string>
     <string name="raw_images">Mga RAW na imahe</string>
+    <string name="svgs">Mga SVG</string>
 </resources>
