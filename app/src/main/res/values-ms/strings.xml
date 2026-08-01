@@ -79,4 +79,5 @@
     <string name="advanced_editor">Penyunting lanjutan</string>
     <string name="rotate">Putar</string>
     <string name="invalid_image_path">Laluan imej tidak sah</string>
+    <string name="invalid_video_path">Laluan video tidak sah</string>
 </resources>
