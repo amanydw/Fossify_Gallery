@@ -7,4 +7,5 @@
     <string name="videos">Video</string>
     <string name="hidden">(tersembunyi)</string>
     <string name="excluded">(dikecualikan)</string>
+    <string name="pin_folder">Sematkan folder</string>
 </resources>
