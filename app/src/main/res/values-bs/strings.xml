@@ -109,4 +109,5 @@
     <string name="flip_vertically">Preokreni uspravno</string>
     <string name="free_aspect_ratio">Slobodno</string>
     <string name="other_aspect_ratio">Ostalo</string>
+    <string name="wallpaper">Pozadina</string>
 </resources>
