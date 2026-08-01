@@ -44,4 +44,5 @@
     <string name="filter_media">Sía margmiðlunarefni</string>
     <string name="gifs">GIF-myndir</string>
     <string name="raw_images">RAW-myndir</string>
+    <string name="svgs">SVG-myndir</string>
 </resources>
