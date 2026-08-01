@@ -217,4 +217,5 @@
     <string name="media_only">Eingöngu margmiðlunarefni</string>
     <string name="all_files">Allar skrár</string>
     <string name="search_all_files">Leita í öllum skrám í stað mappa á aðalskjánum</string>
+    <string name="show_all_folders">Sýna valmyndarhnapp til að kveikja og slökkva fljótt á „Sýna innihald allra mappa“</string>
 </resources>
