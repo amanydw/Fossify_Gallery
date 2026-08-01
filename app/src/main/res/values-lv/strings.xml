@@ -181,4 +181,5 @@
     <string name="allow_instant_change">Atļaut nekavējoties mainīt multividi, pieskaroties ekrāna malām</string>
     <string name="allow_deep_zooming_images">Atļaut attēlu dziļo tālummaiņu</string>
     <string name="hide_extended_details">Slēpt paplašināto informāciju, kad statusa josla ir paslēpta</string>
+    <string name="show_at_bottom">Rādīt dažas darbību pogas ekrāna apakšdaļā</string>
 </resources>
