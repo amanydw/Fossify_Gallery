@@ -7,4 +7,5 @@
     <string name="videos">Myndbönd</string>
     <string name="hidden">(falið)</string>
     <string name="excluded">(útilokað)</string>
+    <string name="pin_folder">Festa möppu</string>
 </resources>
