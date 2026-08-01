@@ -1,4 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_launcher_name">Галерија</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">Дали сте сигурни дека сакате да вратите %d датотека?</item>
+        <item quantity="other">Дали сте сигурни дека сакате да вратите %d датотеки?</item>
+    </plurals>
+    <string name="edit">Уреди</string>
+    <string name="open_camera">Отвори камера</string>
+    <string name="hidden">(скриено)</string>
+    <string name="excluded">(исклучено)</string>
+    <string name="pin_folder">Закачи папка</string>
+    <string name="unpin_folder">Откачи папка</string>
+    <string name="pin_to_the_top">Закачи на врвот</string>
+    <string name="show_all">Прикажи ја содржината на сите папки</string>
+    <string name="all_folders">Сите папки</string>
+    <string name="folder_view">Префрли се на приказ на папки</string>
+    <string name="other_folder">Друга папка</string>
+    <string name="show_on_map">Прикажи на мапа</string>
+    <string name="unknown_location">Непозната локација</string>
+    <string name="volume">Јачина на звук</string>
+    <string name="brightness">Осветленост</string>
+    <string name="lock_orientation">Заклучи ориентација</string>
+    <string name="unlock_orientation">Отклучи ориентација</string>
+    <string name="change_orientation">Промени ориентација</string>
+    <string name="force_portrait">Принуди портрет</string>
+    <string name="force_landscape">Принуди пејзаж</string>
+    <string name="force_landscape_reverse">Принуди пејзаж (обратно)</string>
+    <string name="use_default_orientation">Користи стандардна ориентација</string>
+    <string name="fix_date_taken">Поправи ја вредноста Date Taken</string>
+    <string name="fixing">Се поправа…</string>
+    <string name="dates_fixed_successfully">Датумите се успешно поправени</string>
+    <string name="no_date_takens_found">Не се пронајдени вредности Date Taken</string>
+    <string name="share_resized">Сподели верзија со изменета големина</string>
+    <string name="switch_to_file_search">Префрли се на пребарување на датотеки низ сите видливи папки</string>
+    <string name="set_as_default_folder">Постави како стандардна папка</string>
+    <string name="unset_as_default_folder">Одстрани како стандардна папка</string>
+    <string name="reorder_by_dragging">Преуреди ги папките со влечење</string>
+    <string name="reorder_by_dragging_pro">Преуреди ги папките со влечење (Pro)</string>
+    <string name="restore_to_path">Се враќа во \'%s\'</string>
+    <string name="full_storage_permission_required">На Fossify Gallery му треба целосен пристап за да ги прикаже сите ваши фотографии и видеа. Одете во Поставки > Дозволи > Фотографии и видеа > Дозволи се.</string>
+    <string name="filter_media">Филтрирај медиум</string>
+    <string name="images">Слики</string>
+    <string name="videos">Видеа</string>
+    <string name="gifs">GIF-ови</string>
+    <string name="raw_images">RAW слики</string>
+    <string name="svgs">SVG-ови</string>
+    <string name="portraits">Портрети</string>
+    <string name="no_media_with_filters">Не се пронајдени медиумски датотеки со избраните филтри.</string>
+    <string name="change_filters_underlined"></string>
 </resources>
