@@ -151,4 +151,5 @@
     <string name="grouping_and_sorting">Imaj na umu da su grupisanje i sortiranje dva nezavisna polja</string>
     <string name="folder_on_widget">Folder prikazan na vidžetu:</string>
     <string name="show_folder_name">Prikaži ime foldera</string>
+    <string name="autoplay_videos">Automatski pokreni videozapise</string>
 </resources>
