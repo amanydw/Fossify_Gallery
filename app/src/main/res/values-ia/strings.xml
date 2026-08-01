@@ -13,4 +13,9 @@
     <string name="show_all">Monstrar le contento de tote le dossieres</string>
     <string name="images">Imagines</string>
     <string name="videos">Videos</string>
+    <string name="excluded">(excludite)</string>
+    <string name="pin_folder">Fixar dossier</string>
+    <string name="unpin_folder">Disfixar dossier</string>
+    <string name="pin_to_the_top">Fixar al summitate</string>
+    <string name="folder_view">Cambiar al vista de dossier</string>
 </resources>
