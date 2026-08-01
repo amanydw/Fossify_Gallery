@@ -232,4 +232,5 @@
     <string name="video_no_sound">Walang audio ang video na ito</string>
     <string name="faq_1_title">Paano ko magagawang default na gallery ng device ang Fossify Gallery?</string>
     <string name="faq_1_text">Una, kailangan mong hanapin ang kasalukuyang default na gallery sa seksyong Mga App ng mga setting ng iyong device, hanapin ang button na may nakasulat na tulad ng “Buksan bilang default”, i-tap ito, pagkatapos ay piliin ang “I-clear ang mga default”. Sa susunod na pagbukas mo ng imahe o video, makikita mo ang app picker, kung saan maaari mong piliin ang Fossify Gallery at gawin itong default na app.</string>
+    <string name="faq_2_title">Ni-lock ko ang app gamit ang password, ngunit nakalimutan ko ito. Ano ang magagawa ko?</string>
 </resources>
