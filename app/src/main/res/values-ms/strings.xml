@@ -185,4 +185,5 @@
     <string name="on_video_tap">Apabila video diketik</string>
     <string name="open_in_app_player">Buka pemain dalam aplikasi</string>
     <string name="open_system_default_player">Buka aplikasi pemain lalai</string>
+    <string name="show_notch">Tunjukkan takuk jika tersedia</string>
 </resources>
