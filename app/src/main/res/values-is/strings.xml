@@ -227,4 +227,5 @@
     <string name="toggle_file_visibility">Víxla sýnileika skrár</string>
     <string name="failed_to_load_media">Mistókst að hlaða inn margmiðlunarefni.</string>
     <string name="file_is_malformed_or_corrupted">Skráin er gölluð eða skemmd.</string>
+    <string name="media_exceeds_device_capabilities">Efnið er umfram getu tækisins.</string>
 </resources>
