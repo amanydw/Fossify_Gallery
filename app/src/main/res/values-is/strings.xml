@@ -205,4 +205,5 @@
     <string name="limit_folder_title">Takmarka löng möppuheiti við eina línu</string>
     <string name="square">Ferningur</string>
     <string name="rounded_corners">Ávöl horn</string>
+    <string name="export_favorite_paths">Flytja út eftirlæti</string>
 </resources>
