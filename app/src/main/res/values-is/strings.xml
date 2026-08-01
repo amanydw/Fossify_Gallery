@@ -71,4 +71,8 @@
     <string name="resize_factor">Stærðarstuðull</string>
     <string name="resize_factor_info">Breyta stærð mynda í uppgefið hlutfall, gildið verður að vera á bilinu 10 til 90.</string>
     <string name="resize_factor_error">Sláðu inn tölu á bilinu 10 til 90</string>
+    <plurals name="failed_to_resize_images">
+        <item quantity="one">Mistókst að breyta stærð %d myndar</item>
+        <item quantity="other">Mistókst að breyta stærð %d mynda</item>
+    </plurals>
 </resources>
