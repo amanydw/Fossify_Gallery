@@ -22,4 +22,5 @@
     <string name="unlock_orientation">Aflæsa stefnu skjás</string>
     <string name="change_orientation">Breyta stefnu skjás</string>
     <string name="force_portrait">Þvinga lóðrétt snið</string>
+    <string name="force_landscape">Þvinga lárétt snið</string>
 </resources>
