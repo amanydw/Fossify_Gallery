@@ -110,4 +110,5 @@
     <string name="wallpaper">Veggfóður</string>
     <string name="set_as_wallpaper">Setja sem veggfóður</string>
     <string name="set_as_wallpaper_failed">Mistókst að setja sem veggfóður</string>
+    <string name="set_as_wallpaper_with">Setja sem veggfóður með:</string>
 </resources>
