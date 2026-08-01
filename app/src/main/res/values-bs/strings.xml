@@ -200,4 +200,5 @@
     <string name="folder_thumbnail_style">Stil sličica foldera</string>
     <string name="file_thumbnail_style">Stil sličica datoteka</string>
     <string name="mark_favorite_items">Označi omiljene stavke</string>
+    <string name="thumbnail_spacing">Razmak između sličica</string>
 </resources>
