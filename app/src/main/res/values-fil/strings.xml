@@ -132,4 +132,5 @@
     <string name="fade">Fade</string>
     <string name="slide">Slide</string>
     <string name="slideshow_ended">Natapos na ang slideshow</string>
+    <string name="no_media_for_slideshow">Walang natagpuang media para sa slideshow</string>
 </resources>
