@@ -60,4 +60,5 @@
     <string name="include_folders">Mga isinamang folder</string>
     <string name="manage_included_folders">Pamahalaan ang mga isinamang folder</string>
     <string name="add_folder">Magdagdag ng folder</string>
+    <string name="included_activity_placeholder">Kung mayroon kang mga folder na naglalaman ng media ngunit hindi nakilala ng app, maaari mong idagdag ang mga ito nang manu-mano dito.\n\nAng pagdaragdag ng mga item dito ay hindi magbubukod ng anumang ibang folder.</string>
 </resources>
