@@ -150,4 +150,5 @@
     <string name="show_file_count_section_header">Prikaži broj datoteka u zaglavljima odjeljaka</string>
     <string name="grouping_and_sorting">Imaj na umu da su grupisanje i sortiranje dva nezavisna polja</string>
     <string name="folder_on_widget">Folder prikazan na vidžetu:</string>
+    <string name="show_folder_name">Prikaži ime foldera</string>
 </resources>
