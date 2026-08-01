@@ -218,4 +218,5 @@
     <string name="all_files">Lahat ng file</string>
     <string name="search_all_files">Hanapin ang lahat ng file sa halip na mga folder sa pangunahing screen</string>
     <string name="show_all_folders">Magpakita ng menu button para mabilis na i-toggle ang Ipakita ang Nilalaman ng Lahat ng Folder</string>
+    <string name="thumbnails">Mga thumbnail</string>
 </resources>
