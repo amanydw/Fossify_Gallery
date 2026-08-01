@@ -261,4 +261,5 @@
     <string name="faq_16_title">Hvað varð um felun skráa og mappa og af hverju sé ég ekki lengur falin atriði?</string>
     <string name="faq_16_text">Frá og með Android 11 geturðu hvorki falið skrár eða möppur né birt þær aftur, og vegna takmarkana kerfisins geturðu ekki heldur séð faldar skrár í galleríforritum. Þú þarft að nota einhvern skráastjóra til þess.</string>
     <string name="faq_16_text_extra">Eða þú getur veitt þessu gallerí aðgang að öllum skrám í stillingum tækisins, sem gerir okkur kleift að sýna falin atriði og gerir skráaraðgerðir almennt áreiðanlegri.</string>
+    <string name="faq_17_title">Af hverju get ég ekki lengur bætt við möppum sem vantar?</string>
 </resources>
