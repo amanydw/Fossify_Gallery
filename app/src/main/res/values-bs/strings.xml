@@ -203,4 +203,5 @@
     <string name="thumbnail_spacing">Razmak između sličica</string>
     <string name="show_file_count_line">Prikaži broj datoteka u zasebnom redu</string>
     <string name="show_file_count_brackets">Prikaži broj datoteka u zagradama</string>
+    <string name="show_file_count_none">Ne prikazuj broj datoteka</string>
 </resources>
