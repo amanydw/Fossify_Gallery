@@ -255,9 +255,7 @@
     <string name="exclude_folder_description">"Αυτό θα εξαιρέσει  τον επιλεγμένο φάκελο  μαζί με τους υποφακέλους του μόνο από το Fossify Gallery. Μπορείτε να διαχειριστείτε τους εξαιρεμένους φακέλους στις Ρυθμίσεις."</string>
     <string name="force_landscape_reverse">Εξαναγκασμός οριζόντιας προβολής (αντίστροφα)</string>
     <string name="full_storage_permission_required">Η Fossify Gallery χρειάζεται πλήρη πρόσβαση για να εμφανίσει όλες τις φωτογραφίες και τα βίντεό σας. Μεταβείτε στις Ρυθμίσεις > Δικαιώματα > Φωτογραφίες και βίντεο > Να επιτρέπεται.</string>
-    <string name="excluded_activity_placeholder">Η εξαίρεση φακέλων θα τους κρύψει μαζί με τους υποφακέλους τους μόνο στη Fossify Gallery· θα εξακολουθούν να είναι ορατοί σε άλλες εφαρμογές.
-
-Αν θέλετε να τους κρύψετε και από άλλες εφαρμογές, χρησιμοποιήστε τη λειτουργία Απόκρυψης.</string>
+    <string name="excluded_activity_placeholder">Η εξαίρεση φακέλων θα τους κρύψει μαζί με τους υποφακέλους τους μόνο στη Fossify Gallery· θα εξακολουθούν να είναι ορατοί σε άλλες εφαρμογές.\n\nΑν θέλετε να τους κρύψετε και από άλλες εφαρμογές, χρησιμοποιήστε τη λειτουργία Απόκρυψης.</string>
     <string name="overwrite_original">Αντικατάσταση του πρωτοτύπου</string>
     <string name="wallpaper">Ταπετσαρία</string>
     <string name="render_ultra_hdr_photos">Εμφάνιση φωτογραφιών Ultra HDR σε HDR</string>
