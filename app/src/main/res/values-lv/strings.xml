@@ -203,4 +203,5 @@
     <string name="folder_thumbnail_style">Mapju sīktēlu stils</string>
     <string name="file_thumbnail_style">Datņu sīktēlu stils</string>
     <string name="mark_favorite_items">Atzīmēt izlases vienumus</string>
+    <string name="thumbnail_spacing">Atstarpes starp sīktēliem</string>
 </resources>
