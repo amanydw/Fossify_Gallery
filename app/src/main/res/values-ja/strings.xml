@@ -51,7 +51,7 @@
     <string name="include_folders">追加フォルダー</string>
     <string name="manage_included_folders">追加フォルダーの管理</string>
     <string name="add_folder">フォルダーを追加</string>
-    <string name="included_activity_placeholder">メディア入りのフォルダーがアプリで認識されない場合は手動で追加します。</string>
+    <string name="included_activity_placeholder">メディアが入っているのにアプリで認識されなかったフォルダーがある場合は、ここで手動で追加できます。\n\nここに項目を追加しても、他のフォルダーが除外されることはありません。</string>
     <string name="no_media_add_included">メディアファイルが見つかりません。メディアファイルを手動で追加することにより解決できます。</string>
     <string name="resize_and_save">選択領域をリサイズして保存</string>
     <string name="width">幅</string>
