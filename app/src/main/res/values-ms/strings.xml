@@ -44,4 +44,5 @@
     <string name="gifs">GIF</string>
     <string name="raw_images">Imej RAW</string>
     <string name="svgs">SVG</string>
+    <string name="portraits">Potret</string>
 </resources>
