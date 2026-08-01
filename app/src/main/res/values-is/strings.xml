@@ -162,4 +162,5 @@
     <string name="screen_rotation_device_rotation">Snúningi tækisins</string>
     <string name="screen_rotation_aspect_ratio">Stærðarhlutföllum</string>
     <string name="black_background_at_fullscreen">Svartur bakgrunnur þegar margmiðlunarefni fyllir skjáinn</string>
+    <string name="scroll_thumbnails_horizontally">Skruna smámyndir lárétt</string>
 </resources>
