@@ -129,4 +129,5 @@
     <string name="loop_slideshow">Endurtaka skyggnusýningu</string>
     <string name="animation">Hreyfing</string>
     <string name="no_animation">Engin</string>
+    <string name="fade">Deyfing</string>
 </resources>
