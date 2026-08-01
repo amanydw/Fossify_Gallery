@@ -33,4 +33,5 @@
     <string name="switch_to_file_search">Skipta yfir í leit að skrám í öllum sýnilegum möppum</string>
     <string name="set_as_default_folder">Setja sem sjálfgefna möppu</string>
     <string name="unset_as_default_folder">Hætta að nota sem sjálfgefna möppu</string>
+    <string name="reorder_by_dragging">Endurraða möppum með því að draga þær</string>
 </resources>
