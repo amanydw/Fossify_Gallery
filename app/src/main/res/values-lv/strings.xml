@@ -233,4 +233,5 @@
     <string name="failed_to_load_media">Neizdevās ielādēt multividi.</string>
     <string name="file_is_malformed_or_corrupted">Datne ir kļūdaina vai bojāta.</string>
     <string name="media_exceeds_device_capabilities">Multivide pārsniedz ierīces iespējas.</string>
+    <string name="unsupported_format">Neatbalstīts formāts.</string>
 </resources>
