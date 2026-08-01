@@ -262,4 +262,9 @@
     <string name="keep_screen_on_fullscreen_photos">Manter a pantalla acesa mentras ves fotos a pantalla completa</string>
     <string name="force_landscape_reverse">Forzar modo paisaxe (inverso)</string>
     <string name="overwrite_original">Sobrescribir orixinal</string>
+    <string name="render_ultra_hdr_photos">Mostrar fotos Ultra HDR en HDR</string>
+    <string name="on_video_tap">Ao tocar no vídeo</string>
+    <string name="open_in_app_player">Abrir o reprodutor da aplicación</string>
+    <string name="open_system_default_player">Abrir o reprodutor predeterminado</string>
+    <string name="video_no_sound">Este vídeo non ten son</string>
 </resources>
