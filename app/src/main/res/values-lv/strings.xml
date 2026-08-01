@@ -231,4 +231,5 @@
     <string name="toggle_favorite">Pārslēgt izlasi</string>
     <string name="toggle_file_visibility">Pārslēgt datnes redzamību</string>
     <string name="failed_to_load_media">Neizdevās ielādēt multividi.</string>
+    <string name="file_is_malformed_or_corrupted">Datne ir kļūdaina vai bojāta.</string>
 </resources>
