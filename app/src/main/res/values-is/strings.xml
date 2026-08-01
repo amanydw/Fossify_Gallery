@@ -264,4 +264,5 @@
     <string name="faq_17_title">Af hverju get ég ekki lengur bætt við möppum sem vantar?</string>
     <string name="faq_17_text">Það hætti einnig að virka vegna kerfisbreytinganna sem komu með Android 11, forritið getur ekki lengur flett í gegnum raunverulegar möppur heldur reiðir sig á svokallað MediaStore til að sækja gögn.</string>
     <string name="faq_18_title">Af hverju sé ég auglýsingar meðan myndband er spilað?</string>
+    <string name="faq_18_text">Forritin okkar innihalda alls engar auglýsingar. Ef þú sérð þær meðan myndband er spilað hlýtur þú að vera að nota myndbandsspilara úr einhverju öðru forriti. Reyndu að finna sjálfgefna myndbandsspilarann þinn í stillingum tækisins og veldu „Hreinsa sjálfgefnar stillingar“ á honum. Næst þegar þú opnar myndband færðu forritaval þar sem þú getur valið hvaða forrit þú vilt nota.</string>
 </resources>
