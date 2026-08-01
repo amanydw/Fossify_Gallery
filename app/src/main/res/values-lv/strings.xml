@@ -140,4 +140,5 @@
     <string name="no_animation">Nav</string>
     <string name="fade">Izgaišana</string>
     <string name="slide">Slīdēšana</string>
+    <string name="slideshow_ended">Slaidrāde beidzās</string>
 </resources>
