@@ -178,4 +178,5 @@
     <string name="hide_extended_details">Fela ítarlegar upplýsingar þegar stöðustikan er falin</string>
     <string name="show_at_bottom">Sýna suma aðgerðahnappa neðst á skjánum</string>
     <string name="show_recycle_bin">Sýna ruslafötuna á möppuskjánum</string>
+    <string name="deep_zoomable_images">Myndir með miklum aðdrætti</string>
 </resources>
