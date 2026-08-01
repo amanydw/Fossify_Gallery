@@ -168,4 +168,5 @@
     <string name="keep_screen_on_fullscreen_photos">Halda skjánum kveiktum meðan ljósmyndir eru skoðaðar á öllum skjánum</string>
     <string name="allow_photo_gestures">Leyfa stjórnun á birtustigi ljósmynda með lóðréttum bendingum</string>
     <string name="allow_video_gestures">Leyfa stjórnun á hljóðstyrk og birtustigi myndbanda með lóðréttum bendingum</string>
+    <string name="playback_speed">Spilunarhraði</string>
 </resources>
