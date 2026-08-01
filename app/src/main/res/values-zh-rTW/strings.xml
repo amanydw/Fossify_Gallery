@@ -65,7 +65,9 @@
     <string name="resize_factor_error">請輸入 10 到 90 之間的數值</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">%d 張圖片尺寸調整失敗</item>
-    </plurals>
+    
+        <item quantity="one">%d 張圖片尺寸調整失敗</item>
+</plurals>
     <string name="images_resized_successfully">圖片尺寸調整成功</string>
     <string name="editor">編輯工具</string>
     <string name="basic_editor">基礎編輯工具</string>
@@ -257,7 +259,9 @@
     <string name="keep_screen_on_fullscreen_photos">檢視全螢幕照片時維持螢幕開啟</string>
     <plurals name="restore_confirmation">
         <item quantity="other">您確定要還原 %d 個檔案嗎？</item>
-    </plurals>
+    
+        <item quantity="one">您確定要還原 %d 個檔案嗎？</item>
+</plurals>
     <string name="force_landscape_reverse">強制橫向（反轉）</string>
     <string name="overwrite_original">覆寫原始內容</string>
     <string name="video_no_sound">此影片沒有音訊</string>

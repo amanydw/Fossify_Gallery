@@ -240,4 +240,31 @@
     <string name="excluded_activity_placeholder">Excluderea dosarelor se va face împreună cu sub-dosarele lor ascunse doar în Fossify Gallery, ele vor fi în continuare vizibile în alte aplicații.\n\nDacă dorești să le ascunzi și de alte aplicații, utilizează funcția Ascundere.</string>
     <string name="cant_unhide_folder">Dacă un dosar sau unul dintre dosarele părinte are un punct înaintea numelui său, acesta este ascuns și nu poate fi dezvăluit astfel. Trebuie să elimini punctul redenumindu-l.</string>
     <string name="full_storage_permission_required">Fossify Gallery are nevoie de acces complet pentru a fișa toate fotografiile și videoclipurile. Accesează Setări &gt; Permisiuni &gt; Fotografii și videoclipuri &gt; Permite toate.</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">Sigur doriţi să restauraţi %d fişier?</item>
+        <item quantity="other">Sigur doriţi să restauraţi %d fişiere?</item>
+    </plurals>
+    <plurals name="failed_to_resize_images">
+        <item quantity="one">Nu s-a reuşit redimensionarea %d imagine</item>
+        <item quantity="other">Nu s-a reuşit redimensionarea %d imagini</item>
+    </plurals>
+    <string name="force_landscape_reverse">Forţează modul peisaj (inversat)</string>
+    <string name="overwrite_original">Suprascrie originalul</string>
+    <string name="fade">Estompare</string>
+    <string name="render_ultra_hdr_photos">Afişează fotografiile Ultra HDR în HDR</string>
+    <string name="keep_screen_on_fullscreen_photos">Păstrează ecranul pornit când vizualizezi fotografii pe tot ecranul</string>
+    <string name="playback_speed">Viteză de redare</string>
+    <string name="on_video_tap">La atingerea videoclipului</string>
+    <string name="open_in_app_player">Deschide playerul din aplicaţie</string>
+    <string name="open_system_default_player">Deschide aplicaţia de redare implicită</string>
+    <string name="alternative_media_access">Alternativ, puteţi permite accesul doar la fişierele media. În acest caz, nu veţi putea lucra cu fişierele ascunse.</string>
+    <string name="show_all_folders">Afişează un buton de meniu pentru comutarea rapidă a afişării conţinutului tuturor folderelor</string>
+    <string name="failed_to_load_media">Nu s-a putut încărca media.</string>
+    <string name="file_is_malformed_or_corrupted">Fişierul este malformat sau corupt.</string>
+    <string name="media_exceeds_device_capabilities">Media depăşeşte capacităţile dispozitivului.</string>
+    <string name="unsupported_format">Format neacceptat.</string>
+    <string name="video_no_sound">Acest videoclip nu are sunet</string>
+    <string name="faq_1_text">Mai întâi, găsiţi galeria implicită actuală în secţiunea „Aplicaţii” din setările dispozitivului, căutaţi un buton care spune ceva de genul „Deschide implicit”, faceţi clic pe el, apoi selectaţi „Şterge valorile implicite”. Data viitoare când încercaţi să deschideţi o imagine sau un videoclip, ar trebui să vedeţi un selector de aplicaţii, unde puteţi selecta Fossify Gallery şi să o setaţi ca aplicaţie implicită.</string>
+    <string name="faq_5_text">Excluderea împiedică afişarea folderului doar în Fossify Gallery, în timp ce Ascunderea funcţionează la nivel de sistem şi ascunde folderul şi de alte galerii. Funcţionează prin crearea unui fişier „.nomedia” gol în folderul respectiv, pe care îl puteţi elimina cu orice manager de fişiere. Reţineţi că unele dispozitive nu permit ascunderea folderelor precum Camera, Capturi de ecran şi Descărcări.</string>
+    <string name="faq_16_text_extra">Sau puteţi acorda acestei galerii acces la Toate fişierele prin setările dispozitivului, ceea ce ne va permite să afişăm elementele ascunse şi să facem operaţiunile cu fişiere mai fiabile în general.</string>
 </resources>

@@ -63,7 +63,9 @@
     <string name="resize_factor_error">Nhập một số từ 10 đến 90</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">Thay đổi kích thước %d ảnh thất bại</item>
-    </plurals>
+    
+        <item quantity="one">Thay đổi kích thước %d ảnh thất bại</item>
+</plurals>
     <string name="images_resized_successfully">Thay đổi kích thước hình ảnh thành công</string>
     <string name="editor">Trình chỉnh sửa</string>
     <string name="basic_editor">Trình chỉnh sửa cơ bản</string>
@@ -233,7 +235,9 @@
     <string name="excluded_activity_placeholder">Việc bỏ qua các thư mục sẽ khiến chúng cùng với các thư mục con bị ẩn trong Fossify Gallery, nhưng vẫn sẽ hiển thị trong các ứng dụng khác.\n\nNếu bạn muốn ẩn chúng khỏi các ứng dụng khác nữa, hãy sử dụng chức năng Ẩn (Hide).</string>
     <plurals name="restore_confirmation">
         <item quantity="other">Bạn có chắc muốn khôi phục %d tệp?</item>
-    </plurals>
+    
+        <item quantity="one">Bạn có chắc muốn khôi phục %d tệp?</item>
+</plurals>
     <string name="svgs">Ảnh SVG</string>
     <string name="exclude_folder_description">Bỏ qua những thư mục đã chọn cùng với các thư mục con của chúng trong Fossify Gallery. Bạn có thể quản lý thư mục đã bỏ qua trong phần Cài đặt.</string>
     <string name="cant_unhide_folder">Nếu một thư mục hoặc một trong các thư mục mẹ của nó có dấu chấm ở đầu tên, thì nó sẽ bị ẩn và không thể hiện lại bằng cách này. Bạn cần đổi tên để xóa dấu chấm đi.</string>

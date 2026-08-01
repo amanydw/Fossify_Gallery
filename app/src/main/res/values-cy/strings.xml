@@ -177,4 +177,97 @@
     <string name="allow_down_gesture">Caniatáu cau\'r olyg sgrin lawn gydag ystum i lawr</string>
     <string name="avoid_showing_invalid_files">Osgoi dangos ffeiliau annilys</string>
     <string name="show_file_count_line">Dangos nifer y ffeiliau ar ei linell ei hunan</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">Ydych chi\'n siŵr eich bod am adfer %d ffeil?</item>
+        <item quantity="other">Ydych chi\'n siŵr eich bod am adfer %d ffeil?</item>
+    </plurals>
+    <plurals name="failed_to_resize_images">
+        <item quantity="one">Methwyd ail-newid maint %d delwedd</item>
+        <item quantity="other">Methwyd ail-newid maint %d delwedd</item>
+    </plurals>
+    <string name="force_landscape_reverse">Gorfodi tirwedd (gwrthdro)</string>
+    <string name="reorder_by_dragging_pro">Ail-drefnu ffolderi trwy lusgo (Pro)</string>
+    <string name="full_storage_permission_required">Mae angen mynediad llawn ar Fossify Gallery i ddangos eich holl luniau a fideos. Ewch i Gosodiadau > Caniatadau > Lluniau a fideos > Caniatáu popeth.</string>
+    <string name="hide_folder_description">Mae\'r swyddogaeth hon yn cuddio\'r ffolder trwy ychwanegu ffeil \'.nomedia\' ynddo, bydd hefyd yn cuddio\'r holl is-ffolderi. Gallwch eu gweld trwy droi\'r opsiwn \'Dangos eitemau cudd\' ymlaen yn Gosodiadau. Parhau?</string>
+    <string name="exclude_folder_description">Bydd hyn yn eithrio\'r detholiad gyda\'i is-ffolderi yn unig o Fossify Gallery. Gallwch reoli ffolderi wedi\'u heithrio yn Gosodiadau.</string>
+    <string name="excluded_activity_placeholder">Bydd eithrio ffolderi yn eu cuddio gyda\'u his-ffolderi dim ond yn Fossify Gallery, byddant yn dal i fod yn weladwy mewn ceisiadau eraill.
+
+Os ydych am eu cuddio rhag ceisiadau eraill hefyd, defnyddiwch y swyddogaeth Cuddio.</string>
+    <string name="hidden_folders_placeholder">Mae\'n ymddangos nad oes gennych unrhyw ffolderi wedi\'u cuddio gyda ffeil \".nomedia\".</string>
+    <string name="hidden_all_files">Mae\'n rhaid i chi roi mynediad Pob Ffeil i\'r ap i weld ffeiliau cudd, fel arall ni all weithio.</string>
+    <string name="cant_unhide_folder">Os oes dot o flaen enw ffolder neu un o\'i riant-ffolderi, mae wedi\'i guddio ac ni ellir ei ddangos fel hyn. Rhaid i chi gael gwared ar y dot trwy ei ailenwi.</string>
+    <string name="included_activity_placeholder">Os oes gennych rai ffolderi sy\'n cynnwys cyfryngau, ond heb eu hadnabod gan yr ap, gallwch eu hychwanegu â llaw yma.
+
+Ni fydd ychwanegu rhai eitemau yma yn eithrio unrhyw ffolder arall.</string>
+    <string name="no_media_add_included">Ni ddaethpwyd o hyd i unrhyw ffeiliau cyfryngau. Gallwch ddatrys hyn trwy ychwanegu\'r ffolderi sy\'n cynnwys ffeiliau cyfryngau â llaw.</string>
+    <string name="invalid_values">Rhowch gydraniad dilys</string>
+    <string name="resize_factor_error">Rhowch rif rhwng 10 a 90</string>
+    <string name="overwrite_original">Gorysgrifennu\'r gwreiddiol</string>
+    <string name="error_saving_file">Ni ellid gorysgrifennu\'r ffeil ffynhonnell</string>
+    <string name="no_media_for_slideshow">Ni ddaethpwyd o hyd i unrhyw gyfryngau ar gyfer y sioe sleidiau</string>
+    <string name="grouping_and_sorting">Sylwer bod grwpio a didoli yn 2 faes annibynnol</string>
+    <string name="remember_last_video_position">Cofio safle chwarae olaf y fideo</string>
+    <string name="render_ultra_hdr_photos">Dangos lluniau Ultra HDR yn HDR</string>
+    <string name="crop_thumbnails">Torri lluniau bach yn sgwariau</string>
+    <string name="black_background_at_fullscreen">Cefndir du mewn cyfryngau sgrin lawn</string>
+    <string name="scroll_thumbnails_horizontally">Sgrolio lluniau bach yn llorweddol</string>
+    <string name="hide_system_ui_at_fullscreen">Cuddio UI system yn awtomatig mewn cyfryngau sgrin lawn</string>
+    <string name="keep_screen_on_fullscreen_photos">Cadw\'r sgrin ymlaen wrth weld lluniau sgrin lawn</string>
+    <string name="one_finger_zoom">Caniatáu chwyddo ag un bys mewn cyfryngau sgrin lawn</string>
+    <string name="allow_instant_change">Caniatáu newid cyfryngau ar unwaith trwy glicio ar ochrau\'r sgrin</string>
+    <string name="allow_one_to_one_zoom">Caniatáu chwyddo 1:1 gyda dau gliciad dwbl</string>
+    <string name="open_videos_on_separate_screen">Chwarae fideos ar sgrin ar wahân gyda ystumiau llorweddol</string>
+    <string name="on_video_tap">Wrth dapio fideo</string>
+    <string name="open_in_app_player">Agor chwaraewr yn yr ap</string>
+    <string name="open_system_default_player">Agor ap chwaraewr diofyn</string>
+    <string name="allow_rotating_gestures">Caniatáu troi delweddau ag ystumiau</string>
+    <string name="allow_zooming_videos">Caniatáu chwyddo fideos trwy eu tapio ddwywaith</string>
+    <string name="limit_folder_title">Cyfyngu teitlau ffolderi hir i 1 llinell</string>
+    <string name="media_management_prompt">I sicrhau bod yr holl weithrediadau ffeil yn gweithio\'n ddibynadwy, gwnewch yr ap hwn yn ap Rheoli Cyfryngau yn eich gosodiadau dyfais.</string>
+    <string name="password_protect_excluded">Diogelu gwelededd ffolderi eithriedig gyda chyfrinair</string>
+    <string name="media_management_manual">Aeth rhywbeth o\'i le, ewch i Gosodiadau eich dyfais - Apiau - Mynediad apiau arbennig - Apiau rheoli cyfryngau a chaniatáu i\'r ap hwn reoli cyfryngau.</string>
+    <string name="media_management_note">Os nad yw\'r ailgyfeirio\'n gweithio, ewch i Gosodiadau eich dyfais - Apiau - Mynediad apiau arbennig - Apiau rheoli cyfryngau a chaniatáu i\'r ap hwn reoli cyfryngau.</string>
+    <string name="media_management_alternative">Os nad ydych am wneud hyn, gallwch hefyd fynd i Gosodiadau eich dyfais - Apiau - Mynediad apiau arbennig - Apiau rheoli cyfryngau a chaniatáu i\'r ap hwn reoli cyfryngau.</string>
+    <string name="alternative_media_access">Fel arall, gallwch ganiatáu mynediad i ffeiliau cyfryngau yn unig. Yn yr achos hwnnw ni fyddwch yn gallu gweithio gyda ffeiliau cudd.</string>
+    <string name="search_all_files">Chwilio\'r holl ffeiliau yn lle ffolderi ar y sgrin brif</string>
+    <string name="show_all_folders">Dangos botwm dewislen ar gyfer togglo Dangos Cynnwys Pob Ffolder yn gyflym</string>
+    <string name="file_is_malformed_or_corrupted">Mae\'r ffeil wedi\'i chamffurfio neu wedi\'i llygru.</string>
+    <string name="media_exceeds_device_capabilities">Mae\'r cyfryngau\'n fwy na galluoedd y ddyfais.</string>
+    <string name="video_no_sound">Nid oes sain gan y fideo hwn</string>
+    <string name="faq_1_title">Sut gallaf wneud Fossify Gallery yn oriel ddiofyn y ddyfais?</string>
+    <string name="faq_1_text">Yn gyntaf rhaid i chi ddod o hyd i\'r oriel ddiofyn gyfredol yn adran Apiau eich gosodiadau dyfais, chwiliwch am fotwm sy\'n dweud rhywbeth fel "Agor yn ddiofyn", cliciwch arno, yna dewiswch "Clirio rhagosodiadau". Y tro nesaf y byddwch yn ceisio agor delwedd neu fideo dylech weld dewisydd apiau, lle gallwch ddewis Fossify Gallery a\'i wneud yn ap diofyn.</string>
+    <string name="faq_2_title">Clois i\'r ap gyda chyfrinair, ond anghofiais ef. Beth alla i ei wneud?</string>
+    <string name="faq_2_text">Gallwch ei ddatrys mewn 2 ffordd. Gallwch naill ai ailosod yr ap, neu ddod o hyd i\'r ap yn eich gosodiadau dyfais a dewis "Clirio data". Bydd yn ailosod eich holl osodiadau, ni fydd yn dileu unrhyw ffeiliau cyfryngau.</string>
+    <string name="faq_3_title">Sut gallaf wneud i albwm ymddangos ar y brig bob amser?</string>
+    <string name="faq_3_text">Gallwch wasgu\'n hir ar yr albwm dymunol a dewis eicon y Pin yn y ddewislen gweithredoedd, bydd hynny\'n ei binio i\'r brig. Gallwch binio ffolderi lluosog hefyd, bydd eitemau wedi\'u pinio yn cael eu didoli gan y dull didoli diofyn.</string>
+    <string name="faq_4_title">Sut gallaf gyflymu ymlaen fideos?</string>
+    <string name="faq_4_text">Gallwch ei wneud trwy dapio dwywaith ar ochr y sgrin, neu dapio\'r testunau hyd cyfredol neu uchaf ger y bar chwilio. Os byddwch yn galluogi agor fideos ar sgrin ar wahân yn gosodiadau\'r ap, gallwch ddefnyddio ystumiau llorweddol hefyd.</string>
+    <string name="faq_5_title">Beth yw\'r gwahaniaeth rhwng cuddio ac eithrio ffolder?</string>
+    <string name="faq_5_text">Mae eithrio\'n atal arddangos y ffolder yn unig yn Fossify Gallery, tra bod Cuddio\'n gweithio ar lefel y system ac yn cuddio\'r ffolder rhag orielau eraill hefyd. Mae\'n gweithio trwy greu ffeil \".nomedia\" wag yn y ffolder benodol, y gallwch ei chael yna gydag unrhyw reolwr ffeiliau hefyd. Sylwch nad yw rhai dyfeisiau\'n caniatáu cuddio ffolderi fel Camera, Sgrinluniau a Lawrlwythiadau.</string>
+    <string name="faq_6_title">Pam mae ffolderi gyda chlawr cerddoriaeth neu sticeri yn ymddangos?</string>
+    <string name="faq_6_text">Gall ddigwydd eich bod yn gweld rhai albymau anarferol yn ymddangos. Gallwch eu heithrio\'n hawdd trwy eu gwasgu\'n hir a dewis Eithrio. Yn y deialog nesaf gallwch wedyn ddewis y ffolder rhiant, mae\'n debygol y bydd yn atal yr albymau cysylltiedig eraill rhag ymddangos hefyd.</string>
+    <string name="faq_7_title">Nid yw ffolder gyda delweddau yn ymddangos, neu nid yw\'n dangos yr holl eitemau. Beth alla i ei wneud?</string>
+    <string name="faq_7_text">Gall hynny fod â sawl rheswm, ond mae ei ddatrys yn hawdd. Ewch i Gosodiadau -> Rheoli Ffolderi Cynhwysedig, dewiswch Plws a llywiwch i\'r ffolder gofynnol.</string>
+    <string name="faq_8_title">Beth os ydw i eisiau dim ond ychydig ffolderi penodol yn weladwy?</string>
+    <string name="faq_8_text">Nid yw ychwanegu ffolder yn y Ffolderi Cynhwysedig yn eithrio unrhyw beth yn awtomatig. Yr hyn y gallwch ei wneud yw mynd i Gosodiadau -> Rheoli Ffolderi Eithriedig, eithrio\'r ffolder gwraidd "/", yna ychwanegu\'r ffolderi dymunol yn Gosodiadau -> Rheoli Ffolderi Cynhwysedig.
+Bydd hynny\'n gwneud dim ond y ffolderi dethol yn weladwy, oherwydd bod eithrio a chynhwysi yn rhecwrsiwol a os yw ffolder wedi\'i eithrio a\'i gynhwysi, bydd yn ymddangos.</string>
+    <string name="faq_10_title">A allaf dorri delweddau gyda\'r ap hwn?</string>
+    <string name="faq_10_text">Gallwch, gallwch dorri delweddau yn y golygydd, trwy lusgo corneli\'r ddelwedd. Gallwch gyrraedd y golygydd naill ai trwy wasgu\'n hir ar fân-lun delwedd a dewis Golygu, neu ddewis Golygu o\'r golwg sgrin lawn.</string>
+    <string name="faq_11_title">A allaf rywsut grwpio mân-luniau ffeiliau cyfryngau?</string>
+    <string name="faq_11_text">Wrth gwrs, defnyddiwch yr eitem ddewislen "Grwpio yn ôl" tra yn y golwg mân-luniau. Gallwch grwpio ffeiliau yn ôl meini prawf lluosog, gan gynnwys Dyddiad a Gymerwyd. Os byddwch yn defnyddio\'r swyddogaeth "Dangos cynnwys yr holl ffolderi" gallwch eu grwpio yn ôl ffolderi hefyd.</string>
+    <string name="faq_12_title">Nid yw didoli yn ôl Dyddiad a Gymerwyd yn gweithio\'n iawn, sut gallaf ei drwsio?</string>
+    <string name="faq_12_text">Mae\'n debygol iawn ei fod yn cael ei achosi gan y ffeiliau\'n cael eu copïo o rywle. Gallwch ei drwsio trwy ddewis y mân-luniau ffeil a dewis "Trwsio gwerth Dyddiad a Gymerwyd".</string>
+    <string name="faq_13_title">Rwy\'n gweld rhywfaint o fandio lliw ar y delweddau. Sut gallaf wella\'r ansawdd?</string>
+    <string name="faq_13_text">Mae\'r ateb cyfredol ar gyfer arddangos delweddau\'n gweithio\'n dda yn y mwyafrif helaeth o achosion, ond os ydych eisiau ansawdd delwedd hyd yn oed yn well, gallwch alluogi "Dangos delweddau yn yr ansawdd uchaf posibl" yn gosodiadau\'r ap, yn yr adran "Delweddau chwyddadwy dwfn".</string>
+    <string name="faq_14_title">Rwyf wedi cuddio ffeil/ffolder. Sut alla i ei dangos eto?</string>
+    <string name="faq_14_text">Gallwch naill ai wasgu\'r eitem ddewislen "Dangos eitemau cudd dros dro" ar y sgrin brif, neu doglo "Dangos eitemau cudd" yn gosodiadau\'r ap i weld yr eitem gudd. Os ydych am ei dangos, dim ond ei wasgu\'n hir a dewis "Dangos". Mae ffolderi\'n cael eu cuddio trwy ychwanegu ffeil \".nomedia\" gudd ynddynt, gallwch ddileu\'r ffeil gydag unrhyw reolwr ffeiliau hefyd. Sylwch fod cuddio\'n gweithio\'n rhecwrsiwol, felly os byddwch yn cuddio ffolder, bydd yr holl is-ffolderi\'n cael eu cuddio hefyd. Felly i ddangos yr is-ffolderi rhaid i chi ddangos y ffolder rhiant.</string>
+    <string name="faq_15_title">Pam mae\'r ap yn cymryd cymaint o le?</string>
+    <string name="faq_15_text">Gall cêl yr ap gymryd hyd at 250MB, mae\'n sicrhau llwytho delweddau cyflymach. Os yw\'r ap yn cymryd hyd yn oed mwy o le, mae\'n debygol iawn ei fod yn cael ei achosi gan fod gennych eitemau yn y bin ailgylchu. Mae\'r ffeiliau hynny\'n cyfrif i faint yr ap. Gallwch glirio\'r bin ailgylchu trwy ei agor a dileu\'r holl ffeiliau, neu o osodiadau\'r ap. Mae pob ffeil yn y bin yn cael ei dileu\'n awtomatig ar ôl 30 diwrnod.</string>
+    <string name="faq_16_title">Beth ddigwyddodd i guddio ffeiliau a ffolderi a pham na allaf weld eitemau cudd mwyach?</string>
+    <string name="faq_16_text">Gan ddechrau gydag Android 11 ni allwch guddio na dangos ffeiliau neu ffolderi mwyach, ni allwch weld y rhai cudd mewn apiau oriel oherwydd cyfyngiadau system ychwaith. Bydd yn rhaid i chi ddefnyddio rhyw reolwr ffeiliau ar gyfer hynny.</string>
+    <string name="faq_16_text_extra">Neu gallwch hefyd roi mynediad Pob Ffeil i\'r oriel hon trwy\'ch gosodiadau dyfais, bydd hynny\'n caniatáu i ni ddangos eitemau cudd a gwneud gweithrediadau ffeil yn fwy dibynadwy yn gyffredinol.</string>
+    <string name="faq_17_title">Pam na allaf gynnwys ffolderi coll mwyach?</string>
+    <string name="faq_17_text">Roedd hynny\'n stopio gweithio oherwydd y newidiadau system a ddaeth gydag Android 11 hefyd, ni all yr ap bori ffolderi go iawn mwyach, mae\'n dibynnu ar yr hyn a elwir yn MediaStore wrth nôl data.</string>
+    <string name="faq_18_title">Pam ydw i\'n gweld hysbysebion yn ystod chwarae fideo?</string>
+    <string name="faq_18_text">Nid oes unrhyw hysbysebion gan ein hapiau o gwbl. Os ydych yn eu gweld yn ystod chwarae fideo, rhaid eich bod yn defnyddio chwaraewr fideo rhyw ap arall. Ceisiwch ddod o hyd i\'ch chwaraewr fideo diofyn yn gosodiadau\'r ddyfais, yna gwnewch "Clirio rhagosodiadau" arno. Y tro nesaf y byddwch yn galw rhyw fwriad fideo byddwch yn gweld anogiad dewisydd apiau, lle gallwch ddewis pa ap yr ydych am ei ddefnyddio.</string>
 </resources>

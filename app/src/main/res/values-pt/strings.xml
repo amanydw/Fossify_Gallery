@@ -264,4 +264,9 @@
     <string name="keep_screen_on_fullscreen_photos">Manter o ecrã ligado enquanto vê fotos em ecrã cheio</string>
     <string name="force_landscape_reverse">Paisagem forçada (reversa)</string>
     <string name="overwrite_original">Sobrescrever original</string>
+    <string name="render_ultra_hdr_photos">Mostrar fotos Ultra HDR em HDR</string>
+    <string name="on_video_tap">Ao tocar no vídeo</string>
+    <string name="open_in_app_player">Abrir leitor na aplicação</string>
+    <string name="open_system_default_player">Abrir o leitor predefinido</string>
+    <string name="video_no_sound">Este vídeo não tem áudio</string>
 </resources>
