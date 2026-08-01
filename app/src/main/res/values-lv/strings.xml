@@ -264,4 +264,5 @@
     <string name="faq_16_text">Sākot ar Android 11, datnes un mapes vairs nevar ne paslēpt, ne parādīt, un sistēmas ierobežojumu dēļ paslēptās datnes vairs nevar redzēt arī galerijas lietotnēs. Tam būs jāizmanto kāds datņu pārvaldnieks.</string>
     <string name="faq_16_text_extra">Vai arī ierīces iestatījumos varat piešķirt šai galerijai piekļuvi visām datnēm — tas ļaus mums rādīt paslēptos vienumus un padarīs darbības ar datnēm kopumā uzticamākas.</string>
     <string name="faq_17_title">Kāpēc es vairs nevaru iekļaut trūkstošās mapes?</string>
+    <string name="faq_17_text">Arī tas pārstāja darboties sistēmas izmaiņu dēļ, kas ieviestas ar Android 11; lietotne vairs nevar pārlūkot īstas mapes, datu iegūšanai tā izmanto tā saukto MediaStore.</string>
 </resources>
