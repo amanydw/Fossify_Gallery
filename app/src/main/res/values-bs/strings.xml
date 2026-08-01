@@ -208,4 +208,5 @@
     <string name="square">Kvadrat</string>
     <string name="rounded_corners">Zaobljeni uglovi</string>
     <string name="export_favorite_paths">Izvezi omiljene</string>
+    <string name="import_favorite_paths">Uvezi omiljene</string>
 </resources>
