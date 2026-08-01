@@ -81,4 +81,5 @@
     <string name="invalid_image_path">Laluan imej tidak sah</string>
     <string name="invalid_video_path">Laluan video tidak sah</string>
     <string name="image_editing_failed">Penyuntingan imej gagal</string>
+    <string name="video_editing_failed">Penyuntingan video gagal</string>
 </resources>
