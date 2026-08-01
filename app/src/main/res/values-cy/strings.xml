@@ -177,4 +177,61 @@
     <string name="allow_down_gesture">Caniatáu cau\'r olyg sgrin lawn gydag ystum i lawr</string>
     <string name="avoid_showing_invalid_files">Osgoi dangos ffeiliau annilys</string>
     <string name="show_file_count_line">Dangos nifer y ffeiliau ar ei linell ei hunan</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">Ydych chi\'n siŵr eich bod am adfer %d ffeil?</item>
+        <item quantity="other">Ydych chi\'n siŵr eich bod am adfer %d ffeil?</item>
+    </plurals>
+    <plurals name="failed_to_resize_images">
+        <item quantity="one">Methwyd ail-newid maint %d delwedd</item>
+        <item quantity="other">Methwyd ail-newid maint %d delwedd</item>
+    </plurals>
+    <string name="force_landscape_reverse">Gorfodi tirwedd (gwrthdro)</string>
+    <string name="reorder_by_dragging_pro">Ail-drefnu ffolderi trwy lusgo (Pro)</string>
+    <string name="full_storage_permission_required">Mae angen mynediad llawn ar Fossify Gallery i ddangos eich holl luniau a fideos. Ewch i Gosodiadau > Caniatadau > Lluniau a fideos > Caniatáu popeth.</string>
+    <string name="hide_folder_description">Mae\'r swyddogaeth hon yn cuddio\'r ffolder trwy ychwanegu ffeil \'.nomedia\' ynddo, bydd hefyd yn cuddio\'r holl is-ffolderi. Gallwch eu gweld trwy droi\'r opsiwn \'Dangos eitemau cudd\' ymlaen yn Gosodiadau. Parhau?</string>
+    <string name="exclude_folder_description">Bydd hyn yn eithrio\'r detholiad gyda\'i is-ffolderi yn unig o Fossify Gallery. Gallwch reoli ffolderi wedi\'u heithrio yn Gosodiadau.</string>
+    <string name="excluded_activity_placeholder">Bydd eithrio ffolderi yn eu cuddio gyda\'u his-ffolderi dim ond yn Fossify Gallery, byddant yn dal i fod yn weladwy mewn ceisiadau eraill.
+
+Os ydych am eu cuddio rhag ceisiadau eraill hefyd, defnyddiwch y swyddogaeth Cuddio.</string>
+    <string name="hidden_folders_placeholder">Mae\'n ymddangos nad oes gennych unrhyw ffolderi wedi\'u cuddio gyda ffeil \".nomedia\".</string>
+    <string name="hidden_all_files">Mae\'n rhaid i chi roi mynediad Pob Ffeil i\'r ap i weld ffeiliau cudd, fel arall ni all weithio.</string>
+    <string name="cant_unhide_folder">Os oes dot o flaen enw ffolder neu un o\'i riant-ffolderi, mae wedi\'i guddio ac ni ellir ei ddangos fel hyn. Rhaid i chi gael gwared ar y dot trwy ei ailenwi.</string>
+    <string name="included_activity_placeholder">Os oes gennych rai ffolderi sy\'n cynnwys cyfryngau, ond heb eu hadnabod gan yr ap, gallwch eu hychwanegu â llaw yma.
+
+Ni fydd ychwanegu rhai eitemau yma yn eithrio unrhyw ffolder arall.</string>
+    <string name="no_media_add_included">Ni ddaethpwyd o hyd i unrhyw ffeiliau cyfryngau. Gallwch ddatrys hyn trwy ychwanegu\'r ffolderi sy\'n cynnwys ffeiliau cyfryngau â llaw.</string>
+    <string name="invalid_values">Rhowch gydraniad dilys</string>
+    <string name="resize_factor_error">Rhowch rif rhwng 10 a 90</string>
+    <string name="overwrite_original">Gorysgrifennu\'r gwreiddiol</string>
+    <string name="error_saving_file">Ni ellid gorysgrifennu\'r ffeil ffynhonnell</string>
+    <string name="no_media_for_slideshow">Ni ddaethpwyd o hyd i unrhyw gyfryngau ar gyfer y sioe sleidiau</string>
+    <string name="grouping_and_sorting">Sylwer bod grwpio a didoli yn 2 faes annibynnol</string>
+    <string name="remember_last_video_position">Cofio safle chwarae olaf y fideo</string>
+    <string name="render_ultra_hdr_photos">Dangos lluniau Ultra HDR yn HDR</string>
+    <string name="crop_thumbnails">Torri lluniau bach yn sgwariau</string>
+    <string name="black_background_at_fullscreen">Cefndir du mewn cyfryngau sgrin lawn</string>
+    <string name="scroll_thumbnails_horizontally">Sgrolio lluniau bach yn llorweddol</string>
+    <string name="hide_system_ui_at_fullscreen">Cuddio UI system yn awtomatig mewn cyfryngau sgrin lawn</string>
+    <string name="keep_screen_on_fullscreen_photos">Cadw\'r sgrin ymlaen wrth weld lluniau sgrin lawn</string>
+    <string name="one_finger_zoom">Caniatáu chwyddo ag un bys mewn cyfryngau sgrin lawn</string>
+    <string name="allow_instant_change">Caniatáu newid cyfryngau ar unwaith trwy glicio ar ochrau\'r sgrin</string>
+    <string name="allow_one_to_one_zoom">Caniatáu chwyddo 1:1 gyda dau gliciad dwbl</string>
+    <string name="open_videos_on_separate_screen">Chwarae fideos ar sgrin ar wahân gyda ystumiau llorweddol</string>
+    <string name="on_video_tap">Wrth dapio fideo</string>
+    <string name="open_in_app_player">Agor chwaraewr yn yr ap</string>
+    <string name="open_system_default_player">Agor ap chwaraewr diofyn</string>
+    <string name="allow_rotating_gestures">Caniatáu troi delweddau ag ystumiau</string>
+    <string name="allow_zooming_videos">Caniatáu chwyddo fideos trwy eu tapio ddwywaith</string>
+    <string name="limit_folder_title">Cyfyngu teitlau ffolderi hir i 1 llinell</string>
+    <string name="media_management_prompt">I sicrhau bod yr holl weithrediadau ffeil yn gweithio\'n ddibynadwy, gwnewch yr ap hwn yn ap Rheoli Cyfryngau yn eich gosodiadau dyfais.</string>
+    <string name="password_protect_excluded">Diogelu gwelededd ffolderi eithriedig gyda chyfrinair</string>
+    <string name="media_management_manual">Aeth rhywbeth o\'i le, ewch i Gosodiadau eich dyfais - Apiau - Mynediad apiau arbennig - Apiau rheoli cyfryngau a chaniatáu i\'r ap hwn reoli cyfryngau.</string>
+    <string name="media_management_note">Os nad yw\'r ailgyfeirio\'n gweithio, ewch i Gosodiadau eich dyfais - Apiau - Mynediad apiau arbennig - Apiau rheoli cyfryngau a chaniatáu i\'r ap hwn reoli cyfryngau.</string>
+    <string name="media_management_alternative">Os nad ydych am wneud hyn, gallwch hefyd fynd i Gosodiadau eich dyfais - Apiau - Mynediad apiau arbennig - Apiau rheoli cyfryngau a chaniatáu i\'r ap hwn reoli cyfryngau.</string>
+    <string name="alternative_media_access">Fel arall, gallwch ganiatáu mynediad i ffeiliau cyfryngau yn unig. Yn yr achos hwnnw ni fyddwch yn gallu gweithio gyda ffeiliau cudd.</string>
+    <string name="search_all_files">Chwilio\'r holl ffeiliau yn lle ffolderi ar y sgrin brif</string>
+    <string name="show_all_folders">Dangos botwm dewislen ar gyfer togglo Dangos Cynnwys Pob Ffolder yn gyflym</string>
+    <string name="file_is_malformed_or_corrupted">Mae\'r ffeil wedi\'i chamffurfio neu wedi\'i llygru.</string>
+    <string name="media_exceeds_device_capabilities">Mae\'r cyfryngau\'n fwy na galluoedd y ddyfais.</string>
+    <string name="video_no_sound">Nid oes sain gan y fideo hwn</string>
 </resources>
