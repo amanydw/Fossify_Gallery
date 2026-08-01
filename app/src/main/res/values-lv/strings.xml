@@ -72,4 +72,5 @@
     <string name="exclude_folder_parent">Vai tā vietā neiekļaut virsmapi?</string>
     <string name="excluded_activity_placeholder">Neiekļautās mapes kopā ar to apakšmapēm tiks paslēptas tikai Fossify Gallery, citās lietotnēs tās joprojām būs redzamas.\n\nJa vēlaties tās paslēpt arī no citām lietotnēm, izmantojiet funkciju “Paslēpt”.</string>
     <string name="hidden_folders">Paslēptās mapes</string>
+    <string name="manage_hidden_folders">Pārvaldīt paslēptās mapes</string>
 </resources>
