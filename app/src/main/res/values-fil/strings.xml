@@ -264,4 +264,5 @@
     <string name="faq_17_title">Bakit hindi ko na maisama ang mga nawawalang folder?</string>
     <string name="faq_17_text">Huminto rin iyon sa paggana dahil sa mga pagbabago sa system na dala ng Android 11, hindi na mabu-browse ng app ang mga totoong folder, umaasa na ito sa tinatawag na MediaStore sa pagkuha ng data.</string>
     <string name="faq_18_title">Bakit may nakikita akong mga ad habang nagpe-play ng video?</string>
+    <string name="faq_18_text">Walang anumang ad ang aming mga app. Kung nakikita mo ang mga ito habang nagpe-play ng video, malamang na gumagamit ka ng video player ng ibang app. Subukang hanapin ang iyong default na video player sa mga setting ng device, pagkatapos ay gawin dito ang “I-clear ang mga default”. Sa susunod na magbukas ka ng video, makikita mo ang app picker, kung saan maaari mong piliin ang app na gusto mong gamitin.</string>
 </resources>
