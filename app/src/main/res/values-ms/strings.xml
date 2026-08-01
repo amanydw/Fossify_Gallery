@@ -117,4 +117,5 @@
     <string name="lock_screen">Skrin kunci</string>
     <string name="home_and_lock_screen">Skrin utama dan skrin kunci</string>
     <string name="allow_changing_aspect_ratio">Benarkan penukaran nisbah aspek</string>
+    <string name="slideshow">Tayangan slaid</string>
 </resources>
