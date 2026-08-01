@@ -205,4 +205,5 @@
     <string name="show_file_count_brackets">Prikaži broj datoteka u zagradama</string>
     <string name="show_file_count_none">Ne prikazuj broj datoteka</string>
     <string name="limit_folder_title">Ograniči duge nazive foldera na jedan red</string>
+    <string name="square">Kvadrat</string>
 </resources>
