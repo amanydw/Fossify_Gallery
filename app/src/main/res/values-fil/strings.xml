@@ -216,4 +216,5 @@
     <string name="alternative_media_access">Bilang alternatibo, maaari mong payagan ang access sa mga media file lamang. Sa kasong iyon ay hindi mo mapapagana ang mga nakatagong file.</string>
     <string name="media_only">Media lamang</string>
     <string name="all_files">Lahat ng file</string>
+    <string name="search_all_files">Hanapin ang lahat ng file sa halip na mga folder sa pangunahing screen</string>
 </resources>
