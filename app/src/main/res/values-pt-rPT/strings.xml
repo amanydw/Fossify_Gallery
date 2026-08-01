@@ -43,7 +43,7 @@
     <plurals name="failed_to_resize_images">
         <item quantity="one">Falha ao redimensionar %d imagem</item>
         <item quantity="many">Falha ao redimensionar %d imagens</item>
-        <item quantity="other"/>
+        <item quantity="other">Falha ao redimensionar %d imagens</item>
     </plurals>
     <string name="video_editing_failed">Falha ao editar o vídeo</string>
     <string name="file_edited_successfully">Ficheiro editado com sucesso</string>
@@ -262,7 +262,7 @@
     <plurals name="restore_confirmation">
         <item quantity="one">Tem a certeza de que pretende restaurar o ficheiro %d?</item>
         <item quantity="many">Tem a certeza de que pretende restaurar os ficheiros %d?</item>
-        <item quantity="other"/>
+        <item quantity="other">Tem a certeza de que pretende restaurar %d ficheiros?</item>
     </plurals>
     <string name="overwrite_original">Sobrescrever original</string>
     <string name="keep_screen_on_fullscreen_photos">Mantenha o ecrã ligado enquanto visualiza fotos em ecrã inteiro</string>
