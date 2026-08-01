@@ -175,4 +175,5 @@
     <string name="one_finger_zoom">Payagan ang pag-zoom gamit ang isang daliri sa fullscreen na media</string>
     <string name="allow_instant_change">Payagan ang agarang pagpapalit ng media sa pamamagitan ng pag-tap sa mga gilid ng screen</string>
     <string name="allow_deep_zooming_images">Payagan ang malalim na pag-zoom sa mga imahe</string>
+    <string name="hide_extended_details">Itago ang mga karagdagang detalye kapag nakatago ang status bar</string>
 </resources>
