@@ -124,4 +124,5 @@
     <string name="wallpaper_set_successfully">Fona tapete veiksmīgi iestatīta</string>
     <string name="portrait_aspect_ratio">Portreta malu attiecība</string>
     <string name="landscape_aspect_ratio">Ainavas malu attiecība</string>
+    <string name="home_screen">Sākuma ekrāns</string>
 </resources>
