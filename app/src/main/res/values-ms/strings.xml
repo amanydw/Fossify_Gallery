@@ -75,4 +75,5 @@
     </plurals>
     <string name="images_resized_successfully">Saiz imej berjaya diubah</string>
     <string name="editor">Penyunting</string>
+    <string name="basic_editor">Penyunting asas</string>
 </resources>
