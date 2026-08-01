@@ -77,4 +77,5 @@
     </plurals>
     <string name="images_resized_successfully">Matagumpay na nabago ang laki ng mga imahe</string>
     <string name="editor">Editor</string>
+    <string name="basic_editor">Basic na editor</string>
 </resources>
