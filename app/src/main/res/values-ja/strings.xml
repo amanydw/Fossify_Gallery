@@ -247,10 +247,8 @@
     <string name="wallpaper">壁紙</string>
     <string name="exclude_folder_description">選択したフォルダーとその子フォルダーをFossifyギャラリーから除外します。除外したフォルダーは設定画面で管理できます。</string>
     <plurals name="restore_confirmation">
-        <item quantity="other">本当に %d ファイルを復元しますか?</item>
-    
-        <item quantity="one">ファイルを %d 件復元しますか？</item>
-</plurals>
+        <item quantity="other">本当に %d 件のファイルを復元しますか？</item>
+    </plurals>
     <string name="overwrite_original">元のファイルを上書きする</string>
     <string name="force_landscape_reverse">横で固定（反転）</string>
     <string name="excluded_activity_placeholder">除外したフォルダーは、サブフォルダーごと Fossify Gallery 内でのみ非表示になります。他のアプリでは引き続き表示されます。\n\n他のアプリからも非表示にするには、非表示機能を使用してください。</string>
