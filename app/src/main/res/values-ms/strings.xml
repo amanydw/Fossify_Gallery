@@ -70,4 +70,7 @@
     <string name="resize_factor">Faktor ubah saiz</string>
     <string name="resize_factor_info">Ubah saiz imej kepada peratusan yang diberikan, nilainya mestilah antara 10 dan 90.</string>
     <string name="resize_factor_error">Masukkan nombor antara 10 dan 90</string>
+    <plurals name="failed_to_resize_images">
+        <item quantity="other">Gagal mengubah saiz %d imej</item>
+    </plurals>
 </resources>
