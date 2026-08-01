@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">ගැලරිය</string>
+    <string name="edit">සංස්කරණය</string>
+    <string name="open_camera">කැමරාව විවෘත කරන්න</string>
+    <string name="images">ඡායාරූප</string>
+    <string name="videos">වීඩියෝ</string>
+</resources>
