@@ -165,4 +165,5 @@
     <string name="screen_rotation_aspect_ratio">Omjeru stranica</string>
     <string name="black_background_at_fullscreen">Crna pozadina pri prikazu medija preko cijelog ekrana</string>
     <string name="scroll_thumbnails_horizontally">Pomjeraj sličice vodoravno</string>
+    <string name="hide_system_ui_at_fullscreen">Automatski sakrij sistemsko sučelje pri prikazu medija preko cijelog ekrana</string>
 </resources>
