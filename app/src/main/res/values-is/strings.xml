@@ -200,4 +200,5 @@
     <string name="mark_favorite_items">Merkja eftirlætisatriði</string>
     <string name="thumbnail_spacing">Bil milli smámynda</string>
     <string name="show_file_count_line">Sýna fjölda skráa í sérstakri línu</string>
+    <string name="show_file_count_brackets">Sýna fjölda skráa innan sviga</string>
 </resources>
