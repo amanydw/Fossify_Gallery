@@ -19,4 +19,5 @@
     <string name="volume">Lakas ng tunog</string>
     <string name="brightness">Liwanag</string>
     <string name="lock_orientation">I-lock ang oryentasyon</string>
+    <string name="unlock_orientation">I-unlock ang oryentasyon</string>
 </resources>
