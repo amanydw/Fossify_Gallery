@@ -80,4 +80,5 @@
     <string name="images_resized_successfully">Veličina slika je uspješno promijenjena</string>
     <string name="editor">Uređivač</string>
     <string name="basic_editor">Osnovni uređivač</string>
+    <string name="advanced_editor">Napredni uređivač</string>
 </resources>
