@@ -128,4 +128,5 @@
     <string name="animation">Animasi</string>
     <string name="no_animation">Tiada</string>
     <string name="fade">Pudar</string>
+    <string name="slide">Luncur</string>
 </resources>
