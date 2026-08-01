@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">Gallery</string>
+    <string name="edit">I-edit</string>
+    <string name="open_camera">Buksan ang camera</string>
+    <string name="images">Mga Imahe</string>
+    <string name="videos">Mga Video</string>
+</resources>
