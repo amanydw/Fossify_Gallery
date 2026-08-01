@@ -154,4 +154,5 @@
     <string name="loop_videos">Ulitin ang mga video</string>
     <string name="animate_gifs">I-animate ang mga GIF sa mga thumbnail</string>
     <string name="max_brightness">Pinakamataas na liwanag kapag nanonood ng fullscreen na media</string>
+    <string name="render_ultra_hdr_photos">Ipakita ang mga larawang Ultra HDR sa HDR</string>
 </resources>
