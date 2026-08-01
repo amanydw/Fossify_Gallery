@@ -37,4 +37,5 @@
     <string name="unpin_folder">Atspraust mapi</string>
     <string name="pin_to_the_top">Piespraust augšpusē</string>
     <string name="show_all">Rādīt visu mapju saturu</string>
+    <string name="all_folders">Visas mapes</string>
 </resources>
