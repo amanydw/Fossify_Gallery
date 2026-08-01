@@ -177,4 +177,5 @@
     <string name="show_media_count">Rādīt mapes multivides datņu skaitu galvenajā skatā</string>
     <string name="show_extended_details">Rādīt paplašinātu informāciju virs multivides pilnekrānā</string>
     <string name="manage_extended_details">Pārvaldīt paplašināto informāciju</string>
+    <string name="one_finger_zoom">Atļaut tālummaiņu ar vienu pirkstu multividei pilnekrānā</string>
 </resources>
