@@ -243,4 +243,5 @@
     <string name="faq_6_title">Bakit lumalabas ang mga folder na may cover art ng musika o mga sticker?</string>
     <string name="faq_6_text">Maaaring mangyari na makakita ka ng ilang hindi pangkaraniwang album. Madali mo silang maibubukod sa pamamagitan ng pagpindot nang matagal sa mga ito at pagpili ng Ibukod. Sa susunod na dialog, maaari mong piliin ang parent folder, malamang na mapipigilan din nito ang paglabas ng iba pang kaugnay na album.</string>
     <string name="faq_7_title">Hindi lumalabas ang isang folder na may mga imahe, o hindi nito ipinapakita ang lahat ng item. Ano ang magagawa ko?</string>
+    <string name="faq_7_text">Maaaring maraming dahilan ito, ngunit madali itong lutasin. Pumunta lang sa Mga Setting -&gt; Pamahalaan ang mga isinamang folder, piliin ang Plus at mag-navigate sa kinakailangang folder.</string>
 </resources>
