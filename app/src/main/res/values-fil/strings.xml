@@ -124,4 +124,5 @@
     <string name="include_photos">Isama ang mga larawan</string>
     <string name="include_videos">Isama ang mga video</string>
     <string name="include_gifs">Isama ang mga GIF</string>
+    <string name="random_order">Random na pagkakasunod-sunod</string>
 </resources>
