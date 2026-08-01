@@ -79,4 +79,5 @@
     <string name="include_folders">Iekļautās mapes</string>
     <string name="manage_included_folders">Pārvaldīt iekļautās mapes</string>
     <string name="add_folder">Pievienot mapi</string>
+    <string name="included_activity_placeholder">Ja jums ir mapes, kurās ir multivide, bet lietotne tās nav atpazinusi, šeit tās var pievienot manuāli.\n\nVienumu pievienošana šeit neizslēgs nevienu citu mapi.</string>
 </resources>
