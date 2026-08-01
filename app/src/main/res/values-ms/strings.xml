@@ -182,4 +182,5 @@
     <string name="allow_down_gesture">Benarkan penutupan paparan skrin penuh dengan gerak isyarat ke bawah</string>
     <string name="allow_one_to_one_zoom">Benarkan zum 1:1 dengan dua ketikan berganda</string>
     <string name="open_videos_on_separate_screen">Mainkan video pada skrin berasingan dengan gerak isyarat mendatar</string>
+    <string name="on_video_tap">Apabila video diketik</string>
 </resources>
