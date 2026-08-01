@@ -249,4 +249,5 @@
     <string name="faq_8_title">Šta ako želim da bude vidljivo samo nekoliko određenih foldera?</string>
     <string name="faq_8_text">Dodavanje foldera među uključene foldere ne isključuje ništa automatski. Možeš otići u Postavke -&gt; Upravljaj isključenim folderima, isključiti korijenski folder „/” i zatim dodati željene foldere u Postavke -&gt; Upravljaj uključenim folderima. Time će biti vidljivi samo odabrani folderi, jer su i isključivanje i uključivanje rekurzivni, a ako je folder istovremeno isključen i uključen, bit će prikazan.</string>
     <string name="faq_10_title">Mogu li ovom aplikacijom izrezati slike?</string>
+    <string name="faq_10_text">Da, slike možeš izrezati u uređivaču prevlačenjem uglova slike. Do uređivača možeš doći dugim pritiskom na sličicu slike i odabirom opcije Uredi ili odabirom opcije Uredi u prikazu preko cijelog ekrana.</string>
 </resources>
