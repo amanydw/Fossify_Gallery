@@ -163,4 +163,5 @@
     <string name="scroll_thumbnails_horizontally">Tatal lakaran kenit secara mendatar</string>
     <string name="hide_system_ui_at_fullscreen">Sembunyikan antara muka sistem secara automatik pada media skrin penuh</string>
     <string name="delete_empty_folders">Padam folder kosong selepas memadam kandungannya</string>
+    <string name="keep_screen_on_fullscreen_photos">Biarkan skrin menyala semasa melihat foto skrin penuh</string>
 </resources>
