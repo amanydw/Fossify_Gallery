@@ -20,4 +20,5 @@
     <string name="brightness">Liwanag</string>
     <string name="lock_orientation">I-lock ang oryentasyon</string>
     <string name="unlock_orientation">I-unlock ang oryentasyon</string>
+    <string name="change_orientation">Baguhin ang oryentasyon</string>
 </resources>
