@@ -217,4 +217,5 @@
     <string name="media_management_alternative">Ako to ne želiš uraditi, možeš i otići u Postavke - Aplikacije - Poseban pristup aplikacija - Aplikacije za upravljanje medijima i dozvoliti ovoj aplikaciji da upravlja medijima.</string>
     <string name="alternative_media_access">Alternativno, možeš dozvoliti pristup samo medijskim datotekama. U tom slučaju nećeš moći raditi sa skrivenim datotekama.</string>
     <string name="media_only">Samo mediji</string>
+    <string name="all_files">Sve datoteke</string>
 </resources>
