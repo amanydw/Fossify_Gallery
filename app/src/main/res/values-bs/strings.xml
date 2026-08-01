@@ -213,4 +213,5 @@
     <string name="media_management_prompt">Da bi sve radnje s datotekama radile pouzdano, postavi ovu aplikaciju kao aplikaciju za upravljanje medijima u postavkama uređaja.</string>
     <string name="password_protect_excluded">Zaštiti lozinkom vidljivost isključenih foldera</string>
     <string name="media_management_manual">Nešto je pošlo po zlu, idi u Postavke - Aplikacije - Poseban pristup aplikacija - Aplikacije za upravljanje medijima i dozvoli ovoj aplikaciji da upravlja medijima.</string>
+    <string name="media_management_note">Ako preusmjeravanje ne radi, idi u Postavke - Aplikacije - Poseban pristup aplikacija - Aplikacije za upravljanje medijima i dozvoli ovoj aplikaciji da upravlja medijima.</string>
 </resources>
