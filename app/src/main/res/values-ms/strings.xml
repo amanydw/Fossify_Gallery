@@ -155,4 +155,5 @@
     <string name="render_ultra_hdr_photos">Tunjukkan foto Ultra HDR dalam HDR</string>
     <string name="crop_thumbnails">Pangkas lakaran kenit menjadi segi empat sama</string>
     <string name="show_thumbnail_video_duration">Tunjukkan tempoh video</string>
+    <string name="screen_rotation_by">Putarkan media skrin penuh mengikut</string>
 </resources>
