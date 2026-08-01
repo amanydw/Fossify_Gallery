@@ -76,4 +76,5 @@
         <item quantity="other">Mistókst að breyta stærð %d mynda</item>
     </plurals>
     <string name="images_resized_successfully">Tókst að breyta stærð myndanna</string>
+    <string name="editor">Myndvinnsla</string>
 </resources>
