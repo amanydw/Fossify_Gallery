@@ -90,4 +90,5 @@
     <string name="edit_image_with">Sunting imej dengan:</string>
     <string name="edit_video_with">Sunting video dengan:</string>
     <string name="no_image_editor_found">Tiada penyunting imej ditemui</string>
+    <string name="no_video_editor_found">Tiada penyunting video ditemui</string>
 </resources>
