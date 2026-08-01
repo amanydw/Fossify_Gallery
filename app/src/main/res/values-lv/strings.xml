@@ -205,4 +205,5 @@
     <string name="mark_favorite_items">Atzīmēt izlases vienumus</string>
     <string name="thumbnail_spacing">Atstarpes starp sīktēliem</string>
     <string name="show_file_count_line">Rādīt datņu skaitu atsevišķā rindā</string>
+    <string name="show_file_count_brackets">Rādīt datņu skaitu iekavās</string>
 </resources>
