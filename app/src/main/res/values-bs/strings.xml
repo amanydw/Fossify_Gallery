@@ -132,4 +132,5 @@
     <string name="animation">Animacija</string>
     <string name="no_animation">Bez animacije</string>
     <string name="fade">Prelaz</string>
+    <string name="slide">Klizanje</string>
 </resources>
