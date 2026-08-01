@@ -28,4 +28,7 @@
     <string name="open_camera">Atvērt kameru</string>
     <string name="images">Attēli</string>
     <string name="videos">Video</string>
+    <string name="filter_media">Filtrēt medijus</string>
+    <string name="gifs">GIF</string>
+    <string name="raw_images">RAW attēli</string>
 </resources>
