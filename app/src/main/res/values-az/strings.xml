@@ -61,9 +61,7 @@
     <string name="include_folders">Daxil edilmiş qovluqlar</string>
     <string name="manage_included_folders">Daxil edilmiş qovluqları idarə et</string>
     <string name="add_folder">Qovluq əlavə et</string>
-    <string name="included_activity_placeholder">Əgər media olan, lakin proqram tərəfindən tanınmayan qovluqlarınız varsa, onları burada əl ilə əlavə edə bilərsiniz.
-
-Buraya nəsə əlavə etmək digər qovluqları xaric etməyəcək.</string>
+    <string name="included_activity_placeholder">Əgər media olan, lakin proqram tərəfindən tanınmayan qovluqlarınız varsa, onları burada əl ilə əlavə edə bilərsiniz.\n\nBuraya nəsə əlavə etmək digər qovluqları xaric etməyəcək.</string>
     <string name="no_media_add_included">Heç bir media faylı tapılmadı. Media faylları olan qovluqları əl ilə əlavə edərək bunu həll edə bilərsiniz.</string>
     <string name="resize_and_save">Seçimin ölçüsünü dəyişdir və yadda saxla</string>
     <string name="width">En</string>
