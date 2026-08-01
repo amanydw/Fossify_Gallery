@@ -31,4 +31,5 @@
     <string name="no_date_takens_found">Nije pronađena nijedna vrijednost datuma snimanja</string>
     <string name="share_resized">Podijeli verziju promijenjene veličine</string>
     <string name="switch_to_file_search">Prebaci na pretragu datoteka u svim vidljivim folderima</string>
+    <string name="set_as_default_folder">Postavi kao zadani folder</string>
 </resources>
