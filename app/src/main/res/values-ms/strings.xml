@@ -214,4 +214,5 @@
     <string name="alternative_media_access">Sebagai alternatif, anda boleh membenarkan akses kepada fail media sahaja. Dalam keadaan itu anda tidak akan dapat bekerja dengan fail tersembunyi.</string>
     <string name="media_only">Media sahaja</string>
     <string name="all_files">Semua fail</string>
+    <string name="search_all_files">Cari semua fail dan bukannya folder pada skrin utama</string>
 </resources>
