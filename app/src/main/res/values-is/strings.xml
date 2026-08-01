@@ -196,4 +196,5 @@
     <string name="show_image_file_types">Sýna skráargerðir mynda</string>
     <string name="allow_zooming_videos">Leyfa aðdrátt að myndböndum með því að tvísmella á þau</string>
     <string name="folder_thumbnail_style">Stíll smámynda fyrir möppur</string>
+    <string name="file_thumbnail_style">Stíll smámynda fyrir skrár</string>
 </resources>
