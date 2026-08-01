@@ -59,4 +59,5 @@
     <string name="cant_unhide_folder">Ef mappa eða ein af yfirmöppum hennar er með punkt á undan heitinu er hún falin og ekki hægt að birta hana á þennan hátt. Þú verður að fjarlægja punktinn með því að endurnefna hana.</string>
     <string name="include_folders">Innifaldar möppur</string>
     <string name="manage_included_folders">Sýsla með innifaldar möppur</string>
+    <string name="add_folder">Bæta við möppu</string>
 </resources>
