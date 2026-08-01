@@ -141,4 +141,5 @@
     <string name="fade">Izgaišana</string>
     <string name="slide">Slīdēšana</string>
     <string name="slideshow_ended">Slaidrāde beidzās</string>
+    <string name="no_media_for_slideshow">Slaidrādei nav atrasta neviena multivides datne</string>
 </resources>
