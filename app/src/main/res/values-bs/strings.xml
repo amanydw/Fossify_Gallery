@@ -137,4 +137,5 @@
     <string name="no_media_for_slideshow">Nije pronađen nijedan medij za slajdšou</string>
     <string name="group_direct_subfolders">Grupiši direktne podfoldere</string>
     <string name="group_by">Grupiši po</string>
+    <string name="do_not_group_files">Ne grupiši datoteke</string>
 </resources>
