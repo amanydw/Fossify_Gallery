@@ -227,4 +227,5 @@
     <string name="manage_bottom_actions">Upravljaj vidljivim donjim radnjama</string>
     <string name="toggle_favorite">Uključi/isključi omiljeno</string>
     <string name="toggle_file_visibility">Uključi/isključi vidljivost datoteke</string>
+    <string name="failed_to_load_media">Učitavanje medija nije uspjelo.</string>
 </resources>
