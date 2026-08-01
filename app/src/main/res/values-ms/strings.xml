@@ -247,4 +247,5 @@
     <string name="faq_10_title">Bolehkah saya memangkas imej dengan aplikasi ini?</string>
     <string name="faq_10_text">Ya, anda boleh memangkas imej dalam penyunting, dengan menyeret bucu imej. Anda boleh pergi ke penyunting sama ada dengan menekan lama lakaran kenit imej dan memilih Sunting, atau memilih Sunting daripada paparan skrin penuh.</string>
     <string name="faq_11_title">Bolehkah saya mengumpulkan lakaran kenit fail media?</string>
+    <string name="faq_11_text">Sudah tentu, cuma gunakan item menu “Kumpulkan mengikut” semasa berada dalam paparan lakaran kenit. Anda boleh mengumpulkan fail mengikut pelbagai kriteria, termasuk Tarikh Diambil. Jika anda menggunakan fungsi “Tunjukkan kandungan semua folder”, anda juga boleh mengumpulkannya mengikut folder.</string>
 </resources>
