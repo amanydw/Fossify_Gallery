@@ -122,4 +122,5 @@
     <string name="slideshow">Slideshow</string>
     <string name="interval">Pagitan</string>
     <string name="include_photos">Isama ang mga larawan</string>
+    <string name="include_videos">Isama ang mga video</string>
 </resources>
