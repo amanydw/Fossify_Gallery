@@ -231,4 +231,5 @@
     <string name="file_is_malformed_or_corrupted">Datoteka je neispravna ili oštećena.</string>
     <string name="media_exceeds_device_capabilities">Medij premašuje mogućnosti uređaja.</string>
     <string name="unsupported_format">Nepodržan format.</string>
+    <string name="video_no_sound">Ovaj videozapis nema zvuk</string>
 </resources>
