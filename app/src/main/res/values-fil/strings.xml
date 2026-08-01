@@ -45,4 +45,5 @@
     <string name="gifs">Mga GIF</string>
     <string name="raw_images">Mga RAW na imahe</string>
     <string name="svgs">Mga SVG</string>
+    <string name="portraits">Mga portrait</string>
 </resources>
