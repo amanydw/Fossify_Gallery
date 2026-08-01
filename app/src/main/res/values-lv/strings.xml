@@ -45,4 +45,5 @@
     <string name="volume">Skaļums</string>
     <string name="brightness">Spilgtums</string>
     <string name="lock_orientation">Bloķēt orientāciju</string>
+    <string name="unlock_orientation">Atbloķēt orientāciju</string>
 </resources>
