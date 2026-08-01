@@ -10,4 +10,5 @@
     <string name="pin_folder">Zakači folder</string>
     <string name="unpin_folder">Otkači folder</string>
     <string name="pin_to_the_top">Zakači na vrh</string>
+    <string name="show_all">Prikaži sadržaj svih foldera</string>
 </resources>
