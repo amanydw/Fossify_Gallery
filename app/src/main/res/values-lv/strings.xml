@@ -256,4 +256,5 @@
     <string name="faq_12_text">Visticamāk, tas ir tāpēc, ka datnes ir kopētas no citurienes. To var salabot, atlasot datņu sīktēlus un izvēloties “Salabot uzņemšanas datuma vērtību”.</string>
     <string name="faq_13_title">Attēlos ir redzamas krāsu joslas. Kā es varu uzlabot kvalitāti?</string>
     <string name="faq_13_text">Pašreizējais attēlu attēlošanas risinājums lielākajā daļā gadījumu darbojas labi, taču, ja vēlaties vēl labāku attēla kvalitāti, lietotnes iestatījumu sadaļā “Dziļi tuvināmi attēli” var ieslēgt iespēju “Rādīt attēlus pēc iespējas augstākā kvalitātē”.</string>
+    <string name="faq_14_title">Es paslēpu datni vai mapi. Kā to var parādīt no jauna?</string>
 </resources>
