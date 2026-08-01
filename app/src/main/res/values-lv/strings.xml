@@ -143,4 +143,5 @@
     <string name="slideshow_ended">Slaidrāde beidzās</string>
     <string name="no_media_for_slideshow">Slaidrādei nav atrasta neviena multivides datne</string>
     <string name="group_direct_subfolders">Grupēt tiešās apakšmapes</string>
+    <string name="group_by">Grupēt pēc</string>
 </resources>
