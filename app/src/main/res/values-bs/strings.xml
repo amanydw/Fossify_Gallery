@@ -130,4 +130,5 @@
     <string name="move_backwards">Kreći se unazad</string>
     <string name="loop_slideshow">Ponavljaj slajdšou</string>
     <string name="animation">Animacija</string>
+    <string name="no_animation">Bez animacije</string>
 </resources>
