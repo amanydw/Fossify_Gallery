@@ -78,4 +78,5 @@
     <string name="cant_unhide_folder">Ja mapes vai kādas tās virsmapes nosaukuma priekšā ir punkts, tā ir paslēpta un šādi to nevar parādīt. Punkts ir jānoņem, mapi pārdēvējot.</string>
     <string name="include_folders">Iekļautās mapes</string>
     <string name="manage_included_folders">Pārvaldīt iekļautās mapes</string>
+    <string name="add_folder">Pievienot mapi</string>
 </resources>
