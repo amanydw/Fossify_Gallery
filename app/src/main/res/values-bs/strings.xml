@@ -95,4 +95,5 @@
     <string name="edit_video_with">Uredi videozapis pomoću:</string>
     <string name="no_image_editor_found">Nije pronađen nijedan uređivač slika</string>
     <string name="no_video_editor_found">Nije pronađen nijedan uređivač videozapisa</string>
+    <string name="unknown_file_location">Nepoznata lokacija datoteke</string>
 </resources>
