@@ -229,4 +229,5 @@
     <string name="file_is_malformed_or_corrupted">Skráin er gölluð eða skemmd.</string>
     <string name="media_exceeds_device_capabilities">Efnið er umfram getu tækisins.</string>
     <string name="unsupported_format">Óstutt snið.</string>
+    <string name="video_no_sound">Þetta myndband er án hljóðs</string>
 </resources>
