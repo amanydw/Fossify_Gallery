@@ -123,4 +123,5 @@
     <string name="interval">Millibil</string>
     <string name="include_photos">Hafa ljósmyndir með</string>
     <string name="include_videos">Hafa myndbönd með</string>
+    <string name="include_gifs">Hafa GIF-myndir með</string>
 </resources>
