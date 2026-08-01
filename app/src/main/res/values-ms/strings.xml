@@ -114,4 +114,5 @@
     <string name="portrait_aspect_ratio">Nisbah aspek potret</string>
     <string name="landscape_aspect_ratio">Nisbah aspek lanskap</string>
     <string name="home_screen">Skrin utama</string>
+    <string name="lock_screen">Skrin kunci</string>
 </resources>
