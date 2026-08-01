@@ -234,4 +234,5 @@
     <string name="file_is_malformed_or_corrupted">Datne ir kļūdaina vai bojāta.</string>
     <string name="media_exceeds_device_capabilities">Multivide pārsniedz ierīces iespējas.</string>
     <string name="unsupported_format">Neatbalstīts formāts.</string>
+    <string name="faq_1_text">Vispirms ierīces iestatījumu sadaļā Lietotnes ir jāatrod pašreizējā noklusējuma galerija, jāmeklē poga ar aptuvenu nosaukumu “Atvērt pēc noklusējuma”, uz tās jānoklikšķina un pēc tam jāizvēlas “Notīrīt noklusējumus”. Nākamreiz, kad mēģināsiet atvērt attēlu vai video, vajadzētu parādīties lietotņu izvēlei, kurā varat izvēlēties Fossify Gallery un padarīt to par noklusējuma lietotni.</string>
 </resources>
