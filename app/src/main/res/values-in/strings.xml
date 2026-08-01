@@ -262,8 +262,7 @@
     <string name="keep_screen_on_fullscreen_photos">Biarkan layar tetap menyala saat melihat foto layar penuh</string>
     <plurals name="restore_confirmation">
         <item quantity="other">Apakah Anda yakin ingin memulihkan %d file?</item>
-        <item quantity="one">Apakah Anda yakin ingin memulihkan %d file?</item>
-</plurals>
+    </plurals>
     <string name="render_ultra_hdr_photos">Tampilkan foto Ultra HDR dalam HDR</string>
     <string name="on_video_tap">Saat mengetuk video</string>
     <string name="open_in_app_player">Buka pemutar dalam aplikasi</string>
