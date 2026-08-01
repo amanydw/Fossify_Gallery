@@ -102,4 +102,5 @@
     <string name="draw">Lukis</string>
     <string name="flip">Terbalikkan</string>
     <string name="flip_horizontally">Terbalikkan secara mendatar</string>
+    <string name="flip_vertically">Terbalikkan secara menegak</string>
 </resources>
