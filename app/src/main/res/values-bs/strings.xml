@@ -206,4 +206,5 @@
     <string name="show_file_count_none">Ne prikazuj broj datoteka</string>
     <string name="limit_folder_title">Ograniči duge nazive foldera na jedan red</string>
     <string name="square">Kvadrat</string>
+    <string name="rounded_corners">Zaobljeni uglovi</string>
 </resources>
