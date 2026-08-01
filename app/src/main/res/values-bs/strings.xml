@@ -103,4 +103,5 @@
     <string name="rotate_one_eighty">Rotiraj za 180º</string>
     <string name="transform">Transformiši</string>
     <string name="crop">Izreži</string>
+    <string name="draw">Crtaj</string>
 </resources>
