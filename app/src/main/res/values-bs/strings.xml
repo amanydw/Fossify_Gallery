@@ -23,4 +23,5 @@
     <string name="change_orientation">Promijeni orijentaciju</string>
     <string name="force_portrait">Prisili uspravni prikaz</string>
     <string name="force_landscape">Prisili položeni prikaz</string>
+    <string name="force_landscape_reverse">Prisili položeni prikaz (obrnuto)</string>
 </resources>
