@@ -73,4 +73,5 @@
     <plurals name="failed_to_resize_images">
         <item quantity="other">Gagal mengubah saiz %d imej</item>
     </plurals>
+    <string name="images_resized_successfully">Saiz imej berjaya diubah</string>
 </resources>
