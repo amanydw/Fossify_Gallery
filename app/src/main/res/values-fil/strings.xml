@@ -95,4 +95,5 @@
     <string name="no_video_editor_found">Walang natagpuang editor ng video</string>
     <string name="unknown_file_location">Hindi kilalang lokasyon ng file</string>
     <string name="overwrite_original">I-overwrite ang orihinal</string>
+    <string name="error_saving_file">Hindi ma-overwrite ang pinagmulang file</string>
 </resources>
