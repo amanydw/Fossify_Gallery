@@ -149,4 +149,5 @@
     <string name="grouping_and_sorting">Pakitandaan na ang pagpapangkat at pag-uuri ay 2 magkahiwalay na field</string>
     <string name="folder_on_widget">Folder na ipinapakita sa widget:</string>
     <string name="show_folder_name">Ipakita ang pangalan ng folder</string>
+    <string name="autoplay_videos">Awtomatikong i-play ang mga video</string>
 </resources>
