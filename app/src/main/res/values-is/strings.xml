@@ -92,4 +92,5 @@
     <string name="edit_image_with">Breyta mynd með:</string>
     <string name="edit_video_with">Breyta myndbandi með:</string>
     <string name="no_image_editor_found">Ekkert myndvinnsluforrit fannst</string>
+    <string name="no_video_editor_found">Ekkert myndbandsvinnsluforrit fannst</string>
 </resources>
