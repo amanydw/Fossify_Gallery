@@ -251,4 +251,5 @@
     <string name="faq_12_title">Pengisihan mengikut Tarikh Diambil nampaknya tidak berfungsi dengan betul, bagaimanakah saya boleh membaikinya?</string>
     <string name="faq_12_text">Ia berkemungkinan besar disebabkan oleh fail yang disalin dari tempat lain. Anda boleh membaikinya dengan memilih lakaran kenit fail dan memilih “Baiki nilai Tarikh Diambil”.</string>
     <string name="faq_13_title">Saya nampak jalur warna pada imej. Bagaimanakah saya boleh meningkatkan kualitinya?</string>
+    <string name="faq_13_text">Penyelesaian semasa untuk memaparkan imej berfungsi dengan baik dalam kebanyakan kes, tetapi jika anda mahukan kualiti imej yang lebih baik lagi, anda boleh mendayakan “Tunjukkan imej dalam kualiti setinggi mungkin” pada tetapan aplikasi, dalam bahagian “Imej boleh zum mendalam”.</string>
 </resources>
