@@ -263,4 +263,6 @@
     <string name="on_video_tap">Deg tesfift n uvidyu</string>
     <string name="open_in_app_player">Ldi ameɣri usliɣ deg usnas</string>
     <string name="open_system_default_player">Ldi asnas n umeɣri amezwer</string>
+    <string name="faq_8_text">Tirnit n tkarut deg tkarutin n uktum ur t-ittekkes ara ayen-nniḍen s ubaḍ. Ayen i tzemreḍ ad t-tgeḍ d ad tṛuḥeḍ ɣer Iɣewwaṛen -&gt; Sefreḍ tikarutin yettwakksen, kkes takarut n uẓar \"/\", sakin rnu tikarutin i tebɣiḍ deg Iɣewwaṛen -&gt; Sefreḍ tikarutin n uktum. Ayagi ad d-isken kan tikarutin i tferneḍ, imi ama d akkes neɣ d aktum d imezgi yerna ma yella takarut tettuakkes u ttwaktum, ad d-tban.</string>
+    <string name="faq_11_text">S ubaḍ, seqdec kan tamsert n umuɣ \"Sdukel s\" lamer i tellaḍ deg tmuɣli n tnummulin. Tzemreḍ ad tdukleḍ ifayluwen s waṭas n lamer, gar-asen azemz n tuṭṭfa. Ma tseqdceḍ tamahalt \"Sken akk agbur n tkarutin\" tzemreḍ ad ten-tesdukleḍ s tkarutin daɣen.</string>
 </resources>
