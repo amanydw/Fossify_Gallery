@@ -109,7 +109,7 @@
     <string name="portrait_aspect_ratio">Uspravni omjer slike</string>
     <string name="landscape_aspect_ratio">Položeni omjer slike</string>
     <string name="home_screen">Početni ekran</string>
-    <string name="lock_screen">Zaključaj ekran</string>
+    <string name="lock_screen">Zaključani ekran</string>
     <string name="home_and_lock_screen">Početni i zaključani ekran</string>
     <string name="allow_changing_aspect_ratio">Dopusti mijenjanje omjera</string>
     <string name="slideshow">Dijaprojekcija</string>
