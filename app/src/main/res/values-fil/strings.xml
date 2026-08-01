@@ -163,4 +163,5 @@
     <string name="screen_rotation_aspect_ratio">Aspect ratio</string>
     <string name="black_background_at_fullscreen">Itim na background sa fullscreen na media</string>
     <string name="scroll_thumbnails_horizontally">I-scroll ang mga thumbnail nang pahalang</string>
+    <string name="hide_system_ui_at_fullscreen">Awtomatikong itago ang system UI sa fullscreen na media</string>
 </resources>
