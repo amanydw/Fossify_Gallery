@@ -231,7 +231,7 @@
     <string name="faq_12_title">Razvrstavanje prema datumu snimanja nije točno, kako to mogu ispraviti\?</string>
     <string name="faq_12_text">Vjerojatan uzrok tome je da su slike kopirane s drugih mjesta. Dodirni dugo sličice datoteka i odaberi funkciju „Ispravi vrijednost datuma snimanja”.</string>
     <string name="faq_13_title">Vidim nekakvo preklapanje boja na slikama. Kako mogu poboljšati kvalitetu\?</string>
-    <string name="faq_13_text">Aktualno rješenje za prikazivanje slika funkcionira dobro u većini slučajeva, ali ako želiš još bolju kvalitetu slike, možeš aktivirati „Prikaži slike u najvišoj mogućoj kvaliteti” u postavkama aplikacije, u odjeljku „Slike visoke rezolucije.</string>
+    <string name="faq_13_text">Aktualno rješenje za prikazivanje slika funkcionira dobro u većini slučajeva, ali ako želiš još bolju kvalitetu slike, možeš aktivirati „Prikaži slike u najvišoj mogućoj kvaliteti” u postavkama aplikacije, u odjeljku „Slike visoke rezolucije”.</string>
     <string name="faq_14_title">Sakrio sam datoteku/mapu. Kako je mogu opet prikazati\?</string>
     <string name="faq_14_text">U glavnom ekranu pritisni stavku izbornika „Privremeno prikaži skrivene stavke” ili uključi „Prikaži skrivene stavke” u postavkama aplikacije. Ako je želiš prikazati, pritisni je dugo i odaberi „Otkrij”. Mape se skrivaju dodavanjem skrivene datoteke „.nomedia”. Datoteku možeš izbrisati i s bilo kojim upravljačem datoteka. Imaj na umu da skrivanje ipak radi rekurzivno, pa ako sakriješ mapu, sve podmape će se također sakriti. Za otkrivanje podmapa moraš otkriti nadređenu mapu.</string>
     <string name="faq_15_title">Zašto aplikacija koristi toliko memorije\?</string>
