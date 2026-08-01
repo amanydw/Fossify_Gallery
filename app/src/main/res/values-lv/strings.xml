@@ -191,4 +191,5 @@
     <string name="open_videos_on_separate_screen">Atskaņot video atsevišķā ekrānā ar horizontāliem žestiem</string>
     <string name="on_video_tap">Pieskaroties video</string>
     <string name="open_in_app_player">Atvērt lietotnes atskaņotāju</string>
+    <string name="open_system_default_player">Atvērt noklusējuma atskaņotāja lietotni</string>
 </resources>
