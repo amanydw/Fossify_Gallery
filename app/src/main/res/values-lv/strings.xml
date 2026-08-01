@@ -54,4 +54,5 @@
     <string name="fix_date_taken">Salabot uzņemšanas datuma vērtību</string>
     <string name="fixing">Labo…</string>
     <string name="dates_fixed_successfully">Datumi veiksmīgi salaboti</string>
+    <string name="no_date_takens_found">Nav atrasta neviena uzņemšanas datuma vērtība</string>
 </resources>
