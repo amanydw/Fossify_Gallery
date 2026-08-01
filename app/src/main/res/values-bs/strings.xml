@@ -101,4 +101,5 @@
     <string name="rotate_left">Rotiraj ulijevo</string>
     <string name="rotate_right">Rotiraj udesno</string>
     <string name="rotate_one_eighty">Rotiraj za 180º</string>
+    <string name="transform">Transformiši</string>
 </resources>
