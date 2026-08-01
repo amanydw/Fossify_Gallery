@@ -129,4 +129,5 @@
     <string name="no_animation">Tiada</string>
     <string name="fade">Pudar</string>
     <string name="slide">Luncur</string>
+    <string name="slideshow_ended">Tayangan slaid telah tamat</string>
 </resources>
