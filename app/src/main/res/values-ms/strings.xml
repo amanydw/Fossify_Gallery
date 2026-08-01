@@ -31,4 +31,5 @@
     <string name="no_date_takens_found">Tiada nilai Tarikh Diambil ditemui</string>
     <string name="share_resized">Kongsi versi yang diubah saiznya</string>
     <string name="switch_to_file_search">Tukar ke carian fail merentas semua folder yang kelihatan</string>
+    <string name="set_as_default_folder">Tetapkan sebagai folder lalai</string>
 </resources>
