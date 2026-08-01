@@ -36,4 +36,8 @@
     <string name="reorder_by_dragging">Endurraða möppum með því að draga þær</string>
     <string name="reorder_by_dragging_pro">Endurraða möppum með því að draga þær (Pro)</string>
     <string name="restore_to_path">Endurheimti í „%s“</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">Ertu viss um að þú viljir endurheimta %d skrá?</item>
+        <item quantity="other">Ertu viss um að þú viljir endurheimta %d skrár?</item>
+    </plurals>
 </resources>
