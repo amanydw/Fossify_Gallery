@@ -52,4 +52,5 @@
     <string name="exclude_folder_description">Þetta útilokar valið ásamt undirmöppum þess eingöngu frá Fossify Gallerí. Þú getur sýslað með útilokaðar möppur í stillingunum.</string>
     <string name="exclude_folder_parent">Útiloka yfirmöppu í staðinn?</string>
     <string name="excluded_activity_placeholder">Þegar möppur eru útilokaðar verða þær ásamt undirmöppum sínum faldar eingöngu í Fossify Gallerí, þær verða áfram sýnilegar í öðrum forritum.\n\nEf þú vilt einnig fela þær fyrir öðrum forritum skaltu nota aðgerðina Fela.</string>
+    <string name="hidden_folders">Faldar möppur</string>
 </resources>
