@@ -99,4 +99,5 @@
     <string name="overwrite_original">Prepiši original</string>
     <string name="error_saving_file">Nije moguće prepisati izvornu datoteku</string>
     <string name="rotate_left">Rotiraj ulijevo</string>
+    <string name="rotate_right">Rotiraj udesno</string>
 </resources>
