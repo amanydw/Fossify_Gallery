@@ -118,4 +118,5 @@
     <string name="portrait_aspect_ratio">Uspravni omjer stranica</string>
     <string name="landscape_aspect_ratio">Položeni omjer stranica</string>
     <string name="home_screen">Početni ekran</string>
+    <string name="lock_screen">Zaključani ekran</string>
 </resources>
