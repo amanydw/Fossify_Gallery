@@ -249,4 +249,5 @@
     <string name="faq_10_title">Maaari ba akong mag-crop ng mga imahe gamit ang app na ito?</string>
     <string name="faq_10_text">Oo, maaari kang mag-crop ng mga imahe sa editor, sa pamamagitan ng pag-drag sa mga sulok ng imahe. Makakarating ka sa editor sa pamamagitan ng pagpindot nang matagal sa thumbnail ng imahe at pagpili ng I-edit, o sa pagpili ng I-edit mula sa fullscreen view.</string>
     <string name="faq_11_title">Maaari ko bang pangkatin ang mga thumbnail ng media file?</string>
+    <string name="faq_11_text">Oo naman, gamitin lang ang menu item na “Pangkatin ayon sa” habang nasa view ng mga thumbnail. Maaari mong pangkatin ang mga file ayon sa maraming pamantayan, kabilang ang Petsa ng Pagkuha. Kung gagamitin mo ang function na “Ipakita ang nilalaman ng lahat ng folder”, maaari mo ring pangkatin ang mga ito ayon sa folder.</string>
 </resources>
