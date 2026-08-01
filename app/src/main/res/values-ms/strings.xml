@@ -89,4 +89,5 @@
     <string name="video_edited_successfully">Video berjaya disunting</string>
     <string name="edit_image_with">Sunting imej dengan:</string>
     <string name="edit_video_with">Sunting video dengan:</string>
+    <string name="no_image_editor_found">Tiada penyunting imej ditemui</string>
 </resources>
