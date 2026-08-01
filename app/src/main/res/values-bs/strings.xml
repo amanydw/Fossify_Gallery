@@ -9,4 +9,5 @@
     <string name="excluded">(isključeno)</string>
     <string name="pin_folder">Zakači folder</string>
     <string name="unpin_folder">Otkači folder</string>
+    <string name="pin_to_the_top">Zakači na vrh</string>
 </resources>
