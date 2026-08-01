@@ -185,4 +185,5 @@
     <string name="show_recycle_bin">Rādīt atkritni mapju ekrānā</string>
     <string name="deep_zoomable_images">Dziļi tuvināmi attēli</string>
     <string name="show_highest_quality">Rādīt attēlus pēc iespējas augstākā kvalitātē</string>
+    <string name="show_recycle_bin_last">Rādīt atkritni kā pēdējo vienumu galvenajā ekrānā</string>
 </resources>
