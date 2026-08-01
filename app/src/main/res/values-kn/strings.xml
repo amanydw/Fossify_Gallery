@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">ಗ್ಯಾಲರಿ</string>
+    <string name="edit">ತಿದ್ದಿ</string>
+    <string name="open_camera">ಕ್ಯಾಮೆರಾ ತೆರೆಯಿರಿ</string>
+    <string name="images">ಚಿತ್ರಗಳು</string>
+    <string name="videos">ವೀಡಿಯೊಗಳು</string>
+</resources>
