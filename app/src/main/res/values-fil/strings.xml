@@ -99,4 +99,5 @@
     <string name="rotate_left">Iikot pakaliwa</string>
     <string name="rotate_right">Iikot pakanan</string>
     <string name="rotate_one_eighty">Iikot ng 180º</string>
+    <string name="transform">Baguhin ang anyo</string>
 </resources>
