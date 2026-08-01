@@ -135,4 +135,5 @@
     <string name="no_media_for_slideshow">Walang natagpuang media para sa slideshow</string>
     <string name="group_direct_subfolders">Pangkatin ang mga tuwirang subfolder</string>
     <string name="group_by">Pangkatin ayon sa</string>
+    <string name="do_not_group_files">Huwag pangkatin ang mga file</string>
 </resources>
