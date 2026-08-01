@@ -104,7 +104,7 @@
     <string name="set_as_wallpaper">Postavi kao sliku pozadine</string>
     <string name="set_as_wallpaper_failed">Postavljanje kao slike pozadine neuspjelo</string>
     <string name="set_as_wallpaper_with">Postavi kao sliku pozadine pomoću:</string>
-    <string name="setting_wallpaper">Postavljanje slike pozadine …</string>
+    <string name="setting_wallpaper">Postavljanje slike pozadine…</string>
     <string name="wallpaper_set_successfully">Slika pozadine je uspješno postavljena</string>
     <string name="portrait_aspect_ratio">Uspravni omjer slike</string>
     <string name="landscape_aspect_ratio">Položeni omjer slike</string>
