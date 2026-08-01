@@ -242,4 +242,5 @@
     <string name="faq_5_text">Útilokun kemur í veg fyrir að mappan birtist eingöngu í Fossify Gallerí, en að fela virkar á öllu kerfinu og felur möppuna einnig fyrir öðrum galleríum. Það virkar þannig að tóm „.nomedia“ skrá er búin til í viðkomandi möppu, sem þú getur síðan fjarlægt með hvaða skráastjóra sem er. Athugaðu að sum tæki leyfa ekki að fela möppur á borð við Camera, Screenshots og Downloads.</string>
     <string name="faq_6_title">Af hverju birtast möppur með umslagsmyndum tónlistar eða límmiðum?</string>
     <string name="faq_6_text">Það getur gerst að þú sjáir einhver óvenjuleg albúm birtast. Þú getur auðveldlega útilokað þau með því að halda inni á þeim og velja Útiloka. Í næsta glugga geturðu síðan valið yfirmöppuna, sem kemur líklega einnig í veg fyrir að önnur tengd albúm birtist.</string>
+    <string name="faq_7_title">Mappa með myndum birtist ekki, eða hún sýnir ekki öll atriðin. Hvað get ég gert?</string>
 </resources>
