@@ -167,4 +167,5 @@
     <string name="scroll_thumbnails_horizontally">Pomjeraj sličice vodoravno</string>
     <string name="hide_system_ui_at_fullscreen">Automatski sakrij sistemsko sučelje pri prikazu medija preko cijelog ekrana</string>
     <string name="delete_empty_folders">Izbriši prazne foldere nakon brisanja njihovog sadržaja</string>
+    <string name="keep_screen_on_fullscreen_photos">Drži ekran uključenim tokom gledanja fotografija preko cijelog ekrana</string>
 </resources>
