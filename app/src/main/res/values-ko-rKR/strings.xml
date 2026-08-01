@@ -253,7 +253,6 @@
     <string name="faq_12_title">촬영한 날짜 기준 정렬이 제대로 안되는데 어떻게 해야 하나요?</string>
     <string name="force_landscape_reverse">가로 모드(반전) 강제 적용</string>
     <plurals name="restore_confirmation">
-        <item quantity="one">%d개 파일을 복원하시겠습니까?</item>
         <item quantity="other">%d개 파일을 복원하시겠습니까?</item>
     </plurals>
     <string name="full_storage_permission_required">Fossify Gallery에서 모든 사진과 동영상을 표시하려면 전체 액세스 권한이 필요합니다. 설정 > 권한 > 사진 및 동영상 > 모두 허용으로 이동하세요.</string>
