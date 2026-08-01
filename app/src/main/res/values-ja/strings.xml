@@ -253,9 +253,7 @@
 </plurals>
     <string name="overwrite_original">元のファイルを上書きする</string>
     <string name="force_landscape_reverse">横で固定（反転）</string>
-    <string name="excluded_activity_placeholder">除外したフォルダーは、サブフォルダーごと Fossify Gallery 内でのみ非表示になります。他のアプリでは引き続き表示されます。
-
-他のアプリからも非表示にするには、非表示機能を使用してください。</string>
+    <string name="excluded_activity_placeholder">除外したフォルダーは、サブフォルダーごと Fossify Gallery 内でのみ非表示になります。他のアプリでは引き続き表示されます。\n\n他のアプリからも非表示にするには、非表示機能を使用してください。</string>
     <string name="render_ultra_hdr_photos">Ultra HDR 写真を HDR で表示</string>
     <string name="keep_screen_on_fullscreen_photos">全画面で写真を表示中は画面をオンにしたままにする</string>
     <string name="playback_speed">再生速度</string>
