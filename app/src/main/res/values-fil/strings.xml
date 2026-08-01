@@ -59,4 +59,5 @@
     <string name="cant_unhide_folder">Kung ang isang folder o isa sa mga parent folder nito ay may tuldok bago ang pangalan nito, nakatago ito at hindi maaaring ilabas sa ganitong paraan. Kailangan mong alisin ang tuldok sa pamamagitan ng pagpapalit ng pangalan nito.</string>
     <string name="include_folders">Mga isinamang folder</string>
     <string name="manage_included_folders">Pamahalaan ang mga isinamang folder</string>
+    <string name="add_folder">Magdagdag ng folder</string>
 </resources>
