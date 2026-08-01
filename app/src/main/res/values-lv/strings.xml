@@ -56,4 +56,5 @@
     <string name="dates_fixed_successfully">Datumi veiksmīgi salaboti</string>
     <string name="no_date_takens_found">Nav atrasta neviena uzņemšanas datuma vērtība</string>
     <string name="share_resized">Kopīgot versiju ar mainītu izmēru</string>
+    <string name="switch_to_file_search">Pārslēgties uz datņu meklēšanu visās redzamajās mapēs</string>
 </resources>
