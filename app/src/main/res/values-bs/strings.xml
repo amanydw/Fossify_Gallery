@@ -202,4 +202,5 @@
     <string name="mark_favorite_items">Označi omiljene stavke</string>
     <string name="thumbnail_spacing">Razmak između sličica</string>
     <string name="show_file_count_line">Prikaži broj datoteka u zasebnom redu</string>
+    <string name="show_file_count_brackets">Prikaži broj datoteka u zagradama</string>
 </resources>
