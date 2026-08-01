@@ -261,4 +261,5 @@
     <string name="faq_15_title">Kāpēc lietotne aizņem tik daudz vietas?</string>
     <string name="faq_15_text">Lietotnes kešatmiņa var aizņemt līdz 250 MB, un tā nodrošina ātrāku attēlu ielādi. Ja lietotne aizņem vēl vairāk vietas, visticamāk, atkritnē ir vienumi. Šīs datnes tiek ieskaitītas lietotnes izmērā. Atkritni var iztukšot, to atverot un izdzēšot visas datnes, vai arī lietotnes iestatījumos. Katra datne atkritnē tiek automātiski dzēsta pēc 30 dienām.</string>
     <string name="faq_16_title">Kas notika ar datņu un mapju paslēpšanu un kāpēc es vairs neredzu paslēptos vienumus?</string>
+    <string name="faq_16_text">Sākot ar Android 11, datnes un mapes vairs nevar ne paslēpt, ne parādīt, un sistēmas ierobežojumu dēļ paslēptās datnes vairs nevar redzēt arī galerijas lietotnēs. Tam būs jāizmanto kāds datņu pārvaldnieks.</string>
 </resources>
