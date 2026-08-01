@@ -99,4 +99,5 @@
     <string name="rotate_left">Snúa til vinstri</string>
     <string name="rotate_right">Snúa til hægri</string>
     <string name="rotate_one_eighty">Snúa um 180º</string>
+    <string name="transform">Umbreyta</string>
 </resources>
