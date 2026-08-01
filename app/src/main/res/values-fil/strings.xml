@@ -146,4 +146,5 @@
     <string name="by_file_type">Uri ng file</string>
     <string name="by_extension">Extension</string>
     <string name="show_file_count_section_header">Ipakita ang bilang ng file sa mga header ng seksyon</string>
+    <string name="grouping_and_sorting">Pakitandaan na ang pagpapangkat at pag-uuri ay 2 magkahiwalay na field</string>
 </resources>
