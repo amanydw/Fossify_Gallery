@@ -98,4 +98,5 @@
     <string name="invalid_image_path">Nederīgs attēla ceļš</string>
     <string name="invalid_video_path">Nederīgs video ceļš</string>
     <string name="image_editing_failed">Attēla rediģēšana neizdevās</string>
+    <string name="video_editing_failed">Video rediģēšana neizdevās</string>
 </resources>
