@@ -9,4 +9,5 @@
     <string name="excluded">(útilokað)</string>
     <string name="pin_folder">Festa möppu</string>
     <string name="unpin_folder">Losa möppu</string>
+    <string name="pin_to_the_top">Festa efst</string>
 </resources>
