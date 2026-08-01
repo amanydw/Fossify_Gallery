@@ -97,4 +97,5 @@
     <string name="rotate">Pagriezt</string>
     <string name="invalid_image_path">Nederīgs attēla ceļš</string>
     <string name="invalid_video_path">Nederīgs video ceļš</string>
+    <string name="image_editing_failed">Attēla rediģēšana neizdevās</string>
 </resources>
