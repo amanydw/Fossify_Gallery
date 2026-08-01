@@ -81,4 +81,5 @@
     <string name="advanced_editor">Ítarleg myndvinnsla</string>
     <string name="rotate">Snúa</string>
     <string name="invalid_image_path">Ógild slóð myndar</string>
+    <string name="invalid_video_path">Ógild slóð myndbands</string>
 </resources>
