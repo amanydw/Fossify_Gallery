@@ -242,4 +242,33 @@
         <item quantity="few">Неуспешна промена величине %d слике</item>
         <item quantity="other">Неуспешна промена величине %d слика</item>
     </plurals>
+    <string name="force_landscape_reverse">Форсирај пејзаж (обрнуто)</string>
+    <string name="excluded_activity_placeholder">Искључивање фасцикли ће их, заједно са њиховим подфасциклама, сакрити само у Fossify Gallery; и даље ће бити видљиве у другим апликацијама.
+
+Ако желите да их сакријете и од других апликација, користите функцију Сакриј.</string>
+    <string name="resize_multiple_images">Промени величину више слика</string>
+    <string name="resize_factor_error">Унесите број између 10 и 90</string>
+    <string name="basic_editor">Основни уређивач</string>
+    <string name="advanced_editor">Напредни уређивач</string>
+    <string name="overwrite_original">Препиши оригинал</string>
+    <string name="transform">Трансформација</string>
+    <string name="crop">Исеци</string>
+    <string name="draw">Цртај</string>
+    <string name="wallpaper">Позадина</string>
+    <string name="slide">Клизи</string>
+    <string name="render_ultra_hdr_photos">Прикажи Ultra HDR фотографије у HDR</string>
+    <string name="playback_speed">Брзина репродукције</string>
+    <string name="on_video_tap">При додиру видео записа</string>
+    <string name="open_in_app_player">Отвори плејер у апликацији</string>
+    <string name="open_system_default_player">Отвори подразумевану апликацију за репродукцију</string>
+    <string name="import_favorite_paths">Увези омиљене</string>
+    <string name="search_all_files">Претражуј све датотеке уместо фасцикли на главном екрану</string>
+    <string name="show_all_folders">Прикажи дугме менија за брзо укључивање/искључивање приказа садржаја свих фасцикли</string>
+    <string name="failed_to_load_media">Учитавање медија није успело.</string>
+    <string name="file_is_malformed_or_corrupted">Датотека је неисправна или оштећена.</string>
+    <string name="unsupported_format">Неподржани формат.</string>
+    <string name="video_no_sound">Овај видео запис нема звук</string>
+    <string name="faq_1_title">Како могу да учиним Fossify Gallery подразумеваном галеријом на уређају?</string>
+    <string name="faq_1_text">Прво морате да пронађете тренутну подразумевану галерију у одељку „Апликације“ у подешавањима уређаја, потражите дугме које каже нешто попут „Отвори подразумевано“, кликните на њега, а затим изаберите „Очисти подразумевано“. Следећи пут када покушате да отворите слику или видео, требало би да видите бирач апликација, где можете изабрати Fossify Gallery и учинити је подразумеваном апликацијом.</string>
+    <string name="faq_5_text">Искључивање спречава приказивање фасцикле само у Fossify Gallery, док Сакривање функционише на нивоу система и сакрива фасциклу и од других галерија. Функционише тако што креира празан „.nomedia“ фајл у датој фасцикли, који затим можете уклонити било којим менаџером датотека. Имајте на уму да неки уређаји не дозвољавају скривање фасцикли попут Камере, Снимака екрана и Преузимања.</string>
 </resources>
