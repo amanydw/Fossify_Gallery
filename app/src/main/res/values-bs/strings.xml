@@ -82,4 +82,5 @@
     <string name="basic_editor">Osnovni uređivač</string>
     <string name="advanced_editor">Napredni uređivač</string>
     <string name="rotate">Rotiraj</string>
+    <string name="invalid_image_path">Neispravna putanja slike</string>
 </resources>
