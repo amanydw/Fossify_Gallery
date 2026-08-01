@@ -174,4 +174,5 @@
     <string name="show_media_count">Prikaži broj medija u folderu na glavnom prikazu</string>
     <string name="show_extended_details">Prikaži proširene detalje preko medija u punom ekranu</string>
     <string name="manage_extended_details">Upravljaj proširenim detaljima</string>
+    <string name="one_finger_zoom">Dozvoli uvećavanje jednim prstom pri prikazu medija preko cijelog ekrana</string>
 </resources>
