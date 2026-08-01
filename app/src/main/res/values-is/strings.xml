@@ -248,4 +248,5 @@
     <string name="faq_8_text">Það útilokar ekkert sjálfkrafa að bæta möppu við innifaldar möppur. Það sem þú getur gert er að fara í Stillingar -&gt; Sýsla með útilokaðar möppur, útiloka rótarmöppuna „/“ og bæta síðan viðkomandi möppum við í Stillingar -&gt; Sýsla með innifaldar möppur. Þannig verða aðeins völdu möppurnar sýnilegar, því bæði útilokun og innifelun eru endurkvæmar og ef mappa er bæði útilokuð og innifalin þá birtist hún.</string>
     <string name="faq_10_title">Get ég skorið utan af myndum með þessu forriti?</string>
     <string name="faq_10_text">Já, þú getur skorið utan af myndum í myndvinnslunni með því að draga horn myndarinnar. Þú kemst í myndvinnsluna annaðhvort með því að halda inni á smámynd og velja Breyta, eða með því að velja Breyta í heilskjásýn.</string>
+    <string name="faq_11_title">Get ég einhvern veginn flokkað smámyndir margmiðlunarskráa?</string>
 </resources>
