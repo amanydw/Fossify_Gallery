@@ -202,4 +202,5 @@
     <string name="show_file_count_none">Jangan tunjukkan bilangan fail</string>
     <string name="limit_folder_title">Hadkan tajuk folder yang panjang kepada 1 baris</string>
     <string name="square">Segi empat sama</string>
+    <string name="rounded_corners">Bucu bulat</string>
 </resources>
