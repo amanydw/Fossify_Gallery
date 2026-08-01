@@ -81,4 +81,5 @@
     <string name="editor">Uređivač</string>
     <string name="basic_editor">Osnovni uređivač</string>
     <string name="advanced_editor">Napredni uređivač</string>
+    <string name="rotate">Rotiraj</string>
 </resources>
