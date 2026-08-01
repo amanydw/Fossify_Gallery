@@ -152,4 +152,5 @@
     <string name="by_date_taken">Uzņemšanas datuma</string>
     <string name="by_date_taken_daily">Uzņemšanas datuma (pa dienām)</string>
     <string name="by_date_taken_monthly">Uzņemšanas datuma (pa mēnešiem)</string>
+    <string name="by_file_type">Datnes veida</string>
 </resources>
