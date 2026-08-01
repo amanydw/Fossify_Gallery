@@ -42,4 +42,5 @@
     </plurals>
     <string name="full_storage_permission_required">Fossify Gallerí þarf fullan aðgang til að birta allar ljósmyndirnar þínar og myndbönd. Farðu í Stillingar &gt; Heimildir &gt; Myndir og myndbönd &gt; Leyfa allt.</string>
     <string name="filter_media">Sía margmiðlunarefni</string>
+    <string name="gifs">GIF-myndir</string>
 </resources>
