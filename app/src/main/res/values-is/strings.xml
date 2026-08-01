@@ -31,4 +31,5 @@
     <string name="no_date_takens_found">Engin gildi fyrir upptökudagsetningu fundust</string>
     <string name="share_resized">Deila útgáfu með breyttri stærð</string>
     <string name="switch_to_file_search">Skipta yfir í leit að skrám í öllum sýnilegum möppum</string>
+    <string name="set_as_default_folder">Setja sem sjálfgefna möppu</string>
 </resources>
