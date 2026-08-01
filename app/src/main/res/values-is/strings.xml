@@ -225,4 +225,5 @@
     <string name="manage_bottom_actions">Sýsla með sýnilegar aðgerðir neðst</string>
     <string name="toggle_favorite">Víxla eftirlæti</string>
     <string name="toggle_file_visibility">Víxla sýnileika skrár</string>
+    <string name="failed_to_load_media">Mistókst að hlaða inn margmiðlunarefni.</string>
 </resources>
