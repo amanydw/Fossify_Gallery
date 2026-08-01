@@ -48,4 +48,11 @@
     <string name="lock_orientation">अभिमुखीकरण लक गर्नुहोस</string>
     <string name="unlock_orientation">अभिमुखीकरण अनलक गर्नुहोस</string>
     <string name="fixing">मिलाउँदै…</string>
+    <string name="dates_fixed_successfully">मिति सफलतापूर्वक मिलाइयो</string>
+    <string name="filter_media">मिडिया फिल्टर गर्नुहोस</string>
+    <string name="portraits">पोर्ट्रेटहरु</string>
+    <string name="keep_aspect_ratio">आकार अनुपात कायम राख्नुहोस्</string>
+    <string name="invalid_values">कृपया मान्य मानहरू प्रविष्ट गर्नुहोस्</string>
+    <string name="rotate_left">बायाँ घुमाउनुहोस्</string>
+    <string name="rotate_right">दायाँ घुमाउनुहोस्</string>
 </resources>
