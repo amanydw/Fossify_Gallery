@@ -151,4 +151,5 @@
     <string name="remember_last_video_position">Ingat kedudukan main balik video yang terakhir</string>
     <string name="loop_videos">Ulang video</string>
     <string name="animate_gifs">Animasikan GIF pada lakaran kenit</string>
+    <string name="max_brightness">Kecerahan maksimum semasa melihat media skrin penuh</string>
 </resources>
