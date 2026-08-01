@@ -84,4 +84,5 @@
     <string name="video_editing_failed">Penyuntingan video gagal</string>
     <string name="image_editing_cancelled">Penyuntingan imej dibatalkan</string>
     <string name="video_editing_cancelled">Penyuntingan video dibatalkan</string>
+    <string name="file_edited_successfully">Fail berjaya disunting</string>
 </resources>
