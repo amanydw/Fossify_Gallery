@@ -27,4 +27,5 @@
     <string name="use_default_orientation">Koristi zadanu orijentaciju</string>
     <string name="fix_date_taken">Popravi vrijednost datuma snimanja</string>
     <string name="fixing">Popravljanje…</string>
+    <string name="dates_fixed_successfully">Datumi su uspješno popravljeni</string>
 </resources>
