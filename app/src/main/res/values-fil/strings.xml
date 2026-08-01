@@ -105,4 +105,5 @@
     <string name="flip">I-flip</string>
     <string name="flip_horizontally">I-flip nang pahalang</string>
     <string name="flip_vertically">I-flip nang patayo</string>
+    <string name="free_aspect_ratio">Malaya</string>
 </resources>
