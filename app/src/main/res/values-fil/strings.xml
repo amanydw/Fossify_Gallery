@@ -88,4 +88,5 @@
     <string name="video_editing_cancelled">Kinansela ang pag-edit ng video</string>
     <string name="file_edited_successfully">Matagumpay na na-edit ang file</string>
     <string name="image_edited_successfully">Matagumpay na na-edit ang imahe</string>
+    <string name="video_edited_successfully">Matagumpay na na-edit ang video</string>
 </resources>
