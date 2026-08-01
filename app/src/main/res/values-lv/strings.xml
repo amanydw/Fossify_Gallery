@@ -110,4 +110,5 @@
     <string name="no_video_editor_found">Nav atrasts neviens video redaktors</string>
     <string name="unknown_file_location">Nezināma datnes atrašanās vieta</string>
     <string name="crop">Apcirpt</string>
+    <string name="draw">Zīmēt</string>
 </resources>
