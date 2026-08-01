@@ -67,4 +67,5 @@
     <string name="keep_aspect_ratio">Kekalkan nisbah aspek</string>
     <string name="invalid_values">Sila masukkan resolusi yang sah</string>
     <string name="resize_multiple_images">Ubah saiz berbilang imej</string>
+    <string name="resize_factor">Faktor ubah saiz</string>
 </resources>
