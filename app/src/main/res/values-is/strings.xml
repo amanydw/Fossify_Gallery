@@ -192,4 +192,5 @@
     <string name="file_loading_priority">Forgangur við hleðslu skráa</string>
     <string name="speed">Hraði</string>
     <string name="compromise">Málamiðlun</string>
+    <string name="avoid_showing_invalid_files">Forðast að sýna ógildar skrár</string>
 </resources>
