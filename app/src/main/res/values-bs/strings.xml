@@ -156,4 +156,5 @@
     <string name="loop_videos">Ponavljaj videozapise</string>
     <string name="animate_gifs">Animiraj GIF-ove na sličicama</string>
     <string name="max_brightness">Maksimalna svjetlina pri prikazu medija preko cijelog ekrana</string>
+    <string name="render_ultra_hdr_photos">Prikaži Ultra HDR fotografije u HDR-u</string>
 </resources>
