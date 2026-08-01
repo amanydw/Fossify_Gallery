@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_launcher_name">Galeri</string>
-    <string name="edit">Edit</string>
+    <string name="edit">Sunting</string>
     <string name="open_camera">Buka kamera</string>
     <string name="images">Imej</string>
     <string name="videos">Video</string>
