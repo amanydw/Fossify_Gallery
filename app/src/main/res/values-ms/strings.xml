@@ -109,4 +109,5 @@
     <string name="set_as_wallpaper">Tetapkan sebagai kertas dinding</string>
     <string name="set_as_wallpaper_failed">Gagal menetapkan sebagai kertas dinding</string>
     <string name="set_as_wallpaper_with">Tetapkan sebagai kertas dinding dengan:</string>
+    <string name="setting_wallpaper">Menetapkan kertas dinding…</string>
 </resources>
