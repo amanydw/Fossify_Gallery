@@ -95,4 +95,9 @@
     <string name="random_order">ترتیب تساڌۊفی</string>
     <string name="move_backwards">نشووݩ داڌن ز دیندا</string>
     <string name="loop_slideshow">ز سر گرؽڌن نشووݩ داڌن</string>
+    <string name="height">بٱرزی</string>
+    <string name="keep_aspect_ratio">نگهداری نسبت ٱبعاد</string>
+    <string name="invalid_values">لطفا یه عدد درست وارد بکنین</string>
+    <string name="resize_multiple_images">آلشت هندا چن شؽوات وا یک</string>
+    <string name="images_resized_successfully">هندا شؽواتا و خۊوی آلشت وابی</string>
 </resources>
