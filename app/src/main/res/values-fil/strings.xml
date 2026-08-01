@@ -158,4 +158,5 @@
     <string name="crop_thumbnails">I-crop ang mga thumbnail bilang mga parisukat</string>
     <string name="show_thumbnail_video_duration">Ipakita ang tagal ng mga video</string>
     <string name="screen_rotation_by">Iikot ang fullscreen na media ayon sa</string>
+    <string name="screen_rotation_system_setting">Setting ng system</string>
 </resources>
