@@ -211,4 +211,5 @@
     <string name="media_management_prompt">Til að tryggja að allar skráaraðgerðir virki áreiðanlega skaltu gera þetta forrit að forriti til að sýsla með margmiðlunarefni í stillingum tækisins.</string>
     <string name="password_protect_excluded">Verja sýnileika útilokaðra mappa með lykilorði</string>
     <string name="media_management_manual">Eitthvað fór úrskeiðis, farðu í Stillingar - Forrit - Sérstakur aðgangur forrita - Forrit til að sýsla með margmiðlunarefni og leyfðu þessu forriti að sýsla með margmiðlunarefni.</string>
+    <string name="media_management_note">Ef áframsendingin virkar ekki skaltu fara í Stillingar - Forrit - Sérstakur aðgangur forrita - Forrit til að sýsla með margmiðlunarefni og leyfa þessu forriti að sýsla með margmiðlunarefni.</string>
 </resources>
