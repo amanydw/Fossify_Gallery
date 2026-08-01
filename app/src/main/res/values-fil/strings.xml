@@ -75,4 +75,5 @@
         <item quantity="one">Nabigong baguhin ang laki ng %d imahe</item>
         <item quantity="other">Nabigong baguhin ang laki ng %d na imahe</item>
     </plurals>
+    <string name="images_resized_successfully">Matagumpay na nabago ang laki ng mga imahe</string>
 </resources>
