@@ -54,4 +54,5 @@
     <string name="hidden_folders">Folder tersembunyi</string>
     <string name="manage_hidden_folders">Urus folder tersembunyi</string>
     <string name="hidden_folders_placeholder">Nampaknya anda tidak mempunyai sebarang folder yang disembunyikan dengan fail “.nomedia”.</string>
+    <string name="hidden_all_files">Anda perlu memberikan aplikasi ini akses Semua Fail untuk melihat fail tersembunyi, jika tidak ia tidak dapat berfungsi.</string>
 </resources>
