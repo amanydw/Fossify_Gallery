@@ -84,4 +84,5 @@
     <string name="rotate">Rotiraj</string>
     <string name="invalid_image_path">Neispravna putanja slike</string>
     <string name="invalid_video_path">Neispravna putanja videozapisa</string>
+    <string name="image_editing_failed">Uređivanje slike nije uspjelo</string>
 </resources>
