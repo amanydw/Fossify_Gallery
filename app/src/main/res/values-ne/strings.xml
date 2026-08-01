@@ -55,4 +55,8 @@
     <string name="invalid_values">कृपया मान्य मानहरू प्रविष्ट गर्नुहोस्</string>
     <string name="rotate_left">बायाँ घुमाउनुहोस्</string>
     <string name="rotate_right">दायाँ घुमाउनुहोस्</string>
+    <string name="loop_slideshow">स्लाईडसो लुप गर्नुहोस</string>
+    <string name="animation">एनिमेसन</string>
+    <string name="crop">काट्नुहोस</string>
+    <string name="draw">कोर्नुहोस</string>
 </resources>
