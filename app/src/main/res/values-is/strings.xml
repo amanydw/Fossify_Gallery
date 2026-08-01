@@ -215,4 +215,5 @@
     <string name="media_management_alternative">Ef þú vilt ekki gera það geturðu einnig farið í Stillingar - Forrit - Sérstakur aðgangur forrita - Forrit til að sýsla með margmiðlunarefni og leyft þessu forriti að sýsla með margmiðlunarefni.</string>
     <string name="alternative_media_access">Að öðrum kosti geturðu einungis leyft aðgang að margmiðlunarskrám. Í því tilviki geturðu þó ekki unnið með faldar skrár.</string>
     <string name="media_only">Eingöngu margmiðlunarefni</string>
+    <string name="all_files">Allar skrár</string>
 </resources>
