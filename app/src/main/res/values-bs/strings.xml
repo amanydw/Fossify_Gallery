@@ -70,4 +70,5 @@
     <string name="invalid_values">Unesi ispravnu rezoluciju</string>
     <string name="resize_multiple_images">Promijeni veličinu više slika</string>
     <string name="resize_factor">Faktor promjene veličine</string>
+    <string name="resize_factor_info">Promijeni veličinu slika na zadani postotak, vrijednost mora biti između 10 i 90.</string>
 </resources>
