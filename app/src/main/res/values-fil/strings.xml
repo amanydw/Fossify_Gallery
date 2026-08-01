@@ -12,4 +12,5 @@
     <string name="pin_to_the_top">I-pin sa itaas</string>
     <string name="show_all">Ipakita ang nilalaman ng lahat ng folder</string>
     <string name="all_folders">Lahat ng folder</string>
+    <string name="folder_view">Lumipat sa view ng folder</string>
 </resources>
