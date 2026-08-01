@@ -183,4 +183,5 @@
     <string name="deep_zoomable_images">Slike s dubokim uvećavanjem</string>
     <string name="show_highest_quality">Prikaži slike u najvišem mogućem kvalitetu</string>
     <string name="show_recycle_bin_last">Prikaži korpu za smeće kao posljednju stavku na glavnom ekranu</string>
+    <string name="allow_down_gesture">Dozvoli zatvaranje prikaza preko cijelog ekrana pokretom prema dolje</string>
 </resources>
