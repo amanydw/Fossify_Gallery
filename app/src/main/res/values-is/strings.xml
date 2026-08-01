@@ -90,4 +90,5 @@
     <string name="image_edited_successfully">Tókst að breyta myndinni</string>
     <string name="video_edited_successfully">Tókst að breyta myndbandinu</string>
     <string name="edit_image_with">Breyta mynd með:</string>
+    <string name="edit_video_with">Breyta myndbandi með:</string>
 </resources>
