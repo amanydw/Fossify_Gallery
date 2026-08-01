@@ -152,4 +152,5 @@
     <string name="autoplay_videos">Awtomatikong i-play ang mga video</string>
     <string name="remember_last_video_position">Tandaan ang huling posisyon ng pag-play ng video</string>
     <string name="loop_videos">Ulitin ang mga video</string>
+    <string name="animate_gifs">I-animate ang mga GIF sa mga thumbnail</string>
 </resources>
