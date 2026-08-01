@@ -50,4 +50,5 @@
     <string name="hide_folder_description">Fungsi ini menyembunyikan folder dengan menambah fail “.nomedia” ke dalamnya, dan ia turut menyembunyikan semua subfolder. Anda boleh melihatnya dengan menghidupkan pilihan “Tunjukkan item tersembunyi” dalam Tetapan. Teruskan?</string>
     <string name="exclude_folder_description">Ini akan mengecualikan pilihan tersebut bersama subfoldernya daripada Fossify Gallery sahaja. Anda boleh mengurus folder yang dikecualikan dalam Tetapan.</string>
     <string name="exclude_folder_parent">Kecualikan folder induk sebaliknya?</string>
+    <string name="excluded_activity_placeholder">Mengecualikan folder akan menjadikannya bersama subfoldernya tersembunyi dalam Fossify Gallery sahaja, ia masih kelihatan dalam aplikasi lain.\n\nJika anda mahu menyembunyikannya daripada aplikasi lain juga, gunakan fungsi Sembunyikan.</string>
 </resources>
