@@ -206,4 +206,5 @@
     <string name="square">Parisukat</string>
     <string name="rounded_corners">Bilog na mga sulok</string>
     <string name="export_favorite_paths">I-export ang mga paborito</string>
+    <string name="import_favorite_paths">I-import ang mga paborito</string>
 </resources>
