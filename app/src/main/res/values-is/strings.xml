@@ -169,4 +169,5 @@
     <string name="allow_photo_gestures">Leyfa stjórnun á birtustigi ljósmynda með lóðréttum bendingum</string>
     <string name="allow_video_gestures">Leyfa stjórnun á hljóðstyrk og birtustigi myndbanda með lóðréttum bendingum</string>
     <string name="playback_speed">Spilunarhraði</string>
+    <string name="show_media_count">Sýna fjölda margmiðlunarskráa í möppum á aðalskjánum</string>
 </resources>
