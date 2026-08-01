@@ -7,4 +7,74 @@
     <string name="pin_folder">Pin qovluğu</string>
     <string name="unpin_folder">Unpin qovluğu</string>
     <string name="toggle_favorite">Sevimlini göstər/gizlət</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">%d faylı bərpa etmək istədiyinizə əminsiniz?</item>
+        <item quantity="other">%d faylı bərpa etmək istədiyinizə əminsiniz?</item>
+    </plurals>
+    <string name="excluded">(xaric edilib)</string>
+    <string name="pin_to_the_top">Yuxarıya pinlə</string>
+    <string name="show_all">Bütün qovluqların məzmununu göstər</string>
+    <string name="all_folders">Bütün qovluqlar</string>
+    <string name="folder_view">Qovluq görünüşünə keç</string>
+    <string name="other_folder">Digər qovluq</string>
+    <string name="show_on_map">Xəritədə göstər</string>
+    <string name="unknown_location">Naməlum yer</string>
+    <string name="volume">Səs</string>
+    <string name="brightness">Parlaqlıq</string>
+    <string name="lock_orientation">Orientasiyanı kilidlə</string>
+    <string name="unlock_orientation">Orientasiyanı kiliddən çıxar</string>
+    <string name="change_orientation">Orientasiyanı dəyiş</string>
+    <string name="force_portrait">Portretə məcbur et</string>
+    <string name="force_landscape">Lanskeyfə məcbur et</string>
+    <string name="force_landscape_reverse">Lanskeyfə məcbur et (tərsinə)</string>
+    <string name="use_default_orientation">Standart orientasiyanı istifadə et</string>
+    <string name="fix_date_taken">Date Taken dəyərini düzəlt</string>
+    <string name="fixing">Düzəldilir…</string>
+    <string name="dates_fixed_successfully">Tarixlər uğurla düzəldildi</string>
+    <string name="no_date_takens_found">Heç bir Date Taken dəyəri tapılmadı</string>
+    <string name="share_resized">Ölçüsü dəyişdirilmiş versiyanı paylaş</string>
+    <string name="switch_to_file_search">Bütün görünən qovluqlarda fayl axtarışına keç</string>
+    <string name="set_as_default_folder">Standart qovluq kimi təyin et</string>
+    <string name="unset_as_default_folder">Standart qovluq kimi təyinatı ləğv et</string>
+    <string name="reorder_by_dragging">Qovluqları sürükləyərək yenidən sırala</string>
+    <string name="reorder_by_dragging_pro">Qovluqları sürükləyərək yenidən sırala (Pro)</string>
+    <string name="restore_to_path">\'%s\' qovluğuna bərpa edilir</string>
+    <string name="full_storage_permission_required">Fossify Qalereyası bütün foto və videolarınızı göstərmək üçün tam girişə ehtiyac duyur. Parametrlər > İcazələr > Foto və videolar > Hamısına icazə ver bölməsinə keçin.</string>
+    <string name="filter_media">Media filtri</string>
+    <string name="images">Şəkillər</string>
+    <string name="videos">Videolar</string>
+    <string name="gifs">GIF-lər</string>
+    <string name="raw_images">RAW şəkillər</string>
+    <string name="svgs">SVG-lər</string>
+    <string name="portraits">Portretlər</string>
+    <string name="no_media_with_filters">Seçilmiş filtrlərlə heç bir media faylı tapılmadı.</string>
+    <string name="change_filters_underlined"></string>
+    <string name="hide_folder_description">Bu funksiya qovluğa \'.nomedia\' faylı əlavə edərək onu gizlədir və bütün altqovluqları da gizlədəcək. Onları Parametrlərdə \'Gizli elementləri göstər\' seçimini açaraq görə bilərsiniz. Davam edirsiniz?</string>
+    <string name="exclude_folder_description">Bu, seçimi altqovluqları ilə birlikdə yalnız Fossify Qalereyasından xaric edəcək. Xaric edilmiş qovluqları Parametrlərdə idarə edə bilərsiniz.</string>
+    <string name="exclude_folder_parent">Əvəzində valideyni xaric edirsiniz?</string>
+    <string name="excluded_activity_placeholder">Qovluqları xaric etmək onları altqovluqları ilə birlikdə yalnız Fossify Qalereyasında gizlədəcək; digər proqramlarda onlar görünməyə davam edəcək.
+
+Onları başqa proqramlardan da gizlətmək istəyirsinizsə, Gizlət funksiyasından istifadə edin.</string>
+    <string name="hidden_folders">Gizli qovluqlar</string>
+    <string name="manage_hidden_folders">Gizli qovluqları idarə et</string>
+    <string name="hidden_folders_placeholder">Görünür, \".nomedia\" faylı ilə gizlədilmiş heç bir qovluğunuz yoxdur.</string>
+    <string name="hidden_all_files">Gizli faylları görmək üçün proqrama Bütün Fayllar girişi verməlisiniz, əks halda işləməyəcək.</string>
+    <string name="cant_unhide_folder">Əgər qovluğun və ya onun valideyn qovluqlarından birinin adında nöqtə varsa, o gizlədilib və bu şəkildə yenidən göstərilə bilməz. Adını dəyişdirərək nöqtəni silməlisiniz.</string>
+    <string name="include_folders">Daxil edilmiş qovluqlar</string>
+    <string name="manage_included_folders">Daxil edilmiş qovluqları idarə et</string>
+    <string name="add_folder">Qovluq əlavə et</string>
+    <string name="included_activity_placeholder">Əgər media olan, lakin proqram tərəfindən tanınmayan qovluqlarınız varsa, onları burada əl ilə əlavə edə bilərsiniz.
+
+Buraya nəsə əlavə etmək digər qovluqları xaric etməyəcək.</string>
+    <string name="no_media_add_included">Heç bir media faylı tapılmadı. Media faylları olan qovluqları əl ilə əlavə edərək bunu həll edə bilərsiniz.</string>
+    <string name="resize_and_save">Seçimin ölçüsünü dəyişdir və yadda saxla</string>
+    <string name="width">En</string>
+    <string name="height">Hündürlük</string>
+    <string name="keep_aspect_ratio">Aspekt nisbətini qoruyun</string>
+    <string name="invalid_values">Xahiş edirik etibarlı bir qətnamə daxil edin</string>
+    <string name="resize_multiple_images">Bir neçə şəklin ölçüsünü dəyişdir</string>
+    <string name="resize_factor">Ölçü dəyişdirmə əmsalı</string>
+    <string name="resize_factor_info">Şəkillərin ölçüsünü verilən faizə görə dəyişdir, dəyər 10 və 90 arasında olmalıdır.</string>
+    <string name="resize_factor_error">10 və 90 arasında bir rəqəm daxil edin</string>
+    <string name="images_resized_successfully">Şəkillərin ölçüsü uğurla dəyişdirildi</string>
 </resources>
