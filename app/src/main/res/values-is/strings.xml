@@ -105,4 +105,5 @@
     <string name="flip">Spegla</string>
     <string name="flip_horizontally">Spegla lárétt</string>
     <string name="flip_vertically">Spegla lóðrétt</string>
+    <string name="free_aspect_ratio">Frjálst</string>
 </resources>
