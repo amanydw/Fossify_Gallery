@@ -159,4 +159,5 @@
     <string name="screen_rotation_system_setting">Tetapan sistem</string>
     <string name="screen_rotation_device_rotation">Putaran peranti</string>
     <string name="screen_rotation_aspect_ratio">Nisbah aspek</string>
+    <string name="black_background_at_fullscreen">Latar belakang hitam pada media skrin penuh</string>
 </resources>
