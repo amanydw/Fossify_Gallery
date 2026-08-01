@@ -163,4 +163,5 @@
     <string name="loop_videos">Atkārtot video</string>
     <string name="animate_gifs">Animēt GIF sīktēlos</string>
     <string name="max_brightness">Maksimāls spilgtums, skatot multividi pilnekrānā</string>
+    <string name="screen_rotation_by">Pagriezt multividi pilnekrānā pēc</string>
 </resources>
