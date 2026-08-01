@@ -101,4 +101,5 @@
     <string name="video_editing_failed">Video rediģēšana neizdevās</string>
     <string name="image_editing_cancelled">Attēla rediģēšana atcelta</string>
     <string name="video_editing_cancelled">Video rediģēšana atcelta</string>
+    <string name="file_edited_successfully">Datne veiksmīgi rediģēta</string>
 </resources>
