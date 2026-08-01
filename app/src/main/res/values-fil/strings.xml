@@ -144,4 +144,5 @@
     <string name="by_date_taken_daily">Petsa ng pagkuha (araw-araw)</string>
     <string name="by_date_taken_monthly">Petsa ng pagkuha (buwan-buwan)</string>
     <string name="by_file_type">Uri ng file</string>
+    <string name="by_extension">Extension</string>
 </resources>
