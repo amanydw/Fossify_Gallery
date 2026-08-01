@@ -85,4 +85,5 @@
     <string name="image_editing_failed">Myndvinnsla mistókst</string>
     <string name="video_editing_failed">Vinnsla myndbands mistókst</string>
     <string name="image_editing_cancelled">Hætt við myndvinnslu</string>
+    <string name="video_editing_cancelled">Hætt við vinnslu myndbands</string>
 </resources>
