@@ -156,4 +156,5 @@
     <string name="max_brightness">Hámarksbirta þegar margmiðlunarefni er skoðað á öllum skjánum</string>
     <string name="render_ultra_hdr_photos">Sýna Ultra HDR ljósmyndir í HDR</string>
     <string name="crop_thumbnails">Skera smámyndir í ferninga</string>
+    <string name="show_thumbnail_video_duration">Sýna lengd myndbanda</string>
 </resources>
