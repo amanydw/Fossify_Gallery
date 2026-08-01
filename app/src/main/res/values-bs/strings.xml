@@ -239,4 +239,5 @@
     <string name="faq_3_title">Kako mogu postići da se album uvijek prikazuje na vrhu?</string>
     <string name="faq_3_text">Dugo pritisni željeni album i odaberi ikonu čiode u meniju radnji, čime ćeš ga zakačiti na vrh. Možeš zakačiti i više foldera, a zakačene stavke bit će sortirane prema zadanom načinu sortiranja.</string>
     <string name="faq_4_title">Kako mogu premotati videozapise unaprijed?</string>
+    <string name="faq_4_text">To možeš uraditi dvostrukim dodirom na stranu ekrana ili dodirom na tekst trenutnog ili ukupnog trajanja pored trake za premotavanje. Ako u postavkama aplikacije uključiš otvaranje videozapisa na zasebnom ekranu, možeš koristiti i vodoravne pokrete.</string>
 </resources>
