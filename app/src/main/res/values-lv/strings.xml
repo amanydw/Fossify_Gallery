@@ -208,4 +208,5 @@
     <string name="show_file_count_brackets">Rādīt datņu skaitu iekavās</string>
     <string name="show_file_count_none">Nerādīt datņu skaitu</string>
     <string name="limit_folder_title">Ierobežot garus mapju nosaukumus līdz 1 rindai</string>
+    <string name="square">Kvadrāts</string>
 </resources>
