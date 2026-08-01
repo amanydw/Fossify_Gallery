@@ -115,4 +115,5 @@
     <string name="wallpaper_set_successfully">Matagumpay na naitakda ang wallpaper</string>
     <string name="portrait_aspect_ratio">Aspect ratio na portrait</string>
     <string name="landscape_aspect_ratio">Aspect ratio na landscape</string>
+    <string name="home_screen">Home screen</string>
 </resources>
