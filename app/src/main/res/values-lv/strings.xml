@@ -215,4 +215,5 @@
     <string name="paths_imported_successfully">Ceļi veiksmīgi importēti</string>
     <string name="media_management_prompt">Lai visas darbības ar datnēm darbotos uzticami, lūdzu, ierīces iestatījumos padariet šo lietotni par multivides pārvaldības lietotni.</string>
     <string name="password_protect_excluded">Aizsargāt neiekļauto mapju redzamību ar paroli</string>
+    <string name="media_management_manual">Kaut kas nogāja greizi. Lūdzu, dodieties uz ierīces Iestatījumi - Lietotnes - Īpaša lietotņu piekļuve - Multivides pārvaldības lietotnes un atļaujiet šai lietotnei pārvaldīt multividi.</string>
 </resources>
