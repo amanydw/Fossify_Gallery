@@ -227,4 +227,5 @@
     <string name="fullscreen_media">Multivide pilnekrānā</string>
     <string name="extended_details">Paplašināta informācija</string>
     <string name="bottom_actions">Apakšējās darbības</string>
+    <string name="manage_bottom_actions">Pārvaldīt redzamās apakšējās darbības</string>
 </resources>
