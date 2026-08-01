@@ -85,4 +85,5 @@
     <string name="image_editing_failed">Nabigo ang pag-edit ng imahe</string>
     <string name="video_editing_failed">Nabigo ang pag-edit ng video</string>
     <string name="image_editing_cancelled">Kinansela ang pag-edit ng imahe</string>
+    <string name="video_editing_cancelled">Kinansela ang pag-edit ng video</string>
 </resources>
