@@ -22,4 +22,5 @@
     <string name="unlock_orientation">I-unlock ang oryentasyon</string>
     <string name="change_orientation">Baguhin ang oryentasyon</string>
     <string name="force_portrait">Piliting gawing portrait</string>
+    <string name="force_landscape">Piliting gawing landscape</string>
 </resources>
