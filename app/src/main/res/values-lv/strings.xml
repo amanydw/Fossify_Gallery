@@ -154,4 +154,5 @@
     <string name="by_date_taken_monthly">Uzņemšanas datuma (pa mēnešiem)</string>
     <string name="by_file_type">Datnes veida</string>
     <string name="by_extension">Paplašinājuma</string>
+    <string name="show_file_count_section_header">Rādīt datņu skaitu sadaļu virsrakstos</string>
 </resources>
