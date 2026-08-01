@@ -145,4 +145,5 @@
     <string name="group_direct_subfolders">Grupēt tiešās apakšmapes</string>
     <string name="group_by">Grupēt pēc</string>
     <string name="do_not_group_files">Negrupēt datnes</string>
+    <string name="by_folder">Mapes</string>
 </resources>
