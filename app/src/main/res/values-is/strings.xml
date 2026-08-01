@@ -40,4 +40,5 @@
         <item quantity="one">Ertu viss um að þú viljir endurheimta %d skrá?</item>
         <item quantity="other">Ertu viss um að þú viljir endurheimta %d skrár?</item>
     </plurals>
+    <string name="full_storage_permission_required">Fossify Gallerí þarf fullan aðgang til að birta allar ljósmyndirnar þínar og myndbönd. Farðu í Stillingar &gt; Heimildir &gt; Myndir og myndbönd &gt; Leyfa allt.</string>
 </resources>
