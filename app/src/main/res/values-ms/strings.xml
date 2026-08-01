@@ -176,4 +176,5 @@
     <string name="hide_extended_details">Sembunyikan butiran lanjutan apabila bar status disembunyikan</string>
     <string name="show_at_bottom">Tunjukkan beberapa butang tindakan di bahagian bawah skrin</string>
     <string name="show_recycle_bin">Tunjukkan tong kitar semula pada skrin folder</string>
+    <string name="deep_zoomable_images">Imej boleh zum mendalam</string>
 </resources>
