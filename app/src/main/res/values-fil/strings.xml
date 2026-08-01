@@ -111,4 +111,5 @@
     <string name="set_as_wallpaper">Itakda bilang wallpaper</string>
     <string name="set_as_wallpaper_failed">Nabigo ang pagtatakda bilang wallpaper</string>
     <string name="set_as_wallpaper_with">Itakda bilang wallpaper gamit ang:</string>
+    <string name="setting_wallpaper">Itinatakda ang wallpaper…</string>
 </resources>
