@@ -117,4 +117,5 @@
     <string name="landscape_aspect_ratio">Aspect ratio na landscape</string>
     <string name="home_screen">Home screen</string>
     <string name="lock_screen">Lock screen</string>
+    <string name="home_and_lock_screen">Home at lock screen</string>
 </resources>
