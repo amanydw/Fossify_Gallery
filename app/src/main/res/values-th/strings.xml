@@ -36,9 +36,7 @@
     <string name="restore_to_path">กำลังกู้คืนไปยัง \'%s\'</string>
     <plurals name="restore_confirmation">
         <item quantity="other">คุณแน่ใจหรือไม่ว่าต้องการกู้คืนไฟล์ %d?</item>
-    
-        <item quantity="one">คุณแน่ใจหรือไม่ว่าต้องการกู้คืนไฟล์ %d?</item>
-</plurals>
+    </plurals>
     <string name="full_storage_permission_required">Fossify Gallery ต้องการสิทธิ์เข้าถึงแบบเต็มเพื่อแสดงรูปภาพและวิดีโอทั้งหมดของคุณ ไปที่ ตั้งค่า &gt; สิทธิ์ &gt; รูปภาพและวิดีโอ &gt; อนุญาตทั้งหมด</string>
     <string name="filter_media">กรองสื่อ</string>
     <string name="images">รูปภาพ</string>
