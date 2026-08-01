@@ -197,4 +197,5 @@
     <string name="allow_zooming_videos">Payagan ang pag-zoom sa mga video sa pamamagitan ng pag-double tap sa mga ito</string>
     <string name="folder_thumbnail_style">Istilo ng thumbnail ng folder</string>
     <string name="file_thumbnail_style">Istilo ng thumbnail ng file</string>
+    <string name="mark_favorite_items">Markahan ang mga paboritong item</string>
 </resources>
