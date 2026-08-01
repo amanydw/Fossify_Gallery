@@ -10,4 +10,5 @@
     <string name="pin_folder">Sematkan folder</string>
     <string name="unpin_folder">Nyahsematkan folder</string>
     <string name="pin_to_the_top">Sematkan di bahagian atas</string>
+    <string name="show_all">Tunjukkan kandungan semua folder</string>
 </resources>
