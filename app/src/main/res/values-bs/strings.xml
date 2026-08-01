@@ -220,4 +220,5 @@
     <string name="all_files">Sve datoteke</string>
     <string name="search_all_files">Pretražuj sve datoteke umjesto foldera na glavnom ekranu</string>
     <string name="show_all_folders">Prikaži dugme u meniju za brzo uključivanje prikaza sadržaja svih foldera</string>
+    <string name="thumbnails">Sličice</string>
 </resources>
