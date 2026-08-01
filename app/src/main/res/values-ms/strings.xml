@@ -167,4 +167,5 @@
     <string name="allow_photo_gestures">Benarkan kawalan kecerahan foto dengan gerak isyarat menegak</string>
     <string name="allow_video_gestures">Benarkan kawalan kelantangan dan kecerahan video dengan gerak isyarat menegak</string>
     <string name="playback_speed">Kelajuan main balik</string>
+    <string name="show_media_count">Tunjukkan bilangan media folder pada paparan utama</string>
 </resources>
