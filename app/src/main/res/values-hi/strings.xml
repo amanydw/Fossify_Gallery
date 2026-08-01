@@ -261,4 +261,12 @@
         <item quantity="one">क्या आप वाकई %d फ़ाइल को पुनर्स्थापित करना चाहते हैं?</item>
         <item quantity="other">क्या आप वाकई %d फ़ाइलें पुनर्स्थापित करना चाहते हैं?</item>
     </plurals>
+    <string name="force_landscape_reverse">फोर्स लैंडस्केप (रिवर्स)</string>
+    <string name="overwrite_original">मूल फ़ाइल को बदलें</string>
+    <string name="render_ultra_hdr_photos">अल्ट्रा HDR फ़ोटो को HDR में दिखाएं</string>
+    <string name="keep_screen_on_fullscreen_photos">फ़ुलस्क्रीन फ़ोटो देखते समय स्क्रीन चालू रखें</string>
+    <string name="on_video_tap">वीडियो पर टैप करने पर</string>
+    <string name="open_in_app_player">इन-ऐप प्लेयर खोलें</string>
+    <string name="open_system_default_player">डिफ़ॉल्ट प्लेयर ऐप खोलें</string>
+    <string name="video_no_sound">इस वीडियो में कोई ऑडियो नहीं है</string>
 </resources>
