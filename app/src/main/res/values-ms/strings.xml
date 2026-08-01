@@ -205,4 +205,5 @@
     <string name="rounded_corners">Bucu bulat</string>
     <string name="export_favorite_paths">Eksport kegemaran</string>
     <string name="import_favorite_paths">Import kegemaran</string>
+    <string name="paths_imported_successfully">Laluan berjaya diimport</string>
 </resources>
