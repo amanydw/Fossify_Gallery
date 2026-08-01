@@ -114,4 +114,5 @@
     <string name="setting_wallpaper">Set veggfóður…</string>
     <string name="wallpaper_set_successfully">Tókst að setja veggfóður</string>
     <string name="portrait_aspect_ratio">Stærðarhlutföll fyrir lóðrétt snið</string>
+    <string name="landscape_aspect_ratio">Stærðarhlutföll fyrir lárétt snið</string>
 </resources>
