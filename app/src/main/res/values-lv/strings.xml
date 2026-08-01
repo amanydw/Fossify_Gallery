@@ -202,4 +202,5 @@
     <string name="allow_zooming_videos">Atļaut tuvināt video ar dubultpieskārienu</string>
     <string name="folder_thumbnail_style">Mapju sīktēlu stils</string>
     <string name="file_thumbnail_style">Datņu sīktēlu stils</string>
+    <string name="mark_favorite_items">Atzīmēt izlases vienumus</string>
 </resources>
