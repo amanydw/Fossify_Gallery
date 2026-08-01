@@ -66,4 +66,5 @@
     <string name="resize_and_save">Promijeni veličinu odabira i sačuvaj</string>
     <string name="width">Širina</string>
     <string name="height">Visina</string>
+    <string name="keep_aspect_ratio">Zadrži omjer stranica</string>
 </resources>
