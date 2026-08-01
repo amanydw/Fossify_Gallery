@@ -85,4 +85,5 @@
     <string name="width">Platums</string>
     <string name="height">Augstums</string>
     <string name="keep_aspect_ratio">Saglabāt malu attiecību</string>
+    <string name="invalid_values">Lūdzu, ievadiet derīgu izšķirtspēju</string>
 </resources>
