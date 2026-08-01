@@ -156,4 +156,5 @@
     <string name="crop_thumbnails">Pangkas lakaran kenit menjadi segi empat sama</string>
     <string name="show_thumbnail_video_duration">Tunjukkan tempoh video</string>
     <string name="screen_rotation_by">Putarkan media skrin penuh mengikut</string>
+    <string name="screen_rotation_system_setting">Tetapan sistem</string>
 </resources>
