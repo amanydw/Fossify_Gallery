@@ -16,4 +16,5 @@
     <string name="other_folder">Önnur mappa</string>
     <string name="show_on_map">Sýna á korti</string>
     <string name="unknown_location">Óþekkt staðsetning</string>
+    <string name="volume">Hljóðstyrkur</string>
 </resources>
