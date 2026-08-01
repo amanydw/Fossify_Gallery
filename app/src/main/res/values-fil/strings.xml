@@ -96,4 +96,5 @@
     <string name="unknown_file_location">Hindi kilalang lokasyon ng file</string>
     <string name="overwrite_original">I-overwrite ang orihinal</string>
     <string name="error_saving_file">Hindi ma-overwrite ang pinagmulang file</string>
+    <string name="rotate_left">Iikot pakaliwa</string>
 </resources>
