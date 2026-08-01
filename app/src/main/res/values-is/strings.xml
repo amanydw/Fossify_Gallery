@@ -34,4 +34,5 @@
     <string name="set_as_default_folder">Setja sem sjálfgefna möppu</string>
     <string name="unset_as_default_folder">Hætta að nota sem sjálfgefna möppu</string>
     <string name="reorder_by_dragging">Endurraða möppum með því að draga þær</string>
+    <string name="reorder_by_dragging_pro">Endurraða möppum með því að draga þær (Pro)</string>
 </resources>
