@@ -27,4 +27,5 @@
     <string name="use_default_orientation">Nota sjálfgefna stefnu skjás</string>
     <string name="fix_date_taken">Laga gildi upptökudagsetningar</string>
     <string name="fixing">Lagfæri…</string>
+    <string name="dates_fixed_successfully">Tókst að laga dagsetningar</string>
 </resources>
