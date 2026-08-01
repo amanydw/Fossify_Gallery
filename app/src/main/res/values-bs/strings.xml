@@ -46,4 +46,5 @@
     <string name="gifs">GIF-ovi</string>
     <string name="raw_images">RAW slike</string>
     <string name="svgs">SVG-ovi</string>
+    <string name="portraits">Portreti</string>
 </resources>
