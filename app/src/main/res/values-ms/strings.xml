@@ -250,4 +250,5 @@
     <string name="faq_11_text">Sudah tentu, cuma gunakan item menu “Kumpulkan mengikut” semasa berada dalam paparan lakaran kenit. Anda boleh mengumpulkan fail mengikut pelbagai kriteria, termasuk Tarikh Diambil. Jika anda menggunakan fungsi “Tunjukkan kandungan semua folder”, anda juga boleh mengumpulkannya mengikut folder.</string>
     <string name="faq_12_title">Pengisihan mengikut Tarikh Diambil nampaknya tidak berfungsi dengan betul, bagaimanakah saya boleh membaikinya?</string>
     <string name="faq_12_text">Ia berkemungkinan besar disebabkan oleh fail yang disalin dari tempat lain. Anda boleh membaikinya dengan memilih lakaran kenit fail dan memilih “Baiki nilai Tarikh Diambil”.</string>
+    <string name="faq_13_title">Saya nampak jalur warna pada imej. Bagaimanakah saya boleh meningkatkan kualitinya?</string>
 </resources>
