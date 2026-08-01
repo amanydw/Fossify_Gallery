@@ -193,4 +193,5 @@
     <string name="speed">Hraði</string>
     <string name="compromise">Málamiðlun</string>
     <string name="avoid_showing_invalid_files">Forðast að sýna ógildar skrár</string>
+    <string name="show_image_file_types">Sýna skráargerðir mynda</string>
 </resources>
