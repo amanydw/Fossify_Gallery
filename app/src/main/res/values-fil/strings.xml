@@ -172,4 +172,5 @@
     <string name="show_media_count">Ipakita ang bilang ng media sa folder sa pangunahing view</string>
     <string name="show_extended_details">Ipakita ang mga karagdagang detalye sa ibabaw ng fullscreen na media</string>
     <string name="manage_extended_details">Pamahalaan ang mga karagdagang detalye</string>
+    <string name="one_finger_zoom">Payagan ang pag-zoom gamit ang isang daliri sa fullscreen na media</string>
 </resources>
