@@ -112,4 +112,7 @@
     <string name="include_photos">ફોટા સમાવો</string>
     <string name="include_videos">વિડિયો સમાવો</string>
     <string name="include_gifs">GIF સમાવો</string>
+    <string name="unknown_location">અજ્ઞાત સ્થાન</string>
+    <string name="volume">વોલ્યુમ</string>
+    <string name="brightness">તેજસ્વીતા</string>
 </resources>
