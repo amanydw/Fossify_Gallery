@@ -131,4 +131,5 @@
     <string name="no_animation">Engin</string>
     <string name="fade">Deyfing</string>
     <string name="slide">Renna</string>
+    <string name="slideshow_ended">Skyggnusýningunni er lokið</string>
 </resources>
