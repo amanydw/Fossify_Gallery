@@ -134,4 +134,5 @@
     <string name="include_videos">Iekļaut video</string>
     <string name="include_gifs">Iekļaut GIF</string>
     <string name="random_order">Nejauša secība</string>
+    <string name="move_backwards">Virzīties atpakaļ</string>
 </resources>
