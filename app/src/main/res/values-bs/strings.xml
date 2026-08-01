@@ -190,4 +190,5 @@
     <string name="open_in_app_player">Otvori plejer u aplikaciji</string>
     <string name="open_system_default_player">Otvori zadanu aplikaciju plejera</string>
     <string name="show_notch">Prikaži zarez ako je dostupan</string>
+    <string name="allow_rotating_gestures">Dozvoli rotiranje slika pokretima</string>
 </resources>
