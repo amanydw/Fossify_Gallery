@@ -99,4 +99,5 @@
     <string name="rotate_one_eighty">Putar sebanyak 180º</string>
     <string name="transform">Ubah bentuk</string>
     <string name="crop">Pangkas</string>
+    <string name="draw">Lukis</string>
 </resources>
