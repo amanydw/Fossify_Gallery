@@ -61,4 +61,5 @@
     <string name="include_folders">Uključeni folderi</string>
     <string name="manage_included_folders">Upravljaj uključenim folderima</string>
     <string name="add_folder">Dodaj folder</string>
+    <string name="included_activity_placeholder">Ako imaš foldere koji sadrže medije, ali ih aplikacija nije prepoznala, možeš ih ovdje dodati ručno.\n\nDodavanje stavki ovdje neće isključiti nijedan drugi folder.</string>
 </resources>
