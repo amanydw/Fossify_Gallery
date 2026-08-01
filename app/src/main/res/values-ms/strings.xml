@@ -188,4 +188,5 @@
     <string name="show_notch">Tunjukkan takuk jika tersedia</string>
     <string name="allow_rotating_gestures">Benarkan pemutaran imej dengan gerak isyarat</string>
     <string name="file_loading_priority">Keutamaan pemuatan fail</string>
+    <string name="speed">Kelajuan</string>
 </resources>
