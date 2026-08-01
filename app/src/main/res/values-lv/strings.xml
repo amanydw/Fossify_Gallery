@@ -209,4 +209,5 @@
     <string name="show_file_count_none">Nerādīt datņu skaitu</string>
     <string name="limit_folder_title">Ierobežot garus mapju nosaukumus līdz 1 rindai</string>
     <string name="square">Kvadrāts</string>
+    <string name="rounded_corners">Noapaļoti stūri</string>
 </resources>
