@@ -28,4 +28,9 @@
     <string name="compromise">سمجھوتا</string>
     <string name="square">ورگ</string>
     <string name="thumbnails">تھمنیل</string>
+    <string name="hidden">(لُکیا)</string>
+    <string name="excluded">(وکھرا)</string>
+    <string name="pin_to_the_top">سب توں اُپر لاؤ</string>
+    <string name="show_all">سارے فولڈراں دی شے وکھاؤ</string>
+    <string name="folder_view">فولڈر وکھاوے وچ بدلو</string>
 </resources>
