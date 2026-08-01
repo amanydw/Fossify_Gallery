@@ -202,4 +202,5 @@
     <string name="show_file_count_line">Sýna fjölda skráa í sérstakri línu</string>
     <string name="show_file_count_brackets">Sýna fjölda skráa innan sviga</string>
     <string name="show_file_count_none">Ekki sýna fjölda skráa</string>
+    <string name="limit_folder_title">Takmarka löng möppuheiti við eina línu</string>
 </resources>
