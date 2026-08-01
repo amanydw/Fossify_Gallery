@@ -71,7 +71,9 @@
     <string name="resize_factor_error">请输入 10 到 90 之间的数字</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">调整 %d 张图像的大小失败</item>
-    </plurals>
+    
+        <item quantity="one">调整 %d 张图像的大小失败</item>
+</plurals>
     <string name="images_resized_successfully">调整图像大小成功</string>
     <string name="editor">编辑器</string>
     <string name="basic_editor">简易编辑器</string>
@@ -259,7 +261,9 @@
     <string name="keep_screen_on_fullscreen_photos">全屏查看照片时保持屏幕开启</string>
     <plurals name="restore_confirmation">
         <item quantity="other">确定要恢复 %d 个文件吗？</item>
-    </plurals>
+    
+        <item quantity="one">确定要恢复 %d 个文件吗？</item>
+</plurals>
     <string name="force_landscape_reverse">强制横屏（反向）</string>
     <string name="overwrite_original">覆盖原文件</string>
     <string name="video_no_sound">此视频没有音频</string>
