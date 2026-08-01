@@ -14,4 +14,5 @@
     <string name="all_folders">Lahat ng folder</string>
     <string name="folder_view">Lumipat sa view ng folder</string>
     <string name="other_folder">Ibang folder</string>
+    <string name="show_on_map">Ipakita sa mapa</string>
 </resources>
