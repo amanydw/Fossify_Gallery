@@ -26,4 +26,5 @@
     <string name="force_landscape_reverse">Þvinga lárétt snið (öfugt)</string>
     <string name="use_default_orientation">Nota sjálfgefna stefnu skjás</string>
     <string name="fix_date_taken">Laga gildi upptökudagsetningar</string>
+    <string name="fixing">Lagfæri…</string>
 </resources>
