@@ -151,4 +151,5 @@
     <string name="show_folder_name">Ipakita ang pangalan ng folder</string>
     <string name="autoplay_videos">Awtomatikong i-play ang mga video</string>
     <string name="remember_last_video_position">Tandaan ang huling posisyon ng pag-play ng video</string>
+    <string name="loop_videos">Ulitin ang mga video</string>
 </resources>
