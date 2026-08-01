@@ -22,4 +22,5 @@
     <string name="unlock_orientation">Buka kunci orientasi</string>
     <string name="change_orientation">Tukar orientasi</string>
     <string name="force_portrait">Paksa potret</string>
+    <string name="force_landscape">Paksa lanskap</string>
 </resources>
