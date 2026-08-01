@@ -49,4 +49,5 @@
     <string name="no_media_with_filters">Engar margmiðlunarskrár fundust með völdum síum.</string>
     <string name="change_filters_underlined"><u>Breyta síum</u></string>
     <string name="hide_folder_description">Þessi aðgerð felur möppuna með því að bæta „.nomedia“ skrá í hana og felur einnig allar undirmöppur. Þú getur séð þær með því að kveikja á valkostinum „Sýna falin atriði“ í stillingunum. Halda áfram?</string>
+    <string name="exclude_folder_description">Þetta útilokar valið ásamt undirmöppum þess eingöngu frá Fossify Gallerí. Þú getur sýslað með útilokaðar möppur í stillingunum.</string>
 </resources>
