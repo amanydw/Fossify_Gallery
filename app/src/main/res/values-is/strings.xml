@@ -95,4 +95,5 @@
     <string name="no_video_editor_found">Ekkert myndbandsvinnsluforrit fannst</string>
     <string name="unknown_file_location">Óþekkt staðsetning skrár</string>
     <string name="overwrite_original">Skrifa yfir upprunalegu skrána</string>
+    <string name="error_saving_file">Ekki tókst að skrifa yfir upprunalegu skrána</string>
 </resources>
