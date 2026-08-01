@@ -242,4 +242,5 @@
     <string name="faq_6_text">Ada kalanya anda akan melihat beberapa album yang luar biasa muncul. Anda boleh mengecualikannya dengan mudah dengan menekan lama padanya dan memilih Kecualikan. Dalam dialog seterusnya anda boleh memilih folder induknya, kemungkinan besar ini akan menghalang album lain yang berkaitan daripada muncul juga.</string>
     <string name="faq_7_title">Folder yang mengandungi imej tidak muncul, atau ia tidak menunjukkan semua item. Apa yang boleh saya lakukan?</string>
     <string name="faq_7_text">Itu boleh berlaku atas pelbagai sebab, tetapi mengatasinya adalah mudah. Cuma pergi ke Tetapan -&gt; Urus folder yang disertakan, pilih tanda Tambah dan navigasi ke folder yang dikehendaki.</string>
+    <string name="faq_8_title">Bagaimana jika saya mahu hanya beberapa folder tertentu kelihatan?</string>
 </resources>
