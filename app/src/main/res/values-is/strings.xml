@@ -160,4 +160,5 @@
     <string name="screen_rotation_by">Snúa margmiðlunarefni á öllum skjánum eftir</string>
     <string name="screen_rotation_system_setting">Stillingu kerfisins</string>
     <string name="screen_rotation_device_rotation">Snúningi tækisins</string>
+    <string name="screen_rotation_aspect_ratio">Stærðarhlutföllum</string>
 </resources>
