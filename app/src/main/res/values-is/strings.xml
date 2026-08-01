@@ -240,4 +240,5 @@
     <string name="faq_4_text">Þú getur gert það með því að tvísmella á hlið skjásins eða smella á textann með núverandi lengd eða heildarlengd við leitarstikuna. Ef þú kveikir á því að opna myndbönd á sérstökum skjá í stillingum forritsins geturðu einnig notað láréttar bendingar.</string>
     <string name="faq_5_title">Hver er munurinn á því að fela möppu og útiloka hana?</string>
     <string name="faq_5_text">Útilokun kemur í veg fyrir að mappan birtist eingöngu í Fossify Gallerí, en að fela virkar á öllu kerfinu og felur möppuna einnig fyrir öðrum galleríum. Það virkar þannig að tóm „.nomedia“ skrá er búin til í viðkomandi möppu, sem þú getur síðan fjarlægt með hvaða skráastjóra sem er. Athugaðu að sum tæki leyfa ekki að fela möppur á borð við Camera, Screenshots og Downloads.</string>
+    <string name="faq_6_title">Af hverju birtast möppur með umslagsmyndum tónlistar eða límmiðum?</string>
 </resources>
