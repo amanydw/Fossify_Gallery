@@ -69,4 +69,5 @@
     <string name="resize_multiple_images">Ubah saiz berbilang imej</string>
     <string name="resize_factor">Faktor ubah saiz</string>
     <string name="resize_factor_info">Ubah saiz imej kepada peratusan yang diberikan, nilainya mestilah antara 10 dan 90.</string>
+    <string name="resize_factor_error">Masukkan nombor antara 10 dan 90</string>
 </resources>
