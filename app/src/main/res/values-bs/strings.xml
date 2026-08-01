@@ -241,4 +241,5 @@
     <string name="faq_4_title">Kako mogu premotati videozapise unaprijed?</string>
     <string name="faq_4_text">To možeš uraditi dvostrukim dodirom na stranu ekrana ili dodirom na tekst trenutnog ili ukupnog trajanja pored trake za premotavanje. Ako u postavkama aplikacije uključiš otvaranje videozapisa na zasebnom ekranu, možeš koristiti i vodoravne pokrete.</string>
     <string name="faq_5_title">Koja je razlika između skrivanja i isključivanja foldera?</string>
+    <string name="faq_5_text">Isključivanje sprječava prikazivanje foldera samo u Fossify Galeriji, dok skrivanje djeluje na nivou sistema pa se folder skriva i od drugih galerija. Ono radi tako što u dati folder stvara praznu datoteku „.nomedia”, koju zatim možeš ukloniti i bilo kojim upravljačem datoteka. Imaj na umu da neki uređaji ne dozvoljavaju skrivanje foldera kao što su Kamera, Snimci ekrana i Preuzimanja.</string>
 </resources>
