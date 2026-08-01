@@ -206,4 +206,5 @@
     <string name="thumbnail_spacing">Atstarpes starp sīktēliem</string>
     <string name="show_file_count_line">Rādīt datņu skaitu atsevišķā rindā</string>
     <string name="show_file_count_brackets">Rādīt datņu skaitu iekavās</string>
+    <string name="show_file_count_none">Nerādīt datņu skaitu</string>
 </resources>
