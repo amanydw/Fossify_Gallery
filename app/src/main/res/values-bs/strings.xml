@@ -105,4 +105,5 @@
     <string name="crop">Izreži</string>
     <string name="draw">Crtaj</string>
     <string name="flip">Preokreni</string>
+    <string name="flip_horizontally">Preokreni vodoravno</string>
 </resources>
