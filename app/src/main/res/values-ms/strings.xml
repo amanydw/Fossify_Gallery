@@ -74,4 +74,5 @@
         <item quantity="other">Gagal mengubah saiz %d imej</item>
     </plurals>
     <string name="images_resized_successfully">Saiz imej berjaya diubah</string>
+    <string name="editor">Penyunting</string>
 </resources>
