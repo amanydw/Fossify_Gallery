@@ -226,4 +226,5 @@
     <string name="toggle_favorite">I-toggle ang paborito</string>
     <string name="toggle_file_visibility">I-toggle ang pagiging nakikita ng file</string>
     <string name="failed_to_load_media">Nabigong i-load ang media.</string>
+    <string name="file_is_malformed_or_corrupted">Ang file ay may depekto o sira.</string>
 </resources>
