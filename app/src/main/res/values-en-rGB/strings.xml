@@ -10,4 +10,64 @@
         <item quantity="one">Failed to resize %d image</item>
         <item quantity="other">Failed to resize %d images</item>
     </plurals>
+    <string name="open_camera">Open camera</string>
+    <string name="hidden">(hidden)</string>
+    <string name="excluded">(excluded)</string>
+    <string name="pin_folder">Pin folder</string>
+    <string name="unpin_folder">Unpin folder</string>
+    <string name="pin_to_the_top">Pin to the top</string>
+    <string name="show_all">Show all folders content</string>
+    <string name="all_folders">All folders</string>
+    <string name="folder_view">Switch to folder view</string>
+    <string name="other_folder">Other folder</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="volume">Volume</string>
+    <string name="brightness">Brightness</string>
+    <string name="lock_orientation">Lock orientation</string>
+    <string name="unlock_orientation">Unlock orientation</string>
+    <string name="change_orientation">Change orientation</string>
+    <string name="force_portrait">Force portrait</string>
+    <string name="force_landscape">Force landscape</string>
+    <string name="force_landscape_reverse">Force landscape (reverse)</string>
+    <string name="use_default_orientation">Use default orientation</string>
+    <string name="fix_date_taken">Fix Date Taken value</string>
+    <string name="fixing">Fixing…</string>
+    <string name="dates_fixed_successfully">Dates fixed successfully</string>
+    <string name="no_date_takens_found">No Date Taken values have been found</string>
+    <string name="share_resized">Share a resized version</string>
+    <string name="switch_to_file_search">Switch to file search across all visible folders</string>
+    <string name="set_as_default_folder">Set as default folder</string>
+    <string name="unset_as_default_folder">Unset as default folder</string>
+    <string name="reorder_by_dragging">Reorder folders by dragging</string>
+    <string name="reorder_by_dragging_pro">Reorder folders by dragging (Pro)</string>
+    <string name="restore_to_path">Restoring to \'%s\'</string>
+    <string name="full_storage_permission_required">Fossify Gallery needs full access to display all your photos and videos. Go to Settings > Permissions > Photos and videos > Allow all.</string>
+    <string name="filter_media">Filter media</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="gifs">GIFs</string>
+    <string name="raw_images">RAW images</string>
+    <string name="svgs">SVGs</string>
+    <string name="portraits">Portraits</string>
+    <string name="no_media_with_filters">No media files have been found with the selected filters.</string>
+    <string name="change_filters_underlined"></string>
+    <string name="hide_folder_description">This function hides the folder by adding a \'.nomedia\' file into it, it will hide all subfolders too. You can see them by toggling the \'Show hidden items\' option in Settings. Continue?</string>
+    <string name="exclude_folder_description">This will exclude the selection together with its subfolders from Fossify Gallery only. You can manage excluded folders in Settings.</string>
+    <string name="exclude_folder_parent">Exclude a parent instead?</string>
+    <string name="excluded_activity_placeholder">Excluding folders will make them together with their subfolders hidden just in Fossify Gallery, they will still be visible in other applications.
+
+If you want to hide them from other apps too, use the Hide function.</string>
+    <string name="hidden_folders">Hidden folders</string>
+    <string name="manage_hidden_folders">Manage hidden folders</string>
+    <string name="hidden_folders_placeholder">Seems like you don\'t have any folders hidden with a ".nomedia" file.</string>
+    <string name="hidden_all_files">You have to grant the app All Files access to see hidden files, else it cannot work.</string>
+    <string name="cant_unhide_folder">If a folder or one of its parent folders has a dot before its name, it is hidden and cannot be unhidden like this. You have to remove the dot by renaming it.</string>
+    <string name="include_folders">Included folders</string>
+    <string name="manage_included_folders">Manage included folders</string>
+    <string name="add_folder">Add folder</string>
+    <string name="included_activity_placeholder">If you have some folders which contain media, but were not recognised by the app, you can add them manually here.
+
+Adding some items here will not exclude any other folder.</string>
+    <string name="no_media_add_included">No media files have been found. You can solve it by adding the folders containing media files manually.</string>
 </resources>
