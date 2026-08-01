@@ -179,4 +179,5 @@
     <string name="manage_extended_details">Pārvaldīt paplašināto informāciju</string>
     <string name="one_finger_zoom">Atļaut tālummaiņu ar vienu pirkstu multividei pilnekrānā</string>
     <string name="allow_instant_change">Atļaut nekavējoties mainīt multividi, pieskaroties ekrāna malām</string>
+    <string name="allow_deep_zooming_images">Atļaut attēlu dziļo tālummaiņu</string>
 </resources>
