@@ -36,4 +36,7 @@
     <string name="reorder_by_dragging">Susun semula folder dengan menyeretnya</string>
     <string name="reorder_by_dragging_pro">Susun semula folder dengan menyeretnya (Pro)</string>
     <string name="restore_to_path">Memulihkan ke “%s”</string>
+    <plurals name="restore_confirmation">
+        <item quantity="other">Adakah anda pasti mahu memulihkan %d fail?</item>
+    </plurals>
 </resources>
