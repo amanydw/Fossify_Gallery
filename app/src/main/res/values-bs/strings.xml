@@ -223,4 +223,5 @@
     <string name="thumbnails">Sličice</string>
     <string name="fullscreen_media">Mediji preko cijelog ekrana</string>
     <string name="extended_details">Prošireni detalji</string>
+    <string name="bottom_actions">Donje radnje</string>
 </resources>
