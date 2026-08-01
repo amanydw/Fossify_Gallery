@@ -59,4 +59,5 @@
     <string name="switch_to_file_search">Pārslēgties uz datņu meklēšanu visās redzamajās mapēs</string>
     <string name="set_as_default_folder">Iestatīt kā noklusējuma mapi</string>
     <string name="unset_as_default_folder">Noņemt kā noklusējuma mapi</string>
+    <string name="reorder_by_dragging">Pārkārtot mapes, tās velkot</string>
 </resources>
