@@ -187,4 +187,5 @@
     <string name="on_video_tap">Kapag na-tap ang video</string>
     <string name="open_in_app_player">Buksan ang player sa loob ng app</string>
     <string name="open_system_default_player">Buksan ang default na player app</string>
+    <string name="show_notch">Ipakita ang notch kung mayroon</string>
 </resources>
