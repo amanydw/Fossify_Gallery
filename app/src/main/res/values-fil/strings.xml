@@ -7,4 +7,5 @@
     <string name="videos">Mga Video</string>
     <string name="hidden">(nakatago)</string>
     <string name="excluded">(ibinukod)</string>
+    <string name="pin_folder">I-pin ang folder</string>
 </resources>
