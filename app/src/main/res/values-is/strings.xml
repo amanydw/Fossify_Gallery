@@ -170,4 +170,5 @@
     <string name="allow_video_gestures">Leyfa stjórnun á hljóðstyrk og birtustigi myndbanda með lóðréttum bendingum</string>
     <string name="playback_speed">Spilunarhraði</string>
     <string name="show_media_count">Sýna fjölda margmiðlunarskráa í möppum á aðalskjánum</string>
+    <string name="show_extended_details">Sýna ítarlegar upplýsingar yfir margmiðlunarefni á öllum skjánum</string>
 </resources>
