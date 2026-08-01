@@ -251,4 +251,5 @@
     <string name="faq_10_title">Vai ar šo lietotni var apcirpt attēlus?</string>
     <string name="faq_10_text">Jā, attēlus var apcirpt redaktorā, velkot attēla stūrus. Redaktoru var atvērt, ilgi piespiežot attēla sīktēlu un izvēloties “Rediģēt”, vai arī izvēloties “Rediģēt” pilnekrāna skatā.</string>
     <string name="faq_11_title">Vai multivides datņu sīktēlus kaut kā var grupēt?</string>
+    <string name="faq_11_text">Protams, sīktēlu skatā izmantojiet izvēlnes vienumu “Grupēt pēc”. Datnes var grupēt pēc vairākiem kritērijiem, tostarp pēc uzņemšanas datuma. Ja izmantojat funkciju “Rādīt visu mapju saturu”, tās var grupēt arī pēc mapēm.</string>
 </resources>
