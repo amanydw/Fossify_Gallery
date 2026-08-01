@@ -17,4 +17,5 @@
     <string name="show_on_map">Sýna á korti</string>
     <string name="unknown_location">Óþekkt staðsetning</string>
     <string name="volume">Hljóðstyrkur</string>
+    <string name="brightness">Birtustig</string>
 </resources>
