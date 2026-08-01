@@ -263,4 +263,5 @@
     <string name="faq_16_text_extra">O maaari mo ring bigyan ang gallery na ito ng access sa Lahat ng File sa pamamagitan ng mga setting ng iyong device, papayagan kaming ipakita ang mga nakatagong item at gawing mas maaasahan ang mga operasyon sa file sa pangkalahatan.</string>
     <string name="faq_17_title">Bakit hindi ko na maisama ang mga nawawalang folder?</string>
     <string name="faq_17_text">Huminto rin iyon sa paggana dahil sa mga pagbabago sa system na dala ng Android 11, hindi na mabu-browse ng app ang mga totoong folder, umaasa na ito sa tinatawag na MediaStore sa pagkuha ng data.</string>
+    <string name="faq_18_title">Bakit may nakikita akong mga ad habang nagpe-play ng video?</string>
 </resources>
