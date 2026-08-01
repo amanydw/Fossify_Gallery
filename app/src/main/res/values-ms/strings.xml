@@ -158,4 +158,5 @@
     <string name="screen_rotation_by">Putarkan media skrin penuh mengikut</string>
     <string name="screen_rotation_system_setting">Tetapan sistem</string>
     <string name="screen_rotation_device_rotation">Putaran peranti</string>
+    <string name="screen_rotation_aspect_ratio">Nisbah aspek</string>
 </resources>
