@@ -242,7 +242,7 @@
     <string name="resize_factor_error">Masukkan sebuah angka antara 10 dan 90</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">Gagal mengubah ukuran %d gambar</item>
-            <item quantity="one">Gagal mengubah ukuran %d gambar</item>
+        <item quantity="one">Gagal mengubah ukuran %d gambar</item>
 </plurals>
     <string name="images_resized_successfully">Ukuran gambar berhasil diubah</string>
     <string name="crop">Potong</string>
@@ -262,7 +262,7 @@
     <string name="keep_screen_on_fullscreen_photos">Biarkan layar tetap menyala saat melihat foto layar penuh</string>
     <plurals name="restore_confirmation">
         <item quantity="other">Apakah Anda yakin ingin memulihkan %d file?</item>
-            <item quantity="one">Apakah Anda yakin ingin memulihkan %d file?</item>
+        <item quantity="one">Apakah Anda yakin ingin memulihkan %d file?</item>
 </plurals>
     <string name="render_ultra_hdr_photos">Tampilkan foto Ultra HDR dalam HDR</string>
     <string name="on_video_tap">Saat mengetuk video</string>
