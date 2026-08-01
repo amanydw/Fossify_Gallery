@@ -236,4 +236,5 @@
     <string name="faq_3_text">Anda boleh menekan lama album yang dikehendaki dan memilih ikon Sematkan pada menu tindakan, itu akan menyematkannya di bahagian atas. Anda juga boleh menyematkan berbilang folder, item yang disematkan akan diisih mengikut kaedah pengisihan lalai.</string>
     <string name="faq_4_title">Bagaimanakah saya boleh memaju laju video?</string>
     <string name="faq_4_text">Anda boleh melakukannya dengan mengetik dua kali pada tepi skrin, atau mengetik teks tempoh semasa atau tempoh maksimum berhampiran bar cari. Jika anda mendayakan pembukaan video pada skrin berasingan dalam tetapan aplikasi, anda juga boleh menggunakan gerak isyarat mendatar.</string>
+    <string name="faq_5_title">Apakah perbezaan antara menyembunyikan dan mengecualikan sesuatu folder?</string>
 </resources>
