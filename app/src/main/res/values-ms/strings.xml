@@ -6,4 +6,5 @@
     <string name="images">Imej</string>
     <string name="videos">Video</string>
     <string name="hidden">(tersembunyi)</string>
+    <string name="excluded">(dikecualikan)</string>
 </resources>
