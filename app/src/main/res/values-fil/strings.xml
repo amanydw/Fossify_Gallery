@@ -236,4 +236,5 @@
     <string name="faq_2_text">Malulutas mo ito sa 2 paraan. Maaari mong i-install muli ang app, o hanapin ang app sa mga setting ng iyong device at piliin ang “I-clear ang data”. Ire-reset nito ang lahat ng iyong setting, ngunit hindi nito buburahin ang anumang media file.</string>
     <string name="faq_3_title">Paano ko mapapalaging nasa itaas ang isang album?</string>
     <string name="faq_3_text">Maaari mong pindutin nang matagal ang gustong album at piliin ang icon na Pin sa menu ng mga aksyon, ipi-pin nito ito sa itaas. Maaari ka ring mag-pin ng maraming folder, at ang mga naka-pin na item ay isasaayos ayon sa default na paraan ng pag-uuri.</string>
+    <string name="faq_4_title">Paano ko mapapabilis ang pagpapatakbo ng mga video?</string>
 </resources>
