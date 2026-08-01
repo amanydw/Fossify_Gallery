@@ -243,4 +243,5 @@
     <string name="faq_5_title">Koja je razlika između skrivanja i isključivanja foldera?</string>
     <string name="faq_5_text">Isključivanje sprječava prikazivanje foldera samo u Fossify Galeriji, dok skrivanje djeluje na nivou sistema pa se folder skriva i od drugih galerija. Ono radi tako što u dati folder stvara praznu datoteku „.nomedia”, koju zatim možeš ukloniti i bilo kojim upravljačem datoteka. Imaj na umu da neki uređaji ne dozvoljavaju skrivanje foldera kao što su Kamera, Snimci ekrana i Preuzimanja.</string>
     <string name="faq_6_title">Zašto se prikazuju folderi s omotima albuma ili naljepnicama?</string>
+    <string name="faq_6_text">Može se dogoditi da vidiš neke neobične albume. Lako ih možeš isključiti tako da ih dugo pritisneš i odabereš Isključi. U sljedećem dijalogu možeš odabrati nadređeni folder, čime ćeš vjerovatno spriječiti i pojavljivanje drugih srodnih albuma.</string>
 </resources>
