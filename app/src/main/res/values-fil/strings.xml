@@ -55,4 +55,5 @@
     <string name="hidden_folders">Mga nakatagong folder</string>
     <string name="manage_hidden_folders">Pamahalaan ang mga nakatagong folder</string>
     <string name="hidden_folders_placeholder">Mukhang wala kang anumang folder na nakatago gamit ang isang “.nomedia” na file.</string>
+    <string name="hidden_all_files">Kailangan mong bigyan ang app ng access sa Lahat ng File upang makita ang mga nakatagong file, kung hindi ay hindi ito gagana.</string>
 </resources>
