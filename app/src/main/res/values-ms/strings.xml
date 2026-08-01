@@ -261,4 +261,5 @@
     <string name="faq_16_text_extra">Atau anda juga boleh memberikan galeri ini akses kepada Semua Fail melalui tetapan peranti anda, itu akan membolehkan kami menunjukkan item tersembunyi dan menjadikan operasi fail lebih dipercayai secara amnya.</string>
     <string name="faq_17_title">Mengapakah saya tidak boleh lagi menyertakan folder yang hilang?</string>
     <string name="faq_17_text">Itu juga berhenti berfungsi disebabkan perubahan sistem yang datang bersama Android 11, aplikasi ini tidak boleh lagi melayari folder sebenar, ia bergantung pada apa yang dipanggil MediaStore semasa mengambil data.</string>
+    <string name="faq_18_title">Mengapakah saya melihat iklan semasa main balik video?</string>
 </resources>
