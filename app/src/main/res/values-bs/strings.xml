@@ -15,4 +15,5 @@
     <string name="folder_view">Prebaci na prikaz foldera</string>
     <string name="other_folder">Drugi folder</string>
     <string name="show_on_map">Prikaži na karti</string>
+    <string name="unknown_location">Nepoznata lokacija</string>
 </resources>
