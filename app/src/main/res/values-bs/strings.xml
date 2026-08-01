@@ -138,4 +138,5 @@
     <string name="group_direct_subfolders">Grupiši direktne podfoldere</string>
     <string name="group_by">Grupiši po</string>
     <string name="do_not_group_files">Ne grupiši datoteke</string>
+    <string name="by_folder">Folderu</string>
 </resources>
