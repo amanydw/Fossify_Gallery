@@ -253,4 +253,22 @@
     <string name="slide">Diapozitiv</string>
     <string name="faq_5_text">Funkcija Izključi prepreči prikaz mape samo v galeriji Fossify, medtem ko funkcija Skrij deluje sistemsko in skrije mapo tudi iz drugih galerij. Deluje tako, da v dani mapi ustvari prazno datoteko \".nomedia\", ki jo lahko nato odstranite tudi s katerim koli upraviteljem datotek. Upoštevajte, da nekatere naprave ne omogočajo skrivanja map, kot so Kamera, Posnetki zaslona in Prenosi.</string>
     <string name="exclude_folder_description">Izbrano skupaj z njenimi podmapami boste izključili samo iz Galerije Fossify. Izključene mape lahko upravljate v nastavitvah.</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">Ali ste prepričani, da želite obnoviti %d datoteko?</item>
+        <item quantity="other">Ali ste prepričani, da želite obnoviti %d datotek?</item>
+    </plurals>
+    <string name="force_landscape_reverse">Vsili ležeč format (obrnjeno)</string>
+    <string name="full_storage_permission_required">Fossify Gallery potrebuje popoln dostop za prikaz vseh vaših fotografij in videoposnetkov. Pojdite na Nastavitve > Dovoljenja > Fotografije in videoposnetki > Dovoli vse.</string>
+    <string name="overwrite_original">Prepiši izvirnik</string>
+    <string name="render_ultra_hdr_photos">Prikaži fotografije Ultra HDR v HDR</string>
+    <string name="keep_screen_on_fullscreen_photos">Ohrani zaslon prižgan med ogledom fotografij čez cel zaslon</string>
+    <string name="playback_speed">Hitrost predvajanja</string>
+    <string name="on_video_tap">Ob dotiku videa</string>
+    <string name="open_in_app_player">Odpri predvajalnik v aplikaciji</string>
+    <string name="open_system_default_player">Odpri privzeto aplikacijo za predvajanje</string>
+    <string name="failed_to_load_media">Nalaganje medijev ni uspelo.</string>
+    <string name="file_is_malformed_or_corrupted">Datoteka je okvarjena ali poškodovana.</string>
+    <string name="media_exceeds_device_capabilities">Medij presega zmogljivosti naprave.</string>
+    <string name="unsupported_format">Nepodprt format.</string>
+    <string name="video_no_sound">Ta videoposnetek nima zvoka</string>
 </resources>
