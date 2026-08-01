@@ -72,9 +72,7 @@
     <string name="resize_factor_error">กรุณาใส่ตัวเลขระหว่าง 10 ถึง 90</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">ปรับขนาดรูปภาพ %d ไม่สำเร็จ</item>
-    
-        <item quantity="one">ปรับขนาดรูปภาพ %d ไม่สำเร็จ</item>
-</plurals>
+    </plurals>
     <string name="images_resized_successfully">ปรับขนาดรูปภาพสำเร็จแล้ว</string>
     <string name="editor">โปรแกรมแก้ไข</string>
     <string name="basic_editor">โปรแกรมแก้ไขพื้นฐาน</string>
