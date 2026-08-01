@@ -134,4 +134,5 @@
     <string name="slideshow_ended">Skyggnusýningunni er lokið</string>
     <string name="no_media_for_slideshow">Ekkert margmiðlunarefni fannst fyrir skyggnusýninguna</string>
     <string name="group_direct_subfolders">Hópa beinar undirmöppur</string>
+    <string name="group_by">Flokka eftir</string>
 </resources>
