@@ -171,4 +171,5 @@
     <string name="show_extended_details">Tunjukkan butiran lanjutan di atas media skrin penuh</string>
     <string name="manage_extended_details">Urus butiran lanjutan</string>
     <string name="one_finger_zoom">Benarkan zum satu jari pada media skrin penuh</string>
+    <string name="allow_instant_change">Benarkan penukaran media serta-merta dengan mengetik tepi skrin</string>
 </resources>
