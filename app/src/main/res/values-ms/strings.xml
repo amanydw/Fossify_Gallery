@@ -112,4 +112,5 @@
     <string name="setting_wallpaper">Menetapkan kertas dinding…</string>
     <string name="wallpaper_set_successfully">Kertas dinding berjaya ditetapkan</string>
     <string name="portrait_aspect_ratio">Nisbah aspek potret</string>
+    <string name="landscape_aspect_ratio">Nisbah aspek lanskap</string>
 </resources>
