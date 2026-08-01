@@ -246,4 +246,5 @@
     <string name="faq_7_text">Maaaring maraming dahilan ito, ngunit madali itong lutasin. Pumunta lang sa Mga Setting -&gt; Pamahalaan ang mga isinamang folder, piliin ang Plus at mag-navigate sa kinakailangang folder.</string>
     <string name="faq_8_title">Paano kung iilang partikular na folder lang ang gusto kong makita?</string>
     <string name="faq_8_text">Ang pagdaragdag ng folder sa Mga Isinamang Folder ay hindi awtomatikong nagbubukod ng anuman. Ang magagawa mo ay pumunta sa Mga Setting -&gt; Pamahalaan ang mga ibinukod na folder, ibukod ang root folder na “/”, pagkatapos ay idagdag ang mga gustong folder sa Mga Setting -&gt; Pamahalaan ang mga isinamang folder.\nSa ganitong paraan, ang mga napiling folder lamang ang makikita, dahil ang pagbubukod at pagsasama ay parehong recursive at kung ang isang folder ay ibinukod at isinama nang sabay, lalabas ito.</string>
+    <string name="faq_10_title">Maaari ba akong mag-crop ng mga imahe gamit ang app na ito?</string>
 </resources>
