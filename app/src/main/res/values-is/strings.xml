@@ -259,4 +259,5 @@
     <string name="faq_15_title">Af hverju tekur forritið svona mikið pláss?</string>
     <string name="faq_15_text">Skyndiminni forritsins getur tekið allt að 250 MB, það tryggir hraðari hleðslu mynda. Ef forritið tekur enn meira pláss stafar það líklegast af því að þú ert með atriði í ruslafötunni. Þær skrár teljast með í stærð forritsins. Þú getur tæmt ruslafötuna með því að opna hana og eyða öllum skrám, eða úr stillingum forritsins. Öllum skrám í ruslafötunni er sjálfkrafa eytt eftir 30 daga.</string>
     <string name="faq_16_title">Hvað varð um felun skráa og mappa og af hverju sé ég ekki lengur falin atriði?</string>
+    <string name="faq_16_text">Frá og með Android 11 geturðu hvorki falið skrár eða möppur né birt þær aftur, og vegna takmarkana kerfisins geturðu ekki heldur séð faldar skrár í galleríforritum. Þú þarft að nota einhvern skráastjóra til þess.</string>
 </resources>
