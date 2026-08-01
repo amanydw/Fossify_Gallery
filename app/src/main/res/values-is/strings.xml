@@ -220,4 +220,5 @@
     <string name="show_all_folders">Sýna valmyndarhnapp til að kveikja og slökkva fljótt á „Sýna innihald allra mappa“</string>
     <string name="thumbnails">Smámyndir</string>
     <string name="fullscreen_media">Margmiðlunarefni á öllum skjánum</string>
+    <string name="extended_details">Ítarlegar upplýsingar</string>
 </resources>
