@@ -6,4 +6,5 @@
     <string name="images">Myndir</string>
     <string name="videos">Myndbönd</string>
     <string name="hidden">(falið)</string>
+    <string name="excluded">(útilokað)</string>
 </resources>
