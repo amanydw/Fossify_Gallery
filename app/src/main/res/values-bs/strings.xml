@@ -210,4 +210,5 @@
     <string name="export_favorite_paths">Izvezi omiljene</string>
     <string name="import_favorite_paths">Uvezi omiljene</string>
     <string name="paths_imported_successfully">Putanje su uspješno uvezene</string>
+    <string name="media_management_prompt">Da bi sve radnje s datotekama radile pouzdano, postavi ovu aplikaciju kao aplikaciju za upravljanje medijima u postavkama uređaja.</string>
 </resources>
