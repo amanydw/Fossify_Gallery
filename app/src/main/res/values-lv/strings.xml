@@ -117,4 +117,5 @@
     <string name="free_aspect_ratio">Brīva</string>
     <string name="other_aspect_ratio">Cita</string>
     <string name="wallpaper">Fona tapete</string>
+    <string name="set_as_wallpaper">Iestatīt kā fona tapeti</string>
 </resources>
