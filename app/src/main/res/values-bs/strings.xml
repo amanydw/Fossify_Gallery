@@ -257,4 +257,5 @@
     <string name="faq_13_title">Vidim prelaze boja na slikama. Kako mogu poboljšati kvalitet?</string>
     <string name="faq_13_text">Trenutno rješenje za prikaz slika dobro radi u velikoj većini slučajeva, ali ako želiš još bolji kvalitet slike, možeš uključiti opciju „Prikaži slike u najvišem mogućem kvalitetu” u postavkama aplikacije, u odjeljku „Slike s dubokim uvećavanjem”.</string>
     <string name="faq_14_title">Sakrio sam datoteku ili folder. Kako to mogu otkriti?</string>
+    <string name="faq_14_text">Možeš na glavnom ekranu pritisnuti stavku menija „Privremeno prikaži skrivene stavke” ili uključiti „Prikaži skrivene stavke” u postavkama aplikacije da bi vidio skrivenu stavku. Ako je želiš otkriti, samo je dugo pritisni i odaberi „Otkrij”. Folderi se skrivaju dodavanjem skrivene datoteke „.nomedia” u njih, a tu datoteku možeš izbrisati i bilo kojim upravljačem datoteka. Imaj na umu da skrivanje radi rekurzivno, pa ako sakriješ folder, i svi podfolderi će biti skriveni. Zato za otkrivanje podfoldera moraš otkriti nadređeni folder.</string>
 </resources>
