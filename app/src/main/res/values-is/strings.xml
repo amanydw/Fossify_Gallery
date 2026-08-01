@@ -53,4 +53,5 @@
     <string name="exclude_folder_parent">Útiloka yfirmöppu í staðinn?</string>
     <string name="excluded_activity_placeholder">Þegar möppur eru útilokaðar verða þær ásamt undirmöppum sínum faldar eingöngu í Fossify Gallerí, þær verða áfram sýnilegar í öðrum forritum.\n\nEf þú vilt einnig fela þær fyrir öðrum forritum skaltu nota aðgerðina Fela.</string>
     <string name="hidden_folders">Faldar möppur</string>
+    <string name="manage_hidden_folders">Sýsla með faldar möppur</string>
 </resources>
