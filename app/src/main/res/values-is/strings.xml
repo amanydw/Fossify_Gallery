@@ -255,4 +255,5 @@
     <string name="faq_13_title">Ég sé litabönd á myndunum. Hvernig get ég bætt gæðin?</string>
     <string name="faq_13_text">Núverandi lausn til að birta myndir virkar vel í langflestum tilvikum, en ef þú vilt enn betri myndgæði geturðu kveikt á „Sýna myndir í hæstu mögulegu gæðum“ í stillingum forritsins, í hlutanum „Myndir með miklum aðdrætti“.</string>
     <string name="faq_14_title">Ég faldi skrá eða möppu. Hvernig get ég birt hana aftur?</string>
+    <string name="faq_14_text">Þú getur annaðhvort ýtt á valmyndaratriðið „Sýna falin atriði tímabundið“ á aðalskjánum eða kveikt á „Sýna falin atriði“ í stillingum forritsins til að sjá falda atriðið. Ef þú vilt birta það aftur skaltu einfaldlega halda inni á því og velja „Hætta að fela“. Möppur eru faldar með því að bæta falinni „.nomedia“ skrá inn í þær, þú getur einnig eytt þeirri skrá með hvaða skráastjóra sem er. Athugaðu þó að felun virkar endurkvæmt, þannig að ef þú felur möppu verða allar undirmöppur einnig faldar. Til að birta undirmöppurnar þarftu því að birta yfirmöppuna.</string>
 </resources>
