@@ -133,4 +133,5 @@
     <string name="no_animation">Bez animacije</string>
     <string name="fade">Prelaz</string>
     <string name="slide">Klizanje</string>
+    <string name="slideshow_ended">Slajdšou je završen</string>
 </resources>
