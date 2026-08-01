@@ -160,4 +160,5 @@
     <string name="screen_rotation_by">Iikot ang fullscreen na media ayon sa</string>
     <string name="screen_rotation_system_setting">Setting ng system</string>
     <string name="screen_rotation_device_rotation">Pag-ikot ng device</string>
+    <string name="screen_rotation_aspect_ratio">Aspect ratio</string>
 </resources>
