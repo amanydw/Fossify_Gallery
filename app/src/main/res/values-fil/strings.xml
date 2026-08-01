@@ -228,4 +228,5 @@
     <string name="failed_to_load_media">Nabigong i-load ang media.</string>
     <string name="file_is_malformed_or_corrupted">Ang file ay may depekto o sira.</string>
     <string name="media_exceeds_device_capabilities">Lumalampas ang media sa kakayahan ng device.</string>
+    <string name="unsupported_format">Hindi suportadong format.</string>
 </resources>
