@@ -180,4 +180,5 @@
     <string name="hide_extended_details">Sakrij proširene detalje kada je statusna traka skrivena</string>
     <string name="show_at_bottom">Prikaži neku dugmad radnji na dnu ekrana</string>
     <string name="show_recycle_bin">Prikaži korpu za smeće na ekranu s folderima</string>
+    <string name="deep_zoomable_images">Slike s dubokim uvećavanjem</string>
 </resources>
