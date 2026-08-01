@@ -167,4 +167,5 @@
     <string name="screen_rotation_system_setting">Sistēmas iestatījuma</string>
     <string name="screen_rotation_device_rotation">Ierīces pagrieziena</string>
     <string name="screen_rotation_aspect_ratio">Malu attiecības</string>
+    <string name="black_background_at_fullscreen">Melns fons multividei pilnekrānā</string>
 </resources>
