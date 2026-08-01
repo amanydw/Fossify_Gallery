@@ -7,4 +7,5 @@
     <string name="videos">Videozapisi</string>
     <string name="hidden">(skriveno)</string>
     <string name="excluded">(isključeno)</string>
+    <string name="pin_folder">Zakači folder</string>
 </resources>
