@@ -254,4 +254,5 @@
     <string name="faq_12_text">Það stafar líklegast af því að skrárnar hafa verið afritaðar einhvers staðar frá. Þú getur lagað það með því að velja smámyndir skránna og velja „Laga gildi upptökudagsetningar“.</string>
     <string name="faq_13_title">Ég sé litabönd á myndunum. Hvernig get ég bætt gæðin?</string>
     <string name="faq_13_text">Núverandi lausn til að birta myndir virkar vel í langflestum tilvikum, en ef þú vilt enn betri myndgæði geturðu kveikt á „Sýna myndir í hæstu mögulegu gæðum“ í stillingum forritsins, í hlutanum „Myndir með miklum aðdrætti“.</string>
+    <string name="faq_14_title">Ég faldi skrá eða möppu. Hvernig get ég birt hana aftur?</string>
 </resources>
