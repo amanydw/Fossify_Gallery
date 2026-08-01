@@ -262,4 +262,9 @@
     <string name="keep_screen_on_fullscreen_photos">Pidä näyttö päällä, kun selaat kokoruudun valokuvia</string>
     <string name="force_landscape_reverse">Pakota vaakasuunta (käännettynä)</string>
     <string name="overwrite_original">Tallenna alkuperäisen päälle</string>
+    <string name="render_ultra_hdr_photos">Näytä Ultra HDR -valokuvat HDR-muodossa</string>
+    <string name="on_video_tap">Videota napautettaessa</string>
+    <string name="open_in_app_player">Avaa sovelluksen sisäinen soitin</string>
+    <string name="open_system_default_player">Avaa oletussoitin</string>
+    <string name="video_no_sound">Tässä videossa ei ole ääntä</string>
 </resources>
