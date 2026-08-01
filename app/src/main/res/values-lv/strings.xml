@@ -190,4 +190,5 @@
     <string name="allow_one_to_one_zoom">Atļaut 1:1 tuvināšanu ar diviem dubultpieskārieniem</string>
     <string name="open_videos_on_separate_screen">Atskaņot video atsevišķā ekrānā ar horizontāliem žestiem</string>
     <string name="on_video_tap">Pieskaroties video</string>
+    <string name="open_in_app_player">Atvērt lietotnes atskaņotāju</string>
 </resources>
