@@ -250,4 +250,5 @@
     <string name="faq_8_text">Mapes pievienošana iekļautajām mapēm automātiski neizslēdz neko citu. Var doties uz Iestatījumi -&gt; Pārvaldīt neiekļautās mapes, neiekļaut saknes mapi “/” un pēc tam pievienot vēlamās mapes sadaļā Iestatījumi -&gt; Pārvaldīt iekļautās mapes.\nTādējādi būs redzamas tikai izvēlētās mapes, jo gan neiekļaušana, gan iekļaušana ir rekursīva, un, ja mape ir gan neiekļauta, gan iekļauta, tā tiks rādīta.</string>
     <string name="faq_10_title">Vai ar šo lietotni var apcirpt attēlus?</string>
     <string name="faq_10_text">Jā, attēlus var apcirpt redaktorā, velkot attēla stūrus. Redaktoru var atvērt, ilgi piespiežot attēla sīktēlu un izvēloties “Rediģēt”, vai arī izvēloties “Rediģēt” pilnekrāna skatā.</string>
+    <string name="faq_11_title">Vai multivides datņu sīktēlus kaut kā var grupēt?</string>
 </resources>
