@@ -222,4 +222,5 @@
     <string name="fullscreen_media">Margmiðlunarefni á öllum skjánum</string>
     <string name="extended_details">Ítarlegar upplýsingar</string>
     <string name="bottom_actions">Aðgerðir neðst</string>
+    <string name="manage_bottom_actions">Sýsla með sýnilegar aðgerðir neðst</string>
 </resources>
