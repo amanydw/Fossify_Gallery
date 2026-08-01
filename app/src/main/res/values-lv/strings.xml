@@ -184,4 +184,5 @@
     <string name="show_at_bottom">Rādīt dažas darbību pogas ekrāna apakšdaļā</string>
     <string name="show_recycle_bin">Rādīt atkritni mapju ekrānā</string>
     <string name="deep_zoomable_images">Dziļi tuvināmi attēli</string>
+    <string name="show_highest_quality">Rādīt attēlus pēc iespējas augstākā kvalitātē</string>
 </resources>
