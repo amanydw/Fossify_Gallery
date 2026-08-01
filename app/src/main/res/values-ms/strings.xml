@@ -153,4 +153,5 @@
     <string name="animate_gifs">Animasikan GIF pada lakaran kenit</string>
     <string name="max_brightness">Kecerahan maksimum semasa melihat media skrin penuh</string>
     <string name="render_ultra_hdr_photos">Tunjukkan foto Ultra HDR dalam HDR</string>
+    <string name="crop_thumbnails">Pangkas lakaran kenit menjadi segi empat sama</string>
 </resources>
