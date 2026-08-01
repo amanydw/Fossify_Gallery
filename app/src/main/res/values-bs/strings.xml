@@ -91,4 +91,5 @@
     <string name="file_edited_successfully">Datoteka je uspješno uređena</string>
     <string name="image_edited_successfully">Slika je uspješno uređena</string>
     <string name="video_edited_successfully">Videozapis je uspješno uređen</string>
+    <string name="edit_image_with">Uredi sliku pomoću:</string>
 </resources>
