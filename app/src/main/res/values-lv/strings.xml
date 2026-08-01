@@ -169,4 +169,5 @@
     <string name="screen_rotation_aspect_ratio">Malu attiecības</string>
     <string name="black_background_at_fullscreen">Melns fons multividei pilnekrānā</string>
     <string name="scroll_thumbnails_horizontally">Ritināt sīktēlus horizontāli</string>
+    <string name="hide_system_ui_at_fullscreen">Automātiski slēpt sistēmas saskarni multividei pilnekrānā</string>
 </resources>
