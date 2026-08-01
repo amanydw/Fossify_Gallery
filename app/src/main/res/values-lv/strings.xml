@@ -258,4 +258,5 @@
     <string name="faq_13_text">Pašreizējais attēlu attēlošanas risinājums lielākajā daļā gadījumu darbojas labi, taču, ja vēlaties vēl labāku attēla kvalitāti, lietotnes iestatījumu sadaļā “Dziļi tuvināmi attēli” var ieslēgt iespēju “Rādīt attēlus pēc iespējas augstākā kvalitātē”.</string>
     <string name="faq_14_title">Es paslēpu datni vai mapi. Kā to var parādīt no jauna?</string>
     <string name="faq_14_text">Galvenajā ekrānā var nospiest izvēlnes vienumu “Īslaicīgi rādīt paslēptos vienumus” vai lietotnes iestatījumos ieslēgt “Rādīt paslēptos vienumus”, lai redzētu paslēpto vienumu. Ja vēlaties to atkal parādīt, ilgi piespiediet to un izvēlieties “Rādīt”. Mapes tiek paslēptas, tajās pievienojot paslēptu datni “.nomedia”; šo datni var izdzēst arī ar jebkuru datņu pārvaldnieku. Ņemiet vērā, ka paslēpšana darbojas rekursīvi, tāpēc, paslēpjot mapi, tiks paslēptas arī visas apakšmapes. Tātad, lai parādītu apakšmapes, ir jāparāda virsmape.</string>
+    <string name="faq_15_title">Kāpēc lietotne aizņem tik daudz vietas?</string>
 </resources>
