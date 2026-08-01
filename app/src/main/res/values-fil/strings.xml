@@ -170,4 +170,5 @@
     <string name="allow_video_gestures">Payagan ang pagkontrol sa lakas ng tunog at liwanag ng video gamit ang patayong mga galaw</string>
     <string name="playback_speed">Bilis ng pag-play</string>
     <string name="show_media_count">Ipakita ang bilang ng media sa folder sa pangunahing view</string>
+    <string name="show_extended_details">Ipakita ang mga karagdagang detalye sa ibabaw ng fullscreen na media</string>
 </resources>
