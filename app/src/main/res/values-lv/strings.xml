@@ -137,4 +137,5 @@
     <string name="move_backwards">Virzīties atpakaļ</string>
     <string name="loop_slideshow">Atkārtot slaidrādi</string>
     <string name="animation">Animācija</string>
+    <string name="no_animation">Nav</string>
 </resources>
