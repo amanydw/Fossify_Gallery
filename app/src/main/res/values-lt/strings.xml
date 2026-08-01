@@ -33,7 +33,7 @@
     <string name="include_folders">Įtraukti aplankai</string>
     <string name="manage_included_folders">Tvarkyti įtrauktus aplankus</string>
     <string name="add_folder">Įtraukti aplanką</string>
-    <string name="included_activity_placeholder">"Jei turite tam tikrų aplankų, kuriuose yra medijos , bet kurių neneatpažįsta programėlė, galite juos pridėti rankiniu būdu.  N  nPridedant kai kuriuos elementus, neišskirsite jokio kito aplanko."</string>
+    <string name="included_activity_placeholder">Jei turite aplankų, kuriuose yra medijos, bet programėlė jų neatpažino, galite juos pridėti rankiniu būdu.\n\nKai kurių elementų pridėjimas čia neišskirs jokio kito aplanko.</string>
     <string name="resize_and_save">Pakeisti pasirinkto dydį ir išsaugoti</string>
     <string name="width">Plotis</string>
     <string name="height">Aukštis</string>
