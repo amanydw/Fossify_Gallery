@@ -18,4 +18,8 @@
     <string name="unpin_folder">Disfixar dossier</string>
     <string name="pin_to_the_top">Fixar al summitate</string>
     <string name="folder_view">Cambiar al vista de dossier</string>
+    <string name="width">Largura</string>
+    <string name="height">Altitud</string>
+    <string name="rotate">Rotar</string>
+    <string name="gifs">GIFs</string>
 </resources>
