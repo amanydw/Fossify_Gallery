@@ -196,4 +196,5 @@
     <string name="show_image_file_types">Ipakita ang mga uri ng file ng imahe</string>
     <string name="allow_zooming_videos">Payagan ang pag-zoom sa mga video sa pamamagitan ng pag-double tap sa mga ito</string>
     <string name="folder_thumbnail_style">Istilo ng thumbnail ng folder</string>
+    <string name="file_thumbnail_style">Istilo ng thumbnail ng file</string>
 </resources>
