@@ -244,4 +244,5 @@
     <string name="faq_6_text">Það getur gerst að þú sjáir einhver óvenjuleg albúm birtast. Þú getur auðveldlega útilokað þau með því að halda inni á þeim og velja Útiloka. Í næsta glugga geturðu síðan valið yfirmöppuna, sem kemur líklega einnig í veg fyrir að önnur tengd albúm birtist.</string>
     <string name="faq_7_title">Mappa með myndum birtist ekki, eða hún sýnir ekki öll atriðin. Hvað get ég gert?</string>
     <string name="faq_7_text">Það getur átt sér margar ástæður en það er auðvelt að leysa það. Farðu bara í Stillingar -&gt; Sýsla með innifaldar möppur, veldu plúsinn og farðu í viðkomandi möppu.</string>
+    <string name="faq_8_title">Hvað ef ég vil aðeins hafa nokkrar tilteknar möppur sýnilegar?</string>
 </resources>
