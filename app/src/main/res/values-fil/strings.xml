@@ -71,4 +71,8 @@
     <string name="resize_factor">Factor ng pagbabago ng laki</string>
     <string name="resize_factor_info">Baguhin ang laki ng mga imahe sa ibinigay na porsiyento, ang halaga ay dapat nasa pagitan ng 10 at 90.</string>
     <string name="resize_factor_error">Maglagay ng numero sa pagitan ng 10 at 90</string>
+    <plurals name="failed_to_resize_images">
+        <item quantity="one">Nabigong baguhin ang laki ng %d imahe</item>
+        <item quantity="other">Nabigong baguhin ang laki ng %d na imahe</item>
+    </plurals>
 </resources>
