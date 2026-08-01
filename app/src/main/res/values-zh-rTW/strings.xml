@@ -65,9 +65,7 @@
     <string name="resize_factor_error">請輸入 10 到 90 之間的數值</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">%d 張圖片尺寸調整失敗</item>
-    
-        <item quantity="one">%d 張圖片尺寸調整失敗</item>
-</plurals>
+    </plurals>
     <string name="images_resized_successfully">圖片尺寸調整成功</string>
     <string name="editor">編輯工具</string>
     <string name="basic_editor">基礎編輯工具</string>
