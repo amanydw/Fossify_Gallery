@@ -10,4 +10,5 @@
     <string name="pin_folder">I-pin ang folder</string>
     <string name="unpin_folder">I-unpin ang folder</string>
     <string name="pin_to_the_top">I-pin sa itaas</string>
+    <string name="show_all">Ipakita ang nilalaman ng lahat ng folder</string>
 </resources>
