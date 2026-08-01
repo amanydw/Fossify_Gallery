@@ -43,4 +43,5 @@
     <string name="filter_media">Tapis media</string>
     <string name="gifs">GIF</string>
     <string name="raw_images">Imej RAW</string>
+    <string name="svgs">SVG</string>
 </resources>
