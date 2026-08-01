@@ -16,4 +16,5 @@
     <string name="other_folder">Drugi folder</string>
     <string name="show_on_map">Prikaži na karti</string>
     <string name="unknown_location">Nepoznata lokacija</string>
+    <string name="volume">Jačina zvuka</string>
 </resources>
