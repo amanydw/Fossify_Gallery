@@ -78,4 +78,5 @@
         <item quantity="other">Nije uspjela promjena veličine %d slika</item>
     </plurals>
     <string name="images_resized_successfully">Veličina slika je uspješno promijenjena</string>
+    <string name="editor">Uređivač</string>
 </resources>
