@@ -161,4 +161,5 @@
     <string name="show_thumbnail_video_duration">Prikaži trajanje videozapisa</string>
     <string name="screen_rotation_by">Rotiraj medije preko cijelog ekrana prema</string>
     <string name="screen_rotation_system_setting">Sistemskoj postavci</string>
+    <string name="screen_rotation_device_rotation">Rotaciji uređaja</string>
 </resources>
