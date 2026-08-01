@@ -100,4 +100,5 @@
     <string name="transform">Ubah bentuk</string>
     <string name="crop">Pangkas</string>
     <string name="draw">Lukis</string>
+    <string name="flip">Terbalikkan</string>
 </resources>
