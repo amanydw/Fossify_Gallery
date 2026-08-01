@@ -190,4 +190,5 @@
     <string name="show_notch">Ipakita ang notch kung mayroon</string>
     <string name="allow_rotating_gestures">Payagan ang pag-ikot ng mga imahe gamit ang mga galaw</string>
     <string name="file_loading_priority">Prayoridad sa pag-load ng file</string>
+    <string name="speed">Bilis</string>
 </resources>
