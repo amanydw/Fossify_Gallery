@@ -6,4 +6,5 @@
     <string name="images">Mga Imahe</string>
     <string name="videos">Mga Video</string>
     <string name="hidden">(nakatago)</string>
+    <string name="excluded">(ibinukod)</string>
 </resources>
