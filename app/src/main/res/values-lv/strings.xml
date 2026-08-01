@@ -83,4 +83,5 @@
     <string name="no_media_add_included">Netika atrasta neviena multivides datne. To var atrisināt, manuāli pievienojot mapes, kurās ir multivides datnes.</string>
     <string name="resize_and_save">Mainīt izvēlēto attēlu izmēru un saglabāt</string>
     <string name="width">Platums</string>
+    <string name="height">Augstums</string>
 </resources>
