@@ -31,4 +31,5 @@
     <string name="no_date_takens_found">Walang natagpuang halaga ng Petsa ng Pagkuha</string>
     <string name="share_resized">Ibahagi ang bersyong binago ang laki</string>
     <string name="switch_to_file_search">Lumipat sa paghahanap ng file sa lahat ng nakikitang folder</string>
+    <string name="set_as_default_folder">Itakda bilang default na folder</string>
 </resources>
