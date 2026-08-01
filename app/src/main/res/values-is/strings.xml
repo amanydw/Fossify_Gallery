@@ -233,4 +233,5 @@
     <string name="faq_1_title">Hvernig get ég gert Fossify Gallerí að sjálfgefna gallerí tækisins?</string>
     <string name="faq_1_text">Fyrst þarftu að finna núverandi sjálfgefið gallerí í forritahluta stillinga tækisins, leitaðu að hnappi sem segir eitthvað á borð við „Opna sjálfgefið“, smelltu á hann og veldu síðan „Hreinsa sjálfgefnar stillingar“. Næst þegar þú reynir að opna mynd eða myndband ættirðu að sjá forritaval þar sem þú getur valið Fossify Gallerí og gert það að sjálfgefna forritinu.</string>
     <string name="faq_2_title">Ég læsti forritinu með lykilorði en gleymdi því. Hvað get ég gert?</string>
+    <string name="faq_2_text">Þú getur leyst það á tvo vegu. Þú getur annaðhvort sett forritið upp aftur eða fundið forritið í stillingum tækisins og valið „Hreinsa gögn“. Það endurstillir allar stillingarnar þínar en fjarlægir engar margmiðlunarskrár.</string>
 </resources>
