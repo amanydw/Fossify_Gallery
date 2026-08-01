@@ -183,4 +183,5 @@
     <string name="show_recycle_bin_last">Sýna ruslafötuna sem síðasta atriðið á aðalskjánum</string>
     <string name="allow_down_gesture">Leyfa að loka heilskjásýn með bendingu niður á við</string>
     <string name="allow_one_to_one_zoom">Leyfa 1:1 aðdrátt með tveimur tvísmellum</string>
+    <string name="open_videos_on_separate_screen">Spila myndbönd á sérstökum skjá með láréttum bendingum</string>
 </resources>
