@@ -161,4 +161,5 @@
     <string name="screen_rotation_system_setting">Setting ng system</string>
     <string name="screen_rotation_device_rotation">Pag-ikot ng device</string>
     <string name="screen_rotation_aspect_ratio">Aspect ratio</string>
+    <string name="black_background_at_fullscreen">Itim na background sa fullscreen na media</string>
 </resources>
