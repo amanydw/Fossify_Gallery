@@ -61,4 +61,5 @@
     <string name="add_folder">Tambah folder</string>
     <string name="included_activity_placeholder">Jika anda mempunyai folder yang mengandungi media tetapi tidak dikenali oleh aplikasi ini, anda boleh menambahnya secara manual di sini.\n\nMenambah item di sini tidak akan mengecualikan mana-mana folder lain.</string>
     <string name="no_media_add_included">Tiada fail media ditemui. Anda boleh mengatasinya dengan menambah folder yang mengandungi fail media secara manual.</string>
+    <string name="resize_and_save">Ubah saiz pilihan dan simpan</string>
 </resources>
