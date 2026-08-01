@@ -201,4 +201,5 @@
     <string name="show_image_file_types">Rādīt attēlu datņu veidus</string>
     <string name="allow_zooming_videos">Atļaut tuvināt video ar dubultpieskārienu</string>
     <string name="folder_thumbnail_style">Mapju sīktēlu stils</string>
+    <string name="file_thumbnail_style">Datņu sīktēlu stils</string>
 </resources>
