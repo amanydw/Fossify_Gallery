@@ -237,4 +237,5 @@
     <string name="faq_3_title">Paano ko mapapalaging nasa itaas ang isang album?</string>
     <string name="faq_3_text">Maaari mong pindutin nang matagal ang gustong album at piliin ang icon na Pin sa menu ng mga aksyon, ipi-pin nito ito sa itaas. Maaari ka ring mag-pin ng maraming folder, at ang mga naka-pin na item ay isasaayos ayon sa default na paraan ng pag-uuri.</string>
     <string name="faq_4_title">Paano ko mapapabilis ang pagpapatakbo ng mga video?</string>
+    <string name="faq_4_text">Magagawa mo ito sa pamamagitan ng pag-double tap sa gilid ng screen, o pag-tap sa teksto ng kasalukuyan o pinakamataas na tagal malapit sa seekbar. Kung i-e-enable mo ang pagbukas ng mga video sa hiwalay na screen sa mga setting ng app, maaari ka ring gumamit ng pahalang na mga galaw.</string>
 </resources>
