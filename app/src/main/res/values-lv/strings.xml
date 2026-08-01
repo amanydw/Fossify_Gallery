@@ -76,4 +76,5 @@
     <string name="hidden_folders_placeholder">Šķiet, ka nav nevienas mapes, kas būtu paslēpta ar datni “.nomedia”.</string>
     <string name="hidden_all_files">Lai redzētu paslēptās datnes, lietotnei ir jāpiešķir piekļuve visām datnēm, citādi tas nedarbosies.</string>
     <string name="cant_unhide_folder">Ja mapes vai kādas tās virsmapes nosaukuma priekšā ir punkts, tā ir paslēpta un šādi to nevar parādīt. Punkts ir jānoņem, mapi pārdēvējot.</string>
+    <string name="include_folders">Iekļautās mapes</string>
 </resources>
