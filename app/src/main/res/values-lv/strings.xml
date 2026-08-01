@@ -95,4 +95,5 @@
     <string name="basic_editor">Vienkāršais redaktors</string>
     <string name="advanced_editor">Paplašinātais redaktors</string>
     <string name="rotate">Pagriezt</string>
+    <string name="invalid_image_path">Nederīgs attēla ceļš</string>
 </resources>
