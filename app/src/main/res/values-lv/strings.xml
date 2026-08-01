@@ -222,4 +222,5 @@
     <string name="media_only">Tikai multivide</string>
     <string name="all_files">Visas datnes</string>
     <string name="search_all_files">Galvenajā ekrānā meklēt visas datnes, nevis mapes</string>
+    <string name="show_all_folders">Rādīt izvēlnes pogu, lai ātri ieslēgtu visu mapju satura rādīšanu</string>
 </resources>
