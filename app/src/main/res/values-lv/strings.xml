@@ -113,4 +113,5 @@
     <string name="draw">Zīmēt</string>
     <string name="flip">Apvērst</string>
     <string name="flip_horizontally">Apvērst horizontāli</string>
+    <string name="flip_vertically">Apvērst vertikāli</string>
 </resources>
