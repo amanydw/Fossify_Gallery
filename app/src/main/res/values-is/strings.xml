@@ -106,4 +106,5 @@
     <string name="flip_horizontally">Spegla lárétt</string>
     <string name="flip_vertically">Spegla lóðrétt</string>
     <string name="free_aspect_ratio">Frjálst</string>
+    <string name="other_aspect_ratio">Annað</string>
 </resources>
