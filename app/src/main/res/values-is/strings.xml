@@ -20,4 +20,5 @@
     <string name="brightness">Birtustig</string>
     <string name="lock_orientation">Læsa stefnu skjás</string>
     <string name="unlock_orientation">Aflæsa stefnu skjás</string>
+    <string name="change_orientation">Breyta stefnu skjás</string>
 </resources>
