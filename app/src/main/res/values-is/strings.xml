@@ -204,4 +204,5 @@
     <string name="show_file_count_none">Ekki sýna fjölda skráa</string>
     <string name="limit_folder_title">Takmarka löng möppuheiti við eina línu</string>
     <string name="square">Ferningur</string>
+    <string name="rounded_corners">Ávöl horn</string>
 </resources>
