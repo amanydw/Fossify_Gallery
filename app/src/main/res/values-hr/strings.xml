@@ -92,7 +92,7 @@
     <string name="error_saving_file">Nije moguće prepisati izvornu datoteku</string>
     <string name="rotate_left">Okreni nalijevo</string>
     <string name="rotate_right">Okreni nadesno</string>
-    <string name="rotate_one_eighty">Okreni za 180 º</string>
+    <string name="rotate_one_eighty">Okreni za 180º</string>
     <string name="transform">Transformiraj</string>
     <string name="crop">Obreži</string>
     <string name="draw">Crtaj</string>
