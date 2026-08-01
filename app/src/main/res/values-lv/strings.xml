@@ -146,4 +146,5 @@
     <string name="group_by">Grupēt pēc</string>
     <string name="do_not_group_files">Negrupēt datnes</string>
     <string name="by_folder">Mapes</string>
+    <string name="by_last_modified">Pēdējām izmaiņām</string>
 </resources>
