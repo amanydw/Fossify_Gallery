@@ -198,4 +198,5 @@
     <string name="speed">Ātrums</string>
     <string name="compromise">Kompromiss</string>
     <string name="avoid_showing_invalid_files">Nerādīt nederīgas datnes</string>
+    <string name="show_image_file_types">Rādīt attēlu datņu veidus</string>
 </resources>
