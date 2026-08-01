@@ -241,4 +241,5 @@
     <string name="faq_3_text">Ilgi piespiediet vēlamo albumu un darbību izvēlnē izvēlieties piespraudes ikonu — tas piespraudīs albumu augšpusē. Var piespraust arī vairākas mapes; piespraustie vienumi tiks sakārtoti pēc noklusējuma kārtošanas veida.</string>
     <string name="faq_4_title">Kā es varu attīt video uz priekšu?</string>
     <string name="faq_4_text">To var izdarīt, divreiz pieskaroties ekrāna malai vai pieskaroties pašreizējā vai maksimālā ilguma tekstam pie meklēšanas joslas. Ja lietotnes iestatījumos ieslēdzat video atvēršanu atsevišķā ekrānā, var izmantot arī horizontālus žestus.</string>
+    <string name="faq_5_text">Neiekļaušana neļauj mapi rādīt tikai Fossify Gallery, savukārt paslēpšana darbojas visā sistēmā un paslēpj mapi arī no citām galerijām. Tā darbojas, attiecīgajā mapē izveidojot tukšu datni “.nomedia”, kuru pēc tam var izdzēst arī ar jebkuru datņu pārvaldnieku. Ņemiet vērā, ka dažas ierīces neļauj paslēpt tādas mapes kā Camera, Screenshots un Downloads.</string>
 </resources>
