@@ -50,4 +50,5 @@
     <string name="no_media_with_filters">Nije pronađena nijedna medijska datoteka s odabranim filterima.</string>
     <string name="change_filters_underlined"><u>Promijeni filtere</u></string>
     <string name="hide_folder_description">Ova funkcija skriva folder dodavanjem datoteke „.nomedia” u njega, a skrit će i sve podfoldere. Možeš ih vidjeti uključivanjem opcije „Prikaži skrivene stavke” u postavkama. Nastaviti?</string>
+    <string name="exclude_folder_description">Ovo će isključiti odabir zajedno s njegovim podfolderima samo iz Fossify Galerije. Isključenim folderima možeš upravljati u postavkama.</string>
 </resources>
