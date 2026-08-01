@@ -174,4 +174,5 @@
     <string name="allow_photo_gestures">Atļaut vadīt fotoattēla spilgtumu ar vertikāliem žestiem</string>
     <string name="allow_video_gestures">Atļaut vadīt video skaļumu un spilgtumu ar vertikāliem žestiem</string>
     <string name="playback_speed">Atskaņošanas ātrums</string>
+    <string name="show_media_count">Rādīt mapes multivides datņu skaitu galvenajā skatā</string>
 </resources>
