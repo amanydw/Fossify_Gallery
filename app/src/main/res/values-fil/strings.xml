@@ -193,4 +193,5 @@
     <string name="speed">Bilis</string>
     <string name="compromise">Balanse</string>
     <string name="avoid_showing_invalid_files">Iwasang ipakita ang mga hindi wastong file</string>
+    <string name="show_image_file_types">Ipakita ang mga uri ng file ng imahe</string>
 </resources>
