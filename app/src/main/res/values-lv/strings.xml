@@ -158,4 +158,5 @@
     <string name="grouping_and_sorting">Ņemiet vērā, ka grupēšana un kārtošana ir 2 neatkarīgi lauki</string>
     <string name="folder_on_widget">Logrīkā rādītā mape:</string>
     <string name="show_folder_name">Rādīt mapes nosaukumu</string>
+    <string name="autoplay_videos">Atskaņot video automātiski</string>
 </resources>
