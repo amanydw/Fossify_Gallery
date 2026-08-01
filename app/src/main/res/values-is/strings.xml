@@ -80,4 +80,5 @@
     <string name="basic_editor">Einföld myndvinnsla</string>
     <string name="advanced_editor">Ítarleg myndvinnsla</string>
     <string name="rotate">Snúa</string>
+    <string name="invalid_image_path">Ógild slóð myndar</string>
 </resources>
