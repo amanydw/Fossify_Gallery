@@ -154,4 +154,5 @@
     <string name="autoplay_videos">Automatski pokreni videozapise</string>
     <string name="remember_last_video_position">Zapamti posljednju poziciju reprodukcije videozapisa</string>
     <string name="loop_videos">Ponavljaj videozapise</string>
+    <string name="animate_gifs">Animiraj GIF-ove na sličicama</string>
 </resources>
