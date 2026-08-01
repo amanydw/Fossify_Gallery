@@ -103,4 +103,5 @@
     <string name="flip">Terbalikkan</string>
     <string name="flip_horizontally">Terbalikkan secara mendatar</string>
     <string name="flip_vertically">Terbalikkan secara menegak</string>
+    <string name="free_aspect_ratio">Bebas</string>
 </resources>
