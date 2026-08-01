@@ -177,4 +177,5 @@
     <string name="allow_deep_zooming_images">Payagan ang malalim na pag-zoom sa mga imahe</string>
     <string name="hide_extended_details">Itago ang mga karagdagang detalye kapag nakatago ang status bar</string>
     <string name="show_at_bottom">Ipakita ang ilang action button sa ibaba ng screen</string>
+    <string name="show_recycle_bin">Ipakita ang recycle bin sa screen ng mga folder</string>
 </resources>
