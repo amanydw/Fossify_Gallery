@@ -180,4 +180,5 @@
     <string name="show_highest_quality">Tunjukkan imej dalam kualiti setinggi mungkin</string>
     <string name="show_recycle_bin_last">Tunjukkan tong kitar semula sebagai item terakhir pada skrin utama</string>
     <string name="allow_down_gesture">Benarkan penutupan paparan skrin penuh dengan gerak isyarat ke bawah</string>
+    <string name="allow_one_to_one_zoom">Benarkan zum 1:1 dengan dua ketikan berganda</string>
 </resources>
