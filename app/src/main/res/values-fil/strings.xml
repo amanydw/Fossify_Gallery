@@ -76,4 +76,5 @@
         <item quantity="other">Nabigong baguhin ang laki ng %d na imahe</item>
     </plurals>
     <string name="images_resized_successfully">Matagumpay na nabago ang laki ng mga imahe</string>
+    <string name="editor">Editor</string>
 </resources>
