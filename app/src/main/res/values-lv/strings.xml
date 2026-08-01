@@ -172,4 +172,5 @@
     <string name="hide_system_ui_at_fullscreen">Automātiski slēpt sistēmas saskarni multividei pilnekrānā</string>
     <string name="delete_empty_folders">Dzēst tukšās mapes pēc to satura dzēšanas</string>
     <string name="allow_photo_gestures">Atļaut vadīt fotoattēla spilgtumu ar vertikāliem žestiem</string>
+    <string name="allow_video_gestures">Atļaut vadīt video skaļumu un spilgtumu ar vertikāliem žestiem</string>
 </resources>
