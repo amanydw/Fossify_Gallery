@@ -253,4 +253,5 @@
     <string name="faq_11_title">Vai multivides datņu sīktēlus kaut kā var grupēt?</string>
     <string name="faq_11_text">Protams, sīktēlu skatā izmantojiet izvēlnes vienumu “Grupēt pēc”. Datnes var grupēt pēc vairākiem kritērijiem, tostarp pēc uzņemšanas datuma. Ja izmantojat funkciju “Rādīt visu mapju saturu”, tās var grupēt arī pēc mapēm.</string>
     <string name="faq_12_title">Šķiet, ka kārtošana pēc uzņemšanas datuma nedarbojas pareizi. Kā to var salabot?</string>
+    <string name="faq_12_text">Visticamāk, tas ir tāpēc, ka datnes ir kopētas no citurienes. To var salabot, atlasot datņu sīktēlus un izvēloties “Salabot uzņemšanas datuma vērtību”.</string>
 </resources>
