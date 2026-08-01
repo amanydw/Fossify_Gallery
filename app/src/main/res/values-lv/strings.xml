@@ -93,4 +93,5 @@
     <string name="images_resized_successfully">Attēlu izmērs veiksmīgi mainīts</string>
     <string name="editor">Redaktors</string>
     <string name="basic_editor">Vienkāršais redaktors</string>
+    <string name="advanced_editor">Paplašinātais redaktors</string>
 </resources>
