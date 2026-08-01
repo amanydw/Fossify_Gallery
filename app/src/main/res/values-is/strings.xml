@@ -56,4 +56,5 @@
     <string name="manage_hidden_folders">Sýsla með faldar möppur</string>
     <string name="hidden_folders_placeholder">Það lítur út fyrir að engar möppur séu faldar hjá þér með „.nomedia“ skrá.</string>
     <string name="hidden_all_files">Þú verður að veita forritinu aðgang að öllum skrám til að sjá faldar skrár, annars getur þetta ekki virkað.</string>
+    <string name="cant_unhide_folder">Ef mappa eða ein af yfirmöppum hennar er með punkt á undan heitinu er hún falin og ekki hægt að birta hana á þennan hátt. Þú verður að fjarlægja punktinn með því að endurnefna hana.</string>
 </resources>
