@@ -65,4 +65,5 @@
     <string name="no_media_add_included">Nije pronađena nijedna medijska datoteka. To možeš riješiti ručnim dodavanjem foldera koji sadrže medijske datoteke.</string>
     <string name="resize_and_save">Promijeni veličinu odabira i sačuvaj</string>
     <string name="width">Širina</string>
+    <string name="height">Visina</string>
 </resources>
