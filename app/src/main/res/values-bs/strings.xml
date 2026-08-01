@@ -246,4 +246,5 @@
     <string name="faq_6_text">Može se dogoditi da vidiš neke neobične albume. Lako ih možeš isključiti tako da ih dugo pritisneš i odabereš Isključi. U sljedećem dijalogu možeš odabrati nadređeni folder, čime ćeš vjerovatno spriječiti i pojavljivanje drugih srodnih albuma.</string>
     <string name="faq_7_title">Folder sa slikama se ne prikazuje ili ne prikazuje sve stavke. Šta mogu uraditi?</string>
     <string name="faq_7_text">To može imati više razloga, ali rješenje je jednostavno. Samo idi u Postavke -&gt; Upravljaj uključenim folderima, odaberi Plus i pronađi željeni folder.</string>
+    <string name="faq_8_title">Šta ako želim da bude vidljivo samo nekoliko određenih foldera?</string>
 </resources>
