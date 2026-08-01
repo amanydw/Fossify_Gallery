@@ -158,4 +158,5 @@
     <string name="max_brightness">Maksimalna svjetlina pri prikazu medija preko cijelog ekrana</string>
     <string name="render_ultra_hdr_photos">Prikaži Ultra HDR fotografije u HDR-u</string>
     <string name="crop_thumbnails">Izreži sličice u kvadrate</string>
+    <string name="show_thumbnail_video_duration">Prikaži trajanje videozapisa</string>
 </resources>
