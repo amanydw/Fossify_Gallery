@@ -124,4 +124,5 @@
     <string name="include_gifs">Sertakan GIF</string>
     <string name="random_order">Susunan rawak</string>
     <string name="move_backwards">Bergerak ke belakang</string>
+    <string name="loop_slideshow">Ulang tayangan slaid</string>
 </resources>
