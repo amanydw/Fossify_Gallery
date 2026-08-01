@@ -23,4 +23,9 @@
     <string name="render_ultra_hdr_photos">Rādīt Ultra HDR fotoattēlus kā HDR</string>
     <string name="crop_thumbnails">Apcirpt sīktēlus kā kvadrātus</string>
     <string name="show_thumbnail_video_duration">Rādīt video ilgumu</string>
+    <string name="app_launcher_name">Galerija</string>
+    <string name="edit">Rediģēt</string>
+    <string name="open_camera">Atvērt kameru</string>
+    <string name="images">Attēli</string>
+    <string name="videos">Video</string>
 </resources>
