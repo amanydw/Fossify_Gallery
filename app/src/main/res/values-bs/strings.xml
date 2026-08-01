@@ -176,4 +176,5 @@
     <string name="manage_extended_details">Upravljaj proširenim detaljima</string>
     <string name="one_finger_zoom">Dozvoli uvećavanje jednim prstom pri prikazu medija preko cijelog ekrana</string>
     <string name="allow_instant_change">Dozvoli trenutnu promjenu medija dodirom na strane ekrana</string>
+    <string name="allow_deep_zooming_images">Dozvoli duboko uvećavanje slika</string>
 </resources>
