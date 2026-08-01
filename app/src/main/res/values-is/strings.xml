@@ -29,4 +29,5 @@
     <string name="fixing">Lagfæri…</string>
     <string name="dates_fixed_successfully">Tókst að laga dagsetningar</string>
     <string name="no_date_takens_found">Engin gildi fyrir upptökudagsetningu fundust</string>
+    <string name="share_resized">Deila útgáfu með breyttri stærð</string>
 </resources>
