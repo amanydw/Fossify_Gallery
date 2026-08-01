@@ -199,4 +199,5 @@
     <string name="file_thumbnail_style">Istilo ng thumbnail ng file</string>
     <string name="mark_favorite_items">Markahan ang mga paboritong item</string>
     <string name="thumbnail_spacing">Puwang sa pagitan ng mga thumbnail</string>
+    <string name="show_file_count_line">Ipakita ang bilang ng file sa hiwalay na linya</string>
 </resources>
