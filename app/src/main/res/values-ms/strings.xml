@@ -244,4 +244,5 @@
     <string name="faq_7_text">Itu boleh berlaku atas pelbagai sebab, tetapi mengatasinya adalah mudah. Cuma pergi ke Tetapan -&gt; Urus folder yang disertakan, pilih tanda Tambah dan navigasi ke folder yang dikehendaki.</string>
     <string name="faq_8_title">Bagaimana jika saya mahu hanya beberapa folder tertentu kelihatan?</string>
     <string name="faq_8_text">Menambah folder pada Folder Yang Disertakan tidak mengecualikan apa-apa secara automatik. Apa yang boleh anda lakukan ialah pergi ke Tetapan -&gt; Urus folder yang dikecualikan, kecualikan folder akar “/”, kemudian tambah folder yang dikehendaki di Tetapan -&gt; Urus folder yang disertakan.\nItu akan menjadikan hanya folder yang dipilih kelihatan, kerana pengecualian dan penyertaan kedua-duanya bersifat rekursif dan jika sesuatu folder dikecualikan dan disertakan pada masa yang sama, ia akan muncul.</string>
+    <string name="faq_10_title">Bolehkah saya memangkas imej dengan aplikasi ini?</string>
 </resources>
