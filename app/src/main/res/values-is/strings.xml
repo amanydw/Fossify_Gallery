@@ -66,4 +66,5 @@
     <string name="width">Breidd</string>
     <string name="height">Hæð</string>
     <string name="keep_aspect_ratio">Halda stærðarhlutföllum</string>
+    <string name="invalid_values">Sláðu inn gilda upplausn</string>
 </resources>
