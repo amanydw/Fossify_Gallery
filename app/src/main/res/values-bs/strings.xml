@@ -163,4 +163,5 @@
     <string name="screen_rotation_system_setting">Sistemskoj postavci</string>
     <string name="screen_rotation_device_rotation">Rotaciji uređaja</string>
     <string name="screen_rotation_aspect_ratio">Omjeru stranica</string>
+    <string name="black_background_at_fullscreen">Crna pozadina pri prikazu medija preko cijelog ekrana</string>
 </resources>
