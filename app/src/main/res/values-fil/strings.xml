@@ -182,4 +182,5 @@
     <string name="show_highest_quality">Ipakita ang mga imahe sa pinakamataas na posibleng kalidad</string>
     <string name="show_recycle_bin_last">Ipakita ang recycle bin bilang huling item sa pangunahing screen</string>
     <string name="allow_down_gesture">Payagan ang pagsasara ng fullscreen view gamit ang pababang galaw</string>
+    <string name="allow_one_to_one_zoom">Payagan ang 1:1 na pag-zoom gamit ang dalawang double tap</string>
 </resources>
