@@ -199,4 +199,5 @@
     <string name="file_thumbnail_style">Stíll smámynda fyrir skrár</string>
     <string name="mark_favorite_items">Merkja eftirlætisatriði</string>
     <string name="thumbnail_spacing">Bil milli smámynda</string>
+    <string name="show_file_count_line">Sýna fjölda skráa í sérstakri línu</string>
 </resources>
