@@ -109,8 +109,8 @@
     <string name="faq_7_title">Aplankas su nuotraukomis nerodomas, ką aš galiu padaryti\?</string>
     <string name="faq_7_text">Tai gali būti dėl keletos priežasčių, tačiau sprendimas yra lengvas. Tiesiog eikite į Nustatymai -&gt; Tvarkyti įtrauktus aplankus, pasirinkite Plius ir eikite į reikiamą aplanką.</string>
     <string name="faq_8_title">Ką daryti, jei noriu matyti tik keletą konkrečių aplankų\?</string>
-    <string name="faq_8_text">"Pridėjus aplanką į Įtraukti aplankai, automatiškai neįtraukiama nieko. Ką jūs galite padaryti, eikite į Nustatymai -&gt; Tvarkyti išskirtus aplankus, išskirkite šakninį aplanką  / \", tada pridėkite norimus aplankus, esančius Nustatymai -&gt; Tvarkyti įtrauktas aplankas.
-\n         Tai leis matyti tik tuos pasirinktus aplankus, nes abu atmetami ir įtraukti yra rekursyvūs, ir jei aplankas yra išskirtas ir įtrauktas, jis bus rodomas."</string>
+    <string name="faq_8_text">Pridėjus aplanką į Įtraukti aplankai, automatiškai neįtraukiama nieko. Ką jūs galite padaryti, eikite į Nustatymai -&gt; Tvarkyti išskirtus aplankus, išskirkite šakninį aplanką \"/\", tada pridėkite norimus aplankus, esančius Nustatymai -&gt; Tvarkyti įtrauktus aplankus.
+        Tai leis matyti tik tuos pasirinktus aplankus, nes ir išskyrimas, ir įtraukimas yra rekursyvūs, ir jei aplankas yra ir išskirtas, ir įtrauktas, jis bus rodomas.</string>
     <string name="faq_10_title">Ar galiu apkarpyti vaizdus naudojant šią programėlę\?</string>
     <string name="faq_10_text">Taip, redaguodami vaizdus, galite juos apkarpyti, vilkdami vaizdo kampus. Galite patekti į redaktorių ilgai paspaudę vaizdo miniatiūrą ir pasirinkę Redaguoti arba iš viso ekrano rodinio pasirinkę Redaguoti.</string>
     <string name="faq_16_text">Nuo \"Android 11\" nebegalite paslėpti arba panaikinti failų ar aplankų paslėpimo, taip pat paslėptų failų ar aplankų negalite matyti galerijos programėlėse. Tam turėsite naudoti kokį nors failų tvarkytuvą.</string>
