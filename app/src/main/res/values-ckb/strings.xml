@@ -17,4 +17,8 @@
     <string name="height">بەرزی</string>
     <string name="rotate">خولانەوە</string>
     <string name="gifs">گیفەکان</string>
+    <string name="slideshow">پیشاندانی وێنەکان</string>
+    <string name="interval">ماوە</string>
+    <string name="include_photos">وێنەکان بگرێتەوە</string>
+    <string name="include_videos">ڤیدیۆکان بگرێتەوە</string>
 </resources>
