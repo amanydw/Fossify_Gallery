@@ -122,4 +122,5 @@
     <string name="set_as_wallpaper_with">Iestatīt kā fona tapeti ar:</string>
     <string name="setting_wallpaper">Iestata fona tapeti…</string>
     <string name="wallpaper_set_successfully">Fona tapete veiksmīgi iestatīta</string>
+    <string name="portrait_aspect_ratio">Portreta malu attiecība</string>
 </resources>
