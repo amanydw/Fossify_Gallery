@@ -28,4 +28,11 @@
     <string name="compromise">سمجھوتا</string>
     <string name="square">ورگ</string>
     <string name="thumbnails">تھمنیل</string>
+    <string name="hidden">(لُکیا)</string>
+    <string name="excluded">(وکھرا)</string>
+    <string name="pin_to_the_top">سب توں اُپر لاؤ</string>
+    <string name="show_all">سارے فولڈراں دی شے وکھاؤ</string>
+    <string name="folder_view">فولڈر وکھاوے وچ بدلو</string>
+    <string name="faq_1_title">میں فوسیفائی گیلری نوں ڈیوائس دی ڈیفالٹ گیلری کیویں بنا سکدا واں؟</string>
+    <string name="faq_1_text">پہلاں تہانوں اپنی ڈیوائس دی سیٹنگز دے ایپس والے حصے وچ جا کے موجودہ ڈیفالٹ گیلری لبھنی پوے گی، اوتھے \'اوپن بائی ڈیفالٹ\' ورگے بٹن تے کلک کرو، فیر \'کلیئر ڈیفالٹس\' نوں چنو۔ اگلی واری جدوں تسیں کوئی تصویر یا ویڈیو کھولن دی کوشش کرو گے تاں تہانوں ایپ پکر وکھے گا، جتھے تسیں فوسیفائی گیلری نوں چن کے اینوں ڈیفالٹ ایپ بنا سکدے او۔</string>
 </resources>

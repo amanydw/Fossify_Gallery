@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">Gallerí</string>
+    <string name="edit">Breyta</string>
+    <string name="open_camera">Opna myndavél</string>
+    <string name="images">Myndir</string>
+    <string name="videos">Myndbönd</string>
+</resources>

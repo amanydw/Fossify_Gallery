@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">Galerija</string>
+    <string name="edit">Uredi</string>
+    <string name="open_camera">Otvori kameru</string>
+    <string name="images">Slike</string>
+    <string name="videos">Videozapisi</string>
+</resources>

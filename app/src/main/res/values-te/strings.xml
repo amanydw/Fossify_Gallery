@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">గ్యాలరీ</string>
+    <string name="edit">సవరించు</string>
+    <string name="open_camera">కెమెరా తెరవండి</string>
+    <string name="images">చిత్రాలు</string>
+    <string name="videos">వీడియోలు</string>
+</resources>

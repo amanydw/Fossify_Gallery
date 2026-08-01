@@ -8,4 +8,17 @@
     <string name="hidden">(شاراوە)</string>
     <string name="excluded">(بەدەر)</string>
     <string name="all_folders">هەموو بوخچەکان</string>
+    <string name="pin_folder">دەرچەواندنی بوخچە</string>
+    <string name="unpin_folder">لابردنی دەرچەواندنی بوخچە</string>
+    <string name="pin_to_the_top">دەرچەواندن بۆ سەرەوە</string>
+    <string name="show_all">پیشاندانی ناوەڕۆکی هەموو بوخچەکان</string>
+    <string name="folder_view">گۆڕین بۆ پیشاندانی بوخچە</string>
+    <string name="width">پانی</string>
+    <string name="height">بەرزی</string>
+    <string name="rotate">خولانەوە</string>
+    <string name="gifs">گیفەکان</string>
+    <string name="slideshow">پیشاندانی وێنەکان</string>
+    <string name="interval">ماوە</string>
+    <string name="include_photos">وێنەکان بگرێتەوە</string>
+    <string name="include_videos">ڤیدیۆکان بگرێتەوە</string>
 </resources>

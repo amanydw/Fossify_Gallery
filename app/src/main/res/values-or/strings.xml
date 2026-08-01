@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">ଗ୍ୟାଲେରୀ</string>
+    <string name="edit">ସମ୍ପାଦନା</string>
+    <string name="open_camera">କ୍ୟାମେରା ଖୋଲନ୍ତୁ</string>
+    <string name="images">ଛବିଗୁଡ଼ିକ</string>
+    <string name="videos">ଭିଡିଓଗୁଡ଼ିକ</string>
+</resources>
