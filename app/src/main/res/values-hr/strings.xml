@@ -158,7 +158,7 @@
     <string name="delete_empty_folders">Izbriši prazne mape nakon brisanja njihovog sadržaja</string>
     <string name="allow_photo_gestures">Dozvoli kontroliranje svjetline fotografije okomitim pokretima</string>
     <string name="allow_video_gestures">Dozvoli kontroliranje glasnoće videa i svjetline okomitim pokretima</string>
-    <string name="show_media_count">Prikaži broja medija mapa u glavnom prikazu</string>
+    <string name="show_media_count">Prikaži broj medijskih datoteka u mapama u glavnom prikazu</string>
     <string name="show_extended_details">Prikaži proširene pojedinosti ispred cjeloekranskog prikaza medija</string>
     <string name="manage_extended_details">Upravljaj proširenim pojedinostima</string>
     <string name="one_finger_zoom">Dozvoli zumiranje jednim prstom u cjeloekranskom prikazu medija</string>
