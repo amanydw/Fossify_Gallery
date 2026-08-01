@@ -5,4 +5,5 @@
     <string name="open_camera">Buksan ang camera</string>
     <string name="images">Mga Imahe</string>
     <string name="videos">Mga Video</string>
+    <string name="hidden">(nakatago)</string>
 </resources>
