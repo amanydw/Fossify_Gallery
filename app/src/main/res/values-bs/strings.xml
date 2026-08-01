@@ -83,4 +83,5 @@
     <string name="advanced_editor">Napredni uređivač</string>
     <string name="rotate">Rotiraj</string>
     <string name="invalid_image_path">Neispravna putanja slike</string>
+    <string name="invalid_video_path">Neispravna putanja videozapisa</string>
 </resources>
