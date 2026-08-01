@@ -88,4 +88,5 @@
     <string name="image_edited_successfully">Imej berjaya disunting</string>
     <string name="video_edited_successfully">Video berjaya disunting</string>
     <string name="edit_image_with">Sunting imej dengan:</string>
+    <string name="edit_video_with">Sunting video dengan:</string>
 </resources>
