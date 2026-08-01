@@ -192,4 +192,5 @@
     <string name="show_notch">Prikaži zarez ako je dostupan</string>
     <string name="allow_rotating_gestures">Dozvoli rotiranje slika pokretima</string>
     <string name="file_loading_priority">Prioritet učitavanja datoteka</string>
+    <string name="speed">Brzina</string>
 </resources>
