@@ -184,4 +184,5 @@
     <string name="allow_down_gesture">Payagan ang pagsasara ng fullscreen view gamit ang pababang galaw</string>
     <string name="allow_one_to_one_zoom">Payagan ang 1:1 na pag-zoom gamit ang dalawang double tap</string>
     <string name="open_videos_on_separate_screen">I-play ang mga video sa hiwalay na screen gamit ang pahalang na mga galaw</string>
+    <string name="on_video_tap">Kapag na-tap ang video</string>
 </resources>
