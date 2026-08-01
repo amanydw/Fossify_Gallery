@@ -92,4 +92,5 @@
     <string name="edit_image_with">I-edit ang imahe gamit ang:</string>
     <string name="edit_video_with">I-edit ang video gamit ang:</string>
     <string name="no_image_editor_found">Walang natagpuang editor ng imahe</string>
+    <string name="no_video_editor_found">Walang natagpuang editor ng video</string>
 </resources>
