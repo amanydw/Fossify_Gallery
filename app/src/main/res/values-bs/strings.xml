@@ -17,4 +17,5 @@
     <string name="show_on_map">Prikaži na karti</string>
     <string name="unknown_location">Nepoznata lokacija</string>
     <string name="volume">Jačina zvuka</string>
+    <string name="brightness">Svjetlina</string>
 </resources>
