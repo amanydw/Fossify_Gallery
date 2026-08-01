@@ -179,4 +179,5 @@
     <string name="show_at_bottom">Ipakita ang ilang action button sa ibaba ng screen</string>
     <string name="show_recycle_bin">Ipakita ang recycle bin sa screen ng mga folder</string>
     <string name="deep_zoomable_images">Mga imaheng malalim na maza-zoom</string>
+    <string name="show_highest_quality">Ipakita ang mga imahe sa pinakamataas na posibleng kalidad</string>
 </resources>
