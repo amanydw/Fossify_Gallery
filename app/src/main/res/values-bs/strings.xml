@@ -111,4 +111,5 @@
     <string name="other_aspect_ratio">Ostalo</string>
     <string name="wallpaper">Pozadina</string>
     <string name="set_as_wallpaper">Postavi kao pozadinu</string>
+    <string name="set_as_wallpaper_failed">Postavljanje pozadine nije uspjelo</string>
 </resources>
