@@ -14,4 +14,5 @@
     <string name="all_folders">Allar möppur</string>
     <string name="folder_view">Skipta yfir í möppusýn</string>
     <string name="other_folder">Önnur mappa</string>
+    <string name="show_on_map">Sýna á korti</string>
 </resources>
