@@ -43,4 +43,5 @@
     <string name="show_on_map">Rādīt kartē</string>
     <string name="unknown_location">Nezināma atrašanās vieta</string>
     <string name="volume">Skaļums</string>
+    <string name="brightness">Spilgtums</string>
 </resources>
