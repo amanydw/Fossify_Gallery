@@ -191,4 +191,5 @@
     <string name="allow_rotating_gestures">Leyfa að snúa myndum með bendingum</string>
     <string name="file_loading_priority">Forgangur við hleðslu skráa</string>
     <string name="speed">Hraði</string>
+    <string name="compromise">Málamiðlun</string>
 </resources>
