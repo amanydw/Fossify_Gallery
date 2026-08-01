@@ -246,4 +246,5 @@
     <string name="faq_7_text">Það getur átt sér margar ástæður en það er auðvelt að leysa það. Farðu bara í Stillingar -&gt; Sýsla með innifaldar möppur, veldu plúsinn og farðu í viðkomandi möppu.</string>
     <string name="faq_8_title">Hvað ef ég vil aðeins hafa nokkrar tilteknar möppur sýnilegar?</string>
     <string name="faq_8_text">Það útilokar ekkert sjálfkrafa að bæta möppu við innifaldar möppur. Það sem þú getur gert er að fara í Stillingar -&gt; Sýsla með útilokaðar möppur, útiloka rótarmöppuna „/“ og bæta síðan viðkomandi möppum við í Stillingar -&gt; Sýsla með innifaldar möppur. Þannig verða aðeins völdu möppurnar sýnilegar, því bæði útilokun og innifelun eru endurkvæmar og ef mappa er bæði útilokuð og innifalin þá birtist hún.</string>
+    <string name="faq_10_title">Get ég skorið utan af myndum með þessu forriti?</string>
 </resources>
