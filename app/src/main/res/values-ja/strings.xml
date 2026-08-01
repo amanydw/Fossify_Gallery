@@ -240,12 +240,33 @@
     <string name="resize_factor_info">指定した割合に画像のサイズを変更。値は10から90までの間を指定してください。</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">%d個の画像のサイズを変更できませんでした</item>
-    </plurals>
+    
+        <item quantity="one">%d 枚の画像のサイズ変更に失敗しました</item>
+</plurals>
     <string name="images_resized_successfully">画像のサイズを変更しました</string>
     <string name="wallpaper">壁紙</string>
     <string name="exclude_folder_description">選択したフォルダーとその子フォルダーをFossifyギャラリーから除外します。除外したフォルダーは設定画面で管理できます。</string>
     <plurals name="restore_confirmation">
         <item quantity="other">本当に %d ファイルを復元しますか?</item>
-    </plurals>
+    
+        <item quantity="one">ファイルを %d 件復元しますか？</item>
+</plurals>
     <string name="overwrite_original">元のファイルを上書きする</string>
+    <string name="force_landscape_reverse">横で固定（反転）</string>
+    <string name="excluded_activity_placeholder">除外したフォルダーは、サブフォルダーごと Fossify Gallery 内でのみ非表示になります。他のアプリでは引き続き表示されます。
+
+他のアプリからも非表示にするには、非表示機能を使用してください。</string>
+    <string name="render_ultra_hdr_photos">Ultra HDR 写真を HDR で表示</string>
+    <string name="keep_screen_on_fullscreen_photos">全画面で写真を表示中は画面をオンにしたままにする</string>
+    <string name="playback_speed">再生速度</string>
+    <string name="on_video_tap">動画をタップしたとき</string>
+    <string name="open_in_app_player">アプリ内プレーヤーで開く</string>
+    <string name="open_system_default_player">既定のプレーヤーアプリで開く</string>
+    <string name="file_is_malformed_or_corrupted">ファイルが破損しているか、壊れています。</string>
+    <string name="media_exceeds_device_capabilities">メディアが端末の能力を超えています。</string>
+    <string name="unsupported_format">未対応の形式です。</string>
+    <string name="video_no_sound">この動画には音声がありません</string>
+    <string name="faq_1_title">Fossify Gallery を端末の既定ギャラリーにするにはどうすればよいですか？</string>
+    <string name="faq_1_text">まず、端末の設定の「アプリ」セクションで現在の既定ギャラリーを探し、「既定で開く」のようなボタンを探してクリックし、「既定をクリア」を選択してください。次に画像または動画を開こうとすると、アプリ選択画面が表示されるので、そこで Fossify Gallery を選択して既定アプリに設定できます。</string>
+    <string name="faq_5_text">除外は、Fossify Gallery 内でのみフォルダーを表示しないようにするもので、非表示はシステム全体で機能し、他のギャラリーからもフォルダーを非表示にします。指定したフォルダーに空の「.nomedia」ファイルを作成することで機能し、これは任意のファイルマネージャーでも削除できます。カメラ、スクリーンショット、ダウンロードなどのフォルダーの非表示を許可しない端末もあることに注意してください。</string>
 </resources>
