@@ -166,4 +166,5 @@
     <string name="hide_system_ui_at_fullscreen">Awtomatikong itago ang system UI sa fullscreen na media</string>
     <string name="delete_empty_folders">Burahin ang mga walang lamang folder pagkatapos burahin ang nilalaman ng mga ito</string>
     <string name="keep_screen_on_fullscreen_photos">Panatilihing naka-on ang screen habang tinitingnan ang mga fullscreen na larawan</string>
+    <string name="allow_photo_gestures">Payagan ang pagkontrol sa liwanag ng larawan gamit ang patayong mga galaw</string>
 </resources>
