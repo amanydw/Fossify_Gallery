@@ -108,4 +108,5 @@
     <string name="free_aspect_ratio">Frjálst</string>
     <string name="other_aspect_ratio">Annað</string>
     <string name="wallpaper">Veggfóður</string>
+    <string name="set_as_wallpaper">Setja sem veggfóður</string>
 </resources>
