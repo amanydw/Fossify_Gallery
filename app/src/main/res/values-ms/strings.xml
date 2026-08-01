@@ -210,4 +210,5 @@
     <string name="password_protect_excluded">Lindungi keterlihatan folder yang dikecualikan dengan kata laluan</string>
     <string name="media_management_manual">Sesuatu telah tidak kena, sila pergi ke Tetapan peranti anda - Aplikasi - Akses aplikasi khas - Aplikasi pengurusan media dan benarkan aplikasi ini mengurus media.</string>
     <string name="media_management_note">Jika lencongan itu tidak berfungsi, sila pergi ke Tetapan peranti anda - Aplikasi - Akses aplikasi khas - Aplikasi pengurusan media dan benarkan aplikasi ini mengurus media.</string>
+    <string name="media_management_alternative">Jika anda tidak mahu berbuat demikian, anda juga boleh pergi ke Tetapan peranti anda - Aplikasi - Akses aplikasi khas - Aplikasi pengurusan media dan benarkan aplikasi ini mengurus media.</string>
 </resources>
