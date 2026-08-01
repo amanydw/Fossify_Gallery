@@ -231,4 +231,5 @@
     <string name="faq_1_title">Bagaimanakah saya boleh menjadikan Fossify Gallery sebagai galeri lalai peranti?</string>
     <string name="faq_1_text">Mula-mula anda perlu mencari galeri lalai semasa dalam bahagian Aplikasi pada tetapan peranti anda, cari butang yang berbunyi seperti “Buka secara lalai”, ketik padanya, kemudian pilih “Kosongkan tetapan lalai”. Kali seterusnya anda cuba membuka imej atau video, anda sepatutnya melihat pemilih aplikasi, di mana anda boleh memilih Fossify Gallery dan menjadikannya aplikasi lalai.</string>
     <string name="faq_2_title">Saya mengunci aplikasi ini dengan kata laluan, tetapi saya terlupa kata laluan itu. Apa yang boleh saya lakukan?</string>
+    <string name="faq_2_text">Anda boleh mengatasinya dengan 2 cara. Anda boleh memasang semula aplikasi ini, atau mencari aplikasi ini dalam tetapan peranti anda dan memilih “Kosongkan data”. Ia akan menetapkan semula semua tetapan anda, tetapi ia tidak akan membuang sebarang fail media.</string>
 </resources>
