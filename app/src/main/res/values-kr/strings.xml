@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">Gallery</string>
+    <string name="edit">Faltu</string>
+    <string name="open_camera">Camera faramtene</string>
+    <string name="images">Hoto</string>
+    <string name="videos">Video</string>
+</resources>
