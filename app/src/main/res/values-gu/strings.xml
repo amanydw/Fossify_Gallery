@@ -104,4 +104,12 @@
     <string name="set_as_wallpaper_with">આ અપ્પ થી વોલપેપર બનાવો:</string>
     <string name="setting_wallpaper">વોલપેપર બનાવી રહ્યા છે…</string>
     <string name="wallpaper_set_successfully">વોલપેપર બનાવમાં સફળ</string>
+    <string name="home_screen">હોમ સ્ક્રીન</string>
+    <string name="lock_screen">લોક સ્ક્રીન</string>
+    <string name="home_and_lock_screen">હોમ અને લોક સ્ક્રીન</string>
+    <string name="slideshow">સ્લાઇડશો</string>
+    <string name="interval">અંતરાલ</string>
+    <string name="include_photos">ફોટા સમાવો</string>
+    <string name="include_videos">વિડિયો સમાવો</string>
+    <string name="include_gifs">GIF સમાવો</string>
 </resources>
