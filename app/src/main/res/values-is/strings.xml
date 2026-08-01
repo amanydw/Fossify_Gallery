@@ -145,4 +145,5 @@
     <string name="by_date_taken_monthly">Upptökudagsetningu (mánaðarlega)</string>
     <string name="by_file_type">Skráargerð</string>
     <string name="by_extension">Skráarendingu</string>
+    <string name="show_file_count_section_header">Sýna fjölda skráa í fyrirsögnum hluta</string>
 </resources>
