@@ -48,4 +48,5 @@
     <string name="portraits">Mga portrait</string>
     <string name="no_media_with_filters">Walang natagpuang media file gamit ang mga napiling filter.</string>
     <string name="change_filters_underlined"><u>Baguhin ang mga filter</u></string>
+    <string name="hide_folder_description">Itinatago ng function na ito ang folder sa pamamagitan ng pagdaragdag ng “.nomedia” na file dito, itatago rin nito ang lahat ng subfolder. Makikita mo ang mga ito sa pamamagitan ng pag-on sa opsyong “Ipakita ang mga nakatagong item” sa Mga Setting. Magpatuloy?</string>
 </resources>
