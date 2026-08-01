@@ -209,4 +209,5 @@
     <string name="import_favorite_paths">I-import ang mga paborito</string>
     <string name="paths_imported_successfully">Matagumpay na na-import ang mga path</string>
     <string name="media_management_prompt">Upang matiyak na maayos na gumagana ang lahat ng operasyon sa file, gawin ang app na ito na isang media management app sa mga setting ng iyong device.</string>
+    <string name="password_protect_excluded">Protektahan ng password ang pagiging nakikita ng mga ibinukod na folder</string>
 </resources>
