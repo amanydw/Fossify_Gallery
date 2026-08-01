@@ -101,4 +101,5 @@
     <string name="crop">Pangkas</string>
     <string name="draw">Lukis</string>
     <string name="flip">Terbalikkan</string>
+    <string name="flip_horizontally">Terbalikkan secara mendatar</string>
 </resources>
