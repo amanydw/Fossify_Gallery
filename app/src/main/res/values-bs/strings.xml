@@ -19,4 +19,5 @@
     <string name="volume">Jačina zvuka</string>
     <string name="brightness">Svjetlina</string>
     <string name="lock_orientation">Zaključaj orijentaciju</string>
+    <string name="unlock_orientation">Otključaj orijentaciju</string>
 </resources>
