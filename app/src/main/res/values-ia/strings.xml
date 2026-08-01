@@ -22,4 +22,8 @@
     <string name="height">Altitud</string>
     <string name="rotate">Rotar</string>
     <string name="gifs">GIFs</string>
+    <string name="slideshow">Presentation de diapositivas</string>
+    <string name="interval">Intervallo</string>
+    <string name="include_photos">Includer photos</string>
+    <string name="include_videos">Includer videos</string>
 </resources>
