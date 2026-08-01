@@ -146,4 +146,5 @@
     <string name="by_file_type">Skráargerð</string>
     <string name="by_extension">Skráarendingu</string>
     <string name="show_file_count_section_header">Sýna fjölda skráa í fyrirsögnum hluta</string>
+    <string name="grouping_and_sorting">Athugaðu að flokkun og röðun eru tvö óháð atriði</string>
 </resources>
