@@ -68,4 +68,5 @@
     <string name="height">Visina</string>
     <string name="keep_aspect_ratio">Zadrži omjer stranica</string>
     <string name="invalid_values">Unesi ispravnu rezoluciju</string>
+    <string name="resize_multiple_images">Promijeni veličinu više slika</string>
 </resources>
