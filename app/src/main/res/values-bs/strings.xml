@@ -162,4 +162,5 @@
     <string name="screen_rotation_by">Rotiraj medije preko cijelog ekrana prema</string>
     <string name="screen_rotation_system_setting">Sistemskoj postavci</string>
     <string name="screen_rotation_device_rotation">Rotaciji uređaja</string>
+    <string name="screen_rotation_aspect_ratio">Omjeru stranica</string>
 </resources>
