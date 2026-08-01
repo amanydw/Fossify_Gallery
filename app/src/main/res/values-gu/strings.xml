@@ -115,4 +115,6 @@
     <string name="unknown_location">અજ્ઞાત સ્થાન</string>
     <string name="volume">વોલ્યુમ</string>
     <string name="brightness">તેજસ્વીતા</string>
+    <string name="failed_to_load_media">મીડિયા લોડ કરવામાં અસફળ.</string>
+    <string name="unsupported_format">અસમર્થિત ફોર્મેટ.</string>
 </resources>
