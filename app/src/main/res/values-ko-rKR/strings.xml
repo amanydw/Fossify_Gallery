@@ -185,10 +185,8 @@
     <string name="resize_multiple_images">여러 사진 크기 변경</string>
     <string name="resize_factor">크기 변경 계수</string>
     <plurals name="failed_to_resize_images">
-        <item quantity="other">%d 개 사진 크기 변경 실패</item>
-    
-        <item quantity="one">%d개 이미지 크기 조정에 실패했습니다</item>
-</plurals>
+        <item quantity="other">%d개 이미지 크기 조정에 실패했습니다</item>
+    </plurals>
     <string name="basic_editor">기본 편집기</string>
     <string name="advanced_editor">고급 편집기</string>
     <string name="invalid_video_path">유효하지 않은 동영상 경로</string>
