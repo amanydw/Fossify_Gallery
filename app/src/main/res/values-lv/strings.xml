@@ -212,4 +212,5 @@
     <string name="rounded_corners">Noapaļoti stūri</string>
     <string name="export_favorite_paths">Eksportēt izlasi</string>
     <string name="import_favorite_paths">Importēt izlasi</string>
+    <string name="paths_imported_successfully">Ceļi veiksmīgi importēti</string>
 </resources>
