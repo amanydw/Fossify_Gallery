@@ -183,4 +183,5 @@
     <string name="hide_extended_details">Slēpt paplašināto informāciju, kad statusa josla ir paslēpta</string>
     <string name="show_at_bottom">Rādīt dažas darbību pogas ekrāna apakšdaļā</string>
     <string name="show_recycle_bin">Rādīt atkritni mapju ekrānā</string>
+    <string name="deep_zoomable_images">Dziļi tuvināmi attēli</string>
 </resources>
