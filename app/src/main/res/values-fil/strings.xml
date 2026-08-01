@@ -97,4 +97,5 @@
     <string name="overwrite_original">I-overwrite ang orihinal</string>
     <string name="error_saving_file">Hindi ma-overwrite ang pinagmulang file</string>
     <string name="rotate_left">Iikot pakaliwa</string>
+    <string name="rotate_right">Iikot pakanan</string>
 </resources>
