@@ -8,4 +8,9 @@
     <string name="hidden">(شاراوە)</string>
     <string name="excluded">(بەدەر)</string>
     <string name="all_folders">هەموو بوخچەکان</string>
+    <string name="pin_folder">دەرچەواندنی بوخچە</string>
+    <string name="unpin_folder">لابردنی دەرچەواندنی بوخچە</string>
+    <string name="pin_to_the_top">دەرچەواندن بۆ سەرەوە</string>
+    <string name="show_all">پیشاندانی ناوەڕۆکی هەموو بوخچەکان</string>
+    <string name="folder_view">گۆڕین بۆ پیشاندانی بوخچە</string>
 </resources>
