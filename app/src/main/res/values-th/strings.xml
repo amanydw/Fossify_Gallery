@@ -36,7 +36,9 @@
     <string name="restore_to_path">กำลังกู้คืนไปยัง \'%s\'</string>
     <plurals name="restore_confirmation">
         <item quantity="other">คุณแน่ใจหรือไม่ว่าต้องการกู้คืนไฟล์ %d?</item>
-    </plurals>
+    
+        <item quantity="one">คุณแน่ใจหรือไม่ว่าต้องการกู้คืนไฟล์ %d?</item>
+</plurals>
     <string name="full_storage_permission_required">Fossify Gallery ต้องการสิทธิ์เข้าถึงแบบเต็มเพื่อแสดงรูปภาพและวิดีโอทั้งหมดของคุณ ไปที่ ตั้งค่า &gt; สิทธิ์ &gt; รูปภาพและวิดีโอ &gt; อนุญาตทั้งหมด</string>
     <string name="filter_media">กรองสื่อ</string>
     <string name="images">รูปภาพ</string>
@@ -72,7 +74,9 @@
     <string name="resize_factor_error">กรุณาใส่ตัวเลขระหว่าง 10 ถึง 90</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">ปรับขนาดรูปภาพ %d ไม่สำเร็จ</item>
-    </plurals>
+    
+        <item quantity="one">ปรับขนาดรูปภาพ %d ไม่สำเร็จ</item>
+</plurals>
     <string name="images_resized_successfully">ปรับขนาดรูปภาพสำเร็จแล้ว</string>
     <string name="editor">โปรแกรมแก้ไข</string>
     <string name="basic_editor">โปรแกรมแก้ไขพื้นฐาน</string>
