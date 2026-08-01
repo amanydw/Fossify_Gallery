@@ -235,9 +235,7 @@
     <string name="excluded_activity_placeholder">Việc bỏ qua các thư mục sẽ khiến chúng cùng với các thư mục con bị ẩn trong Fossify Gallery, nhưng vẫn sẽ hiển thị trong các ứng dụng khác.\n\nNếu bạn muốn ẩn chúng khỏi các ứng dụng khác nữa, hãy sử dụng chức năng Ẩn (Hide).</string>
     <plurals name="restore_confirmation">
         <item quantity="other">Bạn có chắc muốn khôi phục %d tệp?</item>
-    
-        <item quantity="one">Bạn có chắc muốn khôi phục %d tệp?</item>
-</plurals>
+    </plurals>
     <string name="svgs">Ảnh SVG</string>
     <string name="exclude_folder_description">Bỏ qua những thư mục đã chọn cùng với các thư mục con của chúng trong Fossify Gallery. Bạn có thể quản lý thư mục đã bỏ qua trong phần Cài đặt.</string>
     <string name="cant_unhide_folder">Nếu một thư mục hoặc một trong các thư mục mẹ của nó có dấu chấm ở đầu tên, thì nó sẽ bị ẩn và không thể hiện lại bằng cách này. Bạn cần đổi tên để xóa dấu chấm đi.</string>
