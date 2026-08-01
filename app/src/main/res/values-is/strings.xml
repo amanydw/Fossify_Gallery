@@ -118,4 +118,5 @@
     <string name="home_screen">Heimaskjár</string>
     <string name="lock_screen">Lásskjár</string>
     <string name="home_and_lock_screen">Heima- og lásskjár</string>
+    <string name="allow_changing_aspect_ratio">Leyfa breytingu á stærðarhlutföllum</string>
 </resources>
