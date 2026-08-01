@@ -40,4 +40,5 @@
         <item quantity="one">Sigurado ka bang gusto mong ibalik ang %d file?</item>
         <item quantity="other">Sigurado ka bang gusto mong ibalik ang %d na file?</item>
     </plurals>
+    <string name="full_storage_permission_required">Kailangan ng Fossify Gallery ng buong access upang maipakita ang lahat ng iyong larawan at video. Pumunta sa Mga Setting &gt; Mga Pahintulot &gt; Mga larawan at video &gt; Payagan lahat.</string>
 </resources>
