@@ -89,4 +89,5 @@
     <string name="resize_multiple_images">Mainīt vairāku attēlu izmēru</string>
     <string name="resize_factor">Izmēra maiņas koeficients</string>
     <string name="resize_factor_info">Mainīt attēlu izmēru līdz norādītajiem procentiem; vērtībai jābūt no 10 līdz 90.</string>
+    <string name="resize_factor_error">Ievadiet skaitli no 10 līdz 90</string>
 </resources>
