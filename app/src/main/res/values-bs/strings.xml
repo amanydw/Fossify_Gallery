@@ -90,4 +90,5 @@
     <string name="video_editing_cancelled">Uređivanje videozapisa je otkazano</string>
     <string name="file_edited_successfully">Datoteka je uspješno uređena</string>
     <string name="image_edited_successfully">Slika je uspješno uređena</string>
+    <string name="video_edited_successfully">Videozapis je uspješno uređen</string>
 </resources>
