@@ -242,8 +242,7 @@
     <string name="resize_factor_error">Masukkan sebuah angka antara 10 dan 90</string>
     <plurals name="failed_to_resize_images">
         <item quantity="other">Gagal mengubah ukuran %d gambar</item>
-        <item quantity="one">Gagal mengubah ukuran %d gambar</item>
-</plurals>
+    </plurals>
     <string name="images_resized_successfully">Ukuran gambar berhasil diubah</string>
     <string name="crop">Potong</string>
     <string name="wallpaper">Latar belakang</string>
