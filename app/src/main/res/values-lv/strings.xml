@@ -236,4 +236,5 @@
     <string name="unsupported_format">Neatbalstīts formāts.</string>
     <string name="faq_1_text">Vispirms ierīces iestatījumu sadaļā Lietotnes ir jāatrod pašreizējā noklusējuma galerija, jāmeklē poga ar aptuvenu nosaukumu “Atvērt pēc noklusējuma”, uz tās jānoklikšķina un pēc tam jāizvēlas “Notīrīt noklusējumus”. Nākamreiz, kad mēģināsiet atvērt attēlu vai video, vajadzētu parādīties lietotņu izvēlei, kurā varat izvēlēties Fossify Gallery un padarīt to par noklusējuma lietotni.</string>
     <string name="faq_2_title">Es aizslēdzu lietotni ar paroli, bet to aizmirsu. Ko es varu darīt?</string>
+    <string name="faq_2_text">To var atrisināt 2 veidos. Var vai nu pārinstalēt lietotni, vai arī atrast lietotni ierīces iestatījumos un izvēlēties “Notīrīt datus”. Tas atiestatīs visus jūsu iestatījumus, taču nedzēsīs nevienu multivides datni.</string>
 </resources>
