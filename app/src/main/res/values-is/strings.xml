@@ -63,4 +63,5 @@
     <string name="included_activity_placeholder">Ef þú ert með möppur sem innihalda margmiðlunarefni en forritið þekkti þær ekki geturðu bætt þeim við handvirkt hér.\n\nAð bæta atriðum við hér útilokar ekki neina aðra möppu.</string>
     <string name="no_media_add_included">Engar margmiðlunarskrár fundust. Þú getur leyst það með því að bæta handvirkt við möppunum sem innihalda margmiðlunarskrár.</string>
     <string name="resize_and_save">Breyta stærð valins efnis og vista</string>
+    <string name="width">Breidd</string>
 </resources>
