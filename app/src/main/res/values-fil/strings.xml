@@ -113,4 +113,5 @@
     <string name="set_as_wallpaper_with">Itakda bilang wallpaper gamit ang:</string>
     <string name="setting_wallpaper">Itinatakda ang wallpaper…</string>
     <string name="wallpaper_set_successfully">Matagumpay na naitakda ang wallpaper</string>
+    <string name="portrait_aspect_ratio">Aspect ratio na portrait</string>
 </resources>
