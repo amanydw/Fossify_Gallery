@@ -206,4 +206,5 @@
     <string name="export_favorite_paths">Eksport kegemaran</string>
     <string name="import_favorite_paths">Import kegemaran</string>
     <string name="paths_imported_successfully">Laluan berjaya diimport</string>
+    <string name="media_management_prompt">Untuk memastikan semua operasi fail berfungsi dengan baik, sila jadikan aplikasi ini sebagai aplikasi pengurusan media dalam tetapan peranti anda.</string>
 </resources>
