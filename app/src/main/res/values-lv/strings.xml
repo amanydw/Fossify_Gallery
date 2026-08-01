@@ -131,4 +131,5 @@
     <string name="slideshow">Slaidrāde</string>
     <string name="interval">Intervāls</string>
     <string name="include_photos">Iekļaut fotoattēlus</string>
+    <string name="include_videos">Iekļaut video</string>
 </resources>
