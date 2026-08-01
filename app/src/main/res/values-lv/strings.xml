@@ -108,4 +108,5 @@
     <string name="edit_video_with">Rediģēt video ar:</string>
     <string name="no_image_editor_found">Nav atrasts neviens attēlu redaktors</string>
     <string name="no_video_editor_found">Nav atrasts neviens video redaktors</string>
+    <string name="unknown_file_location">Nezināma datnes atrašanās vieta</string>
 </resources>
