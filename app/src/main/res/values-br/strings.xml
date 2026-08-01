@@ -2,4 +2,9 @@
 <resources>
     <string name="videos">Videoioù</string>
     <string name="images">Skeudennoù</string>
+    <string name="app_launcher_name">Skeudennaoueg</string>
+    <string name="edit">Aozañ</string>
+    <string name="open_camera">Digeriñ ar benveg-luc\'hskeudenniñ</string>
+    <string name="hidden">(kuzh)</string>
+    <string name="excluded">(ezlakaet)</string>
 </resources>
