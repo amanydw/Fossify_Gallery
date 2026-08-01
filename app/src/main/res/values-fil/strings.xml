@@ -213,4 +213,5 @@
     <string name="media_management_manual">May naganap na mali, pumunta sa Mga Setting ng iyong device - Mga App - Espesyal na access ng app - Mga media management app at payagan ang app na ito na pamahalaan ang media.</string>
     <string name="media_management_note">Kung hindi gumana ang pag-redirect, pumunta sa Mga Setting ng iyong device - Mga App - Espesyal na access ng app - Mga media management app at payagan ang app na ito na pamahalaan ang media.</string>
     <string name="media_management_alternative">Kung ayaw mong gawin ito, maaari ka ring pumunta sa Mga Setting ng iyong device - Mga App - Espesyal na access ng app - Mga media management app at payagan ang app na ito na pamahalaan ang media.</string>
+    <string name="alternative_media_access">Bilang alternatibo, maaari mong payagan ang access sa mga media file lamang. Sa kasong iyon ay hindi mo mapapagana ang mga nakatagong file.</string>
 </resources>
