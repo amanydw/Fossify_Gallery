@@ -73,4 +73,5 @@
     <string name="excluded_activity_placeholder">Neiekļautās mapes kopā ar to apakšmapēm tiks paslēptas tikai Fossify Gallery, citās lietotnēs tās joprojām būs redzamas.\n\nJa vēlaties tās paslēpt arī no citām lietotnēm, izmantojiet funkciju “Paslēpt”.</string>
     <string name="hidden_folders">Paslēptās mapes</string>
     <string name="manage_hidden_folders">Pārvaldīt paslēptās mapes</string>
+    <string name="hidden_folders_placeholder">Šķiet, ka nav nevienas mapes, kas būtu paslēpta ar datni “.nomedia”.</string>
 </resources>
