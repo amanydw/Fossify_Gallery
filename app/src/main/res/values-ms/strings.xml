@@ -222,4 +222,5 @@
     <string name="bottom_actions">Tindakan bawah</string>
     <string name="manage_bottom_actions">Urus tindakan bawah yang kelihatan</string>
     <string name="toggle_favorite">Togol kegemaran</string>
+    <string name="toggle_file_visibility">Togol keterlihatan fail</string>
 </resources>
