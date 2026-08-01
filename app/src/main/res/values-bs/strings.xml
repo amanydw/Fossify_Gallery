@@ -12,4 +12,5 @@
     <string name="pin_to_the_top">Zakači na vrh</string>
     <string name="show_all">Prikaži sadržaj svih foldera</string>
     <string name="all_folders">Svi folderi</string>
+    <string name="folder_view">Prebaci na prikaz foldera</string>
 </resources>
