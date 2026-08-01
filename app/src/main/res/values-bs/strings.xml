@@ -153,4 +153,5 @@
     <string name="show_folder_name">Prikaži ime foldera</string>
     <string name="autoplay_videos">Automatski pokreni videozapise</string>
     <string name="remember_last_video_position">Zapamti posljednju poziciju reprodukcije videozapisa</string>
+    <string name="loop_videos">Ponavljaj videozapise</string>
 </resources>
