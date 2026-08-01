@@ -65,4 +65,5 @@
     <string name="resize_and_save">Breyta stærð valins efnis og vista</string>
     <string name="width">Breidd</string>
     <string name="height">Hæð</string>
+    <string name="keep_aspect_ratio">Halda stærðarhlutföllum</string>
 </resources>
