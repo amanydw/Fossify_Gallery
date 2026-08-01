@@ -18,4 +18,5 @@
     <string name="unknown_location">Lokasi tidak diketahui</string>
     <string name="volume">Kelantangan</string>
     <string name="brightness">Kecerahan</string>
+    <string name="lock_orientation">Kunci orientasi</string>
 </resources>
