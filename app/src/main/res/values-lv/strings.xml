@@ -84,4 +84,5 @@
     <string name="resize_and_save">Mainīt izvēlēto attēlu izmēru un saglabāt</string>
     <string name="width">Platums</string>
     <string name="height">Augstums</string>
+    <string name="keep_aspect_ratio">Saglabāt malu attiecību</string>
 </resources>
