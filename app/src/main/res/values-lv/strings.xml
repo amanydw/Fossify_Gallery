@@ -221,4 +221,5 @@
     <string name="alternative_media_access">Varat arī atļaut piekļuvi tikai multivides datnēm. Tādā gadījumā gan nevarēsiet strādāt ar paslēptām datnēm.</string>
     <string name="media_only">Tikai multivide</string>
     <string name="all_files">Visas datnes</string>
+    <string name="search_all_files">Galvenajā ekrānā meklēt visas datnes, nevis mapes</string>
 </resources>
