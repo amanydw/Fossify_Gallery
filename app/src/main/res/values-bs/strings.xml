@@ -178,4 +178,5 @@
     <string name="allow_instant_change">Dozvoli trenutnu promjenu medija dodirom na strane ekrana</string>
     <string name="allow_deep_zooming_images">Dozvoli duboko uvećavanje slika</string>
     <string name="hide_extended_details">Sakrij proširene detalje kada je statusna traka skrivena</string>
+    <string name="show_at_bottom">Prikaži neku dugmad radnji na dnu ekrana</string>
 </resources>
