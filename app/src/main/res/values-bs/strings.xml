@@ -125,4 +125,5 @@
     <string name="interval">Interval</string>
     <string name="include_photos">Uključi fotografije</string>
     <string name="include_videos">Uključi videozapise</string>
+    <string name="include_gifs">Uključi GIF-ove</string>
 </resources>
