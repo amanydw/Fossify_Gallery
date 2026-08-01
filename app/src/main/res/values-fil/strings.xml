@@ -202,4 +202,5 @@
     <string name="show_file_count_line">Ipakita ang bilang ng file sa hiwalay na linya</string>
     <string name="show_file_count_brackets">Ipakita ang bilang ng file sa loob ng panaklong</string>
     <string name="show_file_count_none">Huwag ipakita ang bilang ng file</string>
+    <string name="limit_folder_title">Limitahan sa 1 linya ang mahahabang pamagat ng folder</string>
 </resources>
