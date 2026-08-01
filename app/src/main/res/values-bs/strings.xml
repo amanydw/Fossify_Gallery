@@ -266,4 +266,5 @@
     <string name="faq_17_title">Zašto više ne mogu uključiti foldere koji nedostaju?</string>
     <string name="faq_17_text">I to je prestalo raditi zbog sistemskih promjena koje je donio Android 11, aplikacija više ne može pregledati stvarne foldere, već se pri dohvaćanju podataka oslanja na takozvani MediaStore.</string>
     <string name="faq_18_title">Zašto vidim reklame tokom reprodukcije videozapisa?</string>
+    <string name="faq_18_text">Naše aplikacije nemaju nikakve reklame. Ako ih vidiš tokom reprodukcije videozapisa, sigurno koristiš neku drugu aplikaciju za reprodukciju videozapisa. Pokušaj pronaći svoj zadani video plejer u postavkama uređaja i na njemu odaberi „Obriši zadane postavke”. Sljedeći put kada pokreneš neki videozapis, vidjet ćeš birač aplikacija u kojem možeš odabrati aplikaciju koju želiš koristiti.</string>
 </resources>
