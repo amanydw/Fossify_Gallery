@@ -201,4 +201,5 @@
     <string name="show_file_count_brackets">Tunjukkan bilangan fail dalam kurungan</string>
     <string name="show_file_count_none">Jangan tunjukkan bilangan fail</string>
     <string name="limit_folder_title">Hadkan tajuk folder yang panjang kepada 1 baris</string>
+    <string name="square">Segi empat sama</string>
 </resources>
