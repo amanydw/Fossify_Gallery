@@ -151,4 +151,5 @@
     <string name="show_folder_name">Sýna heiti möppu</string>
     <string name="autoplay_videos">Spila myndbönd sjálfkrafa</string>
     <string name="remember_last_video_position">Muna síðustu spilunarstöðu myndbands</string>
+    <string name="loop_videos">Endurtaka myndbönd</string>
 </resources>
