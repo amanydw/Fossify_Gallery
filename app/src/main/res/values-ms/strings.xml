@@ -234,4 +234,5 @@
     <string name="faq_2_text">Anda boleh mengatasinya dengan 2 cara. Anda boleh memasang semula aplikasi ini, atau mencari aplikasi ini dalam tetapan peranti anda dan memilih “Kosongkan data”. Ia akan menetapkan semula semua tetapan anda, tetapi ia tidak akan membuang sebarang fail media.</string>
     <string name="faq_3_title">Bagaimanakah saya boleh membuat sesuatu album sentiasa muncul di bahagian atas?</string>
     <string name="faq_3_text">Anda boleh menekan lama album yang dikehendaki dan memilih ikon Sematkan pada menu tindakan, itu akan menyematkannya di bahagian atas. Anda juga boleh menyematkan berbilang folder, item yang disematkan akan diisih mengikut kaedah pengisihan lalai.</string>
+    <string name="faq_4_title">Bagaimanakah saya boleh memaju laju video?</string>
 </resources>
