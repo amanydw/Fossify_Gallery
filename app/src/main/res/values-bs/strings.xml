@@ -212,4 +212,5 @@
     <string name="paths_imported_successfully">Putanje su uspješno uvezene</string>
     <string name="media_management_prompt">Da bi sve radnje s datotekama radile pouzdano, postavi ovu aplikaciju kao aplikaciju za upravljanje medijima u postavkama uređaja.</string>
     <string name="password_protect_excluded">Zaštiti lozinkom vidljivost isključenih foldera</string>
+    <string name="media_management_manual">Nešto je pošlo po zlu, idi u Postavke - Aplikacije - Poseban pristup aplikacija - Aplikacije za upravljanje medijima i dozvoli ovoj aplikaciji da upravlja medijima.</string>
 </resources>
