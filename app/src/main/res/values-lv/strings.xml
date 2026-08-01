@@ -243,4 +243,5 @@
     <string name="faq_4_text">To var izdarīt, divreiz pieskaroties ekrāna malai vai pieskaroties pašreizējā vai maksimālā ilguma tekstam pie meklēšanas joslas. Ja lietotnes iestatījumos ieslēdzat video atvēršanu atsevišķā ekrānā, var izmantot arī horizontālus žestus.</string>
     <string name="faq_5_text">Neiekļaušana neļauj mapi rādīt tikai Fossify Gallery, savukārt paslēpšana darbojas visā sistēmā un paslēpj mapi arī no citām galerijām. Tā darbojas, attiecīgajā mapē izveidojot tukšu datni “.nomedia”, kuru pēc tam var izdzēst arī ar jebkuru datņu pārvaldnieku. Ņemiet vērā, ka dažas ierīces neļauj paslēpt tādas mapes kā Camera, Screenshots un Downloads.</string>
     <string name="faq_6_title">Kāpēc parādās mapes ar mūzikas vāku attēliem vai uzlīmēm?</string>
+    <string name="faq_6_text">Var gadīties, ka parādās kādi neparasti albumi. Tos var viegli neiekļaut, ilgi piespiežot un izvēloties “Neiekļaut”. Nākamajā dialoglodziņā var izvēlēties virsmapi — visticamāk, tas novērsīs arī citu saistīto albumu parādīšanos.</string>
 </resources>
