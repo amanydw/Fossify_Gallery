@@ -261,4 +261,5 @@
     <string name="faq_15_title">Zašto aplikacija zauzima toliko prostora?</string>
     <string name="faq_15_text">Predmemorija aplikacije može zauzeti do 250 MB i osigurava brže učitavanje slika. Ako aplikacija zauzima još više prostora, to je najvjerovatnije zato što imaš stavke u korpi za smeće. Te datoteke se ubrajaju u veličinu aplikacije. Korpu za smeće možeš isprazniti tako da je otvoriš i izbrišeš sve datoteke ili iz postavki aplikacije. Svaka datoteka u korpi briše se automatski nakon 30 dana.</string>
     <string name="faq_16_title">Šta se desilo sa skrivanjem datoteka i foldera i zašto više ne vidim skrivene stavke?</string>
+    <string name="faq_16_text">Počevši od Androida 11 više ne možeš skrivati niti otkrivati datoteke ili foldere, a zbog sistemskih ograničenja ne možeš ni vidjeti skrivene stavke u galerijama. Za to ćeš morati koristiti neki upravljač datoteka.</string>
 </resources>
