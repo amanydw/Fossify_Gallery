@@ -69,4 +69,5 @@
     <string name="invalid_values">Maglagay ng wastong resolusyon</string>
     <string name="resize_multiple_images">Baguhin ang laki ng maraming imahe</string>
     <string name="resize_factor">Factor ng pagbabago ng laki</string>
+    <string name="resize_factor_info">Baguhin ang laki ng mga imahe sa ibinigay na porsiyento, ang halaga ay dapat nasa pagitan ng 10 at 90.</string>
 </resources>
