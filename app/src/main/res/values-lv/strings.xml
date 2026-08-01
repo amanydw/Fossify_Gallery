@@ -127,4 +127,5 @@
     <string name="home_screen">Sākuma ekrāns</string>
     <string name="lock_screen">Bloķēšanas ekrāns</string>
     <string name="home_and_lock_screen">Sākuma un bloķēšanas ekrāns</string>
+    <string name="allow_changing_aspect_ratio">Atļaut mainīt malu attiecību</string>
 </resources>
