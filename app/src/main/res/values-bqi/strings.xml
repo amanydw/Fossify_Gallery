@@ -100,4 +100,6 @@
     <string name="invalid_values">لطفا یه عدد درست وارد بکنین</string>
     <string name="resize_multiple_images">آلشت هندا چن شؽوات وا یک</string>
     <string name="images_resized_successfully">هندا شؽواتا و خۊوی آلشت وابی</string>
+    <string name="show_media_count">نشووݩ داڌن تعداد وارسگر دوبلگه ری بلگه ٱسلی</string>
+    <string name="show_extended_details">نشووݩ داڌن جزئیات بیستر ری وارسگر تمام بلگه</string>
 </resources>
