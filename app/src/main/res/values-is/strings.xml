@@ -164,4 +164,5 @@
     <string name="black_background_at_fullscreen">Svartur bakgrunnur þegar margmiðlunarefni fyllir skjáinn</string>
     <string name="scroll_thumbnails_horizontally">Skruna smámyndir lárétt</string>
     <string name="hide_system_ui_at_fullscreen">Fela sjálfkrafa viðmót kerfisins þegar margmiðlunarefni fyllir skjáinn</string>
+    <string name="delete_empty_folders">Eyða tómum möppum eftir að innihaldi þeirra er eytt</string>
 </resources>
