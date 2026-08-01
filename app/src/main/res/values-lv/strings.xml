@@ -238,4 +238,5 @@
     <string name="faq_2_title">Es aizslēdzu lietotni ar paroli, bet to aizmirsu. Ko es varu darīt?</string>
     <string name="faq_2_text">To var atrisināt 2 veidos. Var vai nu pārinstalēt lietotni, vai arī atrast lietotni ierīces iestatījumos un izvēlēties “Notīrīt datus”. Tas atiestatīs visus jūsu iestatījumus, taču nedzēsīs nevienu multivides datni.</string>
     <string name="faq_3_title">Kā es varu panākt, lai albums vienmēr būtu redzams augšpusē?</string>
+    <string name="faq_3_text">Ilgi piespiediet vēlamo albumu un darbību izvēlnē izvēlieties piespraudes ikonu — tas piespraudīs albumu augšpusē. Var piespraust arī vairākas mapes; piespraustie vienumi tiks sakārtoti pēc noklusējuma kārtošanas veida.</string>
 </resources>
