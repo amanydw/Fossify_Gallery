@@ -33,4 +33,5 @@
     <string name="raw_images">RAW attēli</string>
     <string name="hidden">(paslēpta)</string>
     <string name="excluded">(neiekļauta)</string>
+    <string name="pin_folder">Piespraust mapi</string>
 </resources>
