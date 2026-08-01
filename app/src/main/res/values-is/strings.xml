@@ -167,4 +167,5 @@
     <string name="delete_empty_folders">Eyða tómum möppum eftir að innihaldi þeirra er eytt</string>
     <string name="keep_screen_on_fullscreen_photos">Halda skjánum kveiktum meðan ljósmyndir eru skoðaðar á öllum skjánum</string>
     <string name="allow_photo_gestures">Leyfa stjórnun á birtustigi ljósmynda með lóðréttum bendingum</string>
+    <string name="allow_video_gestures">Leyfa stjórnun á hljóðstyrk og birtustigi myndbanda með lóðréttum bendingum</string>
 </resources>
