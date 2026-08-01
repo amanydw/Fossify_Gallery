@@ -161,4 +161,5 @@
     <string name="autoplay_videos">Atskaņot video automātiski</string>
     <string name="remember_last_video_position">Atcerēties pēdējo video atskaņošanas pozīciju</string>
     <string name="loop_videos">Atkārtot video</string>
+    <string name="animate_gifs">Animēt GIF sīktēlos</string>
 </resources>
