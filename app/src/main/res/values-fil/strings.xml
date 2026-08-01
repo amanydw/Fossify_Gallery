@@ -240,4 +240,5 @@
     <string name="faq_4_text">Magagawa mo ito sa pamamagitan ng pag-double tap sa gilid ng screen, o pag-tap sa teksto ng kasalukuyan o pinakamataas na tagal malapit sa seekbar. Kung i-e-enable mo ang pagbukas ng mga video sa hiwalay na screen sa mga setting ng app, maaari ka ring gumamit ng pahalang na mga galaw.</string>
     <string name="faq_5_title">Ano ang pagkakaiba ng pagtatago at pagbubukod ng isang folder?</string>
     <string name="faq_5_text">Pinipigilan ng Ibukod ang pagpapakita ng folder sa Fossify Gallery lamang, samantalang ang Itago ay gumagana sa buong system at itinatago rin nito ang folder sa ibang mga gallery. Gumagana ito sa pamamagitan ng paggawa ng walang lamang “.nomedia” na file sa nasabing folder, na maaari mo ring tanggalin gamit ang anumang file manager. Tandaan na hindi pinapayagan ng ilang device ang pagtatago ng mga folder tulad ng Camera, Screenshots at Downloads.</string>
+    <string name="faq_6_title">Bakit lumalabas ang mga folder na may cover art ng musika o mga sticker?</string>
 </resources>
