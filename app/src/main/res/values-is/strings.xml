@@ -82,4 +82,5 @@
     <string name="rotate">Snúa</string>
     <string name="invalid_image_path">Ógild slóð myndar</string>
     <string name="invalid_video_path">Ógild slóð myndbands</string>
+    <string name="image_editing_failed">Myndvinnsla mistókst</string>
 </resources>
