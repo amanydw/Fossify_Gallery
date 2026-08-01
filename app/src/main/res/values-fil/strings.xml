@@ -51,4 +51,5 @@
     <string name="hide_folder_description">Itinatago ng function na ito ang folder sa pamamagitan ng pagdaragdag ng “.nomedia” na file dito, itatago rin nito ang lahat ng subfolder. Makikita mo ang mga ito sa pamamagitan ng pag-on sa opsyong “Ipakita ang mga nakatagong item” sa Mga Setting. Magpatuloy?</string>
     <string name="exclude_folder_description">Ibubukod nito ang napili kasama ang mga subfolder nito sa Fossify Gallery lamang. Mapapamahalaan mo ang mga ibinukod na folder sa Mga Setting.</string>
     <string name="exclude_folder_parent">Ibukod na lang ang parent folder?</string>
+    <string name="excluded_activity_placeholder">Kapag ibinukod ang mga folder, matatago ang mga ito kasama ang kanilang mga subfolder sa Fossify Gallery lamang, makikita pa rin ang mga ito sa ibang mga app.\n\nKung gusto mo ring itago ang mga ito sa ibang mga app, gamitin ang function na Itago.</string>
 </resources>
