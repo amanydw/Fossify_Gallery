@@ -263,4 +263,5 @@
     <string name="faq_16_text_extra">Eða þú getur veitt þessu gallerí aðgang að öllum skrám í stillingum tækisins, sem gerir okkur kleift að sýna falin atriði og gerir skráaraðgerðir almennt áreiðanlegri.</string>
     <string name="faq_17_title">Af hverju get ég ekki lengur bætt við möppum sem vantar?</string>
     <string name="faq_17_text">Það hætti einnig að virka vegna kerfisbreytinganna sem komu með Android 11, forritið getur ekki lengur flett í gegnum raunverulegar möppur heldur reiðir sig á svokallað MediaStore til að sækja gögn.</string>
+    <string name="faq_18_title">Af hverju sé ég auglýsingar meðan myndband er spilað?</string>
 </resources>
