@@ -218,4 +218,5 @@
     <string name="media_management_manual">Kaut kas nogāja greizi. Lūdzu, dodieties uz ierīces Iestatījumi - Lietotnes - Īpaša lietotņu piekļuve - Multivides pārvaldības lietotnes un atļaujiet šai lietotnei pārvaldīt multividi.</string>
     <string name="media_management_note">Ja novirzīšana nedarbojas, lūdzu, dodieties uz ierīces Iestatījumi - Lietotnes - Īpaša lietotņu piekļuve - Multivides pārvaldības lietotnes un atļaujiet šai lietotnei pārvaldīt multividi.</string>
     <string name="media_management_alternative">Ja nevēlaties to darīt, varat arī doties uz ierīces Iestatījumi - Lietotnes - Īpaša lietotņu piekļuve - Multivides pārvaldības lietotnes un atļaut šai lietotnei pārvaldīt multividi.</string>
+    <string name="alternative_media_access">Varat arī atļaut piekļuvi tikai multivides datnēm. Tādā gadījumā gan nevarēsiet strādāt ar paslēptām datnēm.</string>
 </resources>
