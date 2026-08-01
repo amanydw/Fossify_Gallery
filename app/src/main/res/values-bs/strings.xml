@@ -25,4 +25,5 @@
     <string name="force_landscape">Prisili položeni prikaz</string>
     <string name="force_landscape_reverse">Prisili položeni prikaz (obrnuto)</string>
     <string name="use_default_orientation">Koristi zadanu orijentaciju</string>
+    <string name="fix_date_taken">Popravi vrijednost datuma snimanja</string>
 </resources>
