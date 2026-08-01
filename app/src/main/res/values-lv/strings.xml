@@ -31,4 +31,5 @@
     <string name="filter_media">Filtrēt medijus</string>
     <string name="gifs">GIF</string>
     <string name="raw_images">RAW attēli</string>
+    <string name="hidden">(paslēpta)</string>
 </resources>
