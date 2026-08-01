@@ -42,4 +42,5 @@
         <item quantity="other">Sigurno želiš vratiti %d datoteka?</item>
     </plurals>
     <string name="full_storage_permission_required">Fossify Galeriji je potreban puni pristup za prikaz svih tvojih fotografija i videozapisa. Idi u Postavke &gt; Dozvole &gt; Fotografije i videozapisi &gt; Dozvoli sve.</string>
+    <string name="filter_media">Filtriraj medije</string>
 </resources>
