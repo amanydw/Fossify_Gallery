@@ -172,4 +172,5 @@
     <string name="show_media_count">Sýna fjölda margmiðlunarskráa í möppum á aðalskjánum</string>
     <string name="show_extended_details">Sýna ítarlegar upplýsingar yfir margmiðlunarefni á öllum skjánum</string>
     <string name="manage_extended_details">Sýsla með ítarlegar upplýsingar</string>
+    <string name="one_finger_zoom">Leyfa aðdrátt með einum fingri þegar margmiðlunarefni fyllir skjáinn</string>
 </resources>
