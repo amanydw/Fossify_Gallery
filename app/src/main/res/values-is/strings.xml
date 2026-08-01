@@ -235,4 +235,5 @@
     <string name="faq_2_title">Ég læsti forritinu með lykilorði en gleymdi því. Hvað get ég gert?</string>
     <string name="faq_2_text">Þú getur leyst það á tvo vegu. Þú getur annaðhvort sett forritið upp aftur eða fundið forritið í stillingum tækisins og valið „Hreinsa gögn“. Það endurstillir allar stillingarnar þínar en fjarlægir engar margmiðlunarskrár.</string>
     <string name="faq_3_title">Hvernig get ég látið albúm alltaf birtast efst?</string>
+    <string name="faq_3_text">Þú getur haldið inni á viðkomandi albúmi og valið nælutáknið í aðgerðavalmyndinni, það festir albúmið efst. Þú getur líka fest margar möppur, festum atriðum er raðað eftir sjálfgefnu röðunaraðferðinni.</string>
 </resources>
