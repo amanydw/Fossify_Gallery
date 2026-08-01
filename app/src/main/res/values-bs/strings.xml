@@ -185,4 +185,5 @@
     <string name="show_recycle_bin_last">Prikaži korpu za smeće kao posljednju stavku na glavnom ekranu</string>
     <string name="allow_down_gesture">Dozvoli zatvaranje prikaza preko cijelog ekrana pokretom prema dolje</string>
     <string name="allow_one_to_one_zoom">Dozvoli uvećavanje 1:1 s dva dvostruka dodira</string>
+    <string name="open_videos_on_separate_screen">Reproduciraj videozapise na zasebnom ekranu s vodoravnim pokretima</string>
 </resources>
