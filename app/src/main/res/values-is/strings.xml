@@ -137,4 +137,5 @@
     <string name="group_by">Flokka eftir</string>
     <string name="do_not_group_files">Ekki flokka skrár</string>
     <string name="by_folder">Möppu</string>
+    <string name="by_last_modified">Síðustu breytingu</string>
 </resources>
