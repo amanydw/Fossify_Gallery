@@ -108,4 +108,5 @@
     <string name="free_aspect_ratio">Malaya</string>
     <string name="other_aspect_ratio">Iba pa</string>
     <string name="wallpaper">Wallpaper</string>
+    <string name="set_as_wallpaper">Itakda bilang wallpaper</string>
 </resources>
