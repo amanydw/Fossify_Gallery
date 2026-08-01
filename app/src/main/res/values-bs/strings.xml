@@ -207,4 +207,5 @@
     <string name="limit_folder_title">Ograniči duge nazive foldera na jedan red</string>
     <string name="square">Kvadrat</string>
     <string name="rounded_corners">Zaobljeni uglovi</string>
+    <string name="export_favorite_paths">Izvezi omiljene</string>
 </resources>
