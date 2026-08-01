@@ -46,4 +46,5 @@
     <string name="brightness">Spilgtums</string>
     <string name="lock_orientation">Bloķēt orientāciju</string>
     <string name="unlock_orientation">Atbloķēt orientāciju</string>
+    <string name="change_orientation">Mainīt orientāciju</string>
 </resources>
