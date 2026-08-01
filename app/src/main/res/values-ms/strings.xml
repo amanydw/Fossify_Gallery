@@ -107,4 +107,5 @@
     <string name="other_aspect_ratio">Lain-lain</string>
     <string name="wallpaper">Kertas dinding</string>
     <string name="set_as_wallpaper">Tetapkan sebagai kertas dinding</string>
+    <string name="set_as_wallpaper_failed">Gagal menetapkan sebagai kertas dinding</string>
 </resources>
