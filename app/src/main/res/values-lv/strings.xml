@@ -248,4 +248,5 @@
     <string name="faq_7_text">Tam var būt vairāki iemesli, taču atrisināt to ir vienkārši. Dodieties uz Iestatījumi -&gt; Pārvaldīt iekļautās mapes, izvēlieties plusa zīmi un atveriet nepieciešamo mapi.</string>
     <string name="faq_8_title">Ko darīt, ja vēlos, lai būtu redzamas tikai dažas noteiktas mapes?</string>
     <string name="faq_8_text">Mapes pievienošana iekļautajām mapēm automātiski neizslēdz neko citu. Var doties uz Iestatījumi -&gt; Pārvaldīt neiekļautās mapes, neiekļaut saknes mapi “/” un pēc tam pievienot vēlamās mapes sadaļā Iestatījumi -&gt; Pārvaldīt iekļautās mapes.\nTādējādi būs redzamas tikai izvēlētās mapes, jo gan neiekļaušana, gan iekļaušana ir rekursīva, un, ja mape ir gan neiekļauta, gan iekļauta, tā tiks rādīta.</string>
+    <string name="faq_10_title">Vai ar šo lietotni var apcirpt attēlus?</string>
 </resources>
