@@ -65,4 +65,5 @@
     <string name="full_storage_permission_required">Fossify Gallery ir nepieciešama pilna piekļuve, lai parādītu visus fotoattēlus un video. Dodieties uz Iestatījumi &gt; Atļaujas &gt; Fotoattēli un video &gt; Atļaut visu.</string>
     <string name="svgs">SVG attēli</string>
     <string name="portraits">Portreti</string>
+    <string name="no_media_with_filters">Ar izvēlētajiem filtriem netika atrasta neviena multivides datne.</string>
 </resources>
