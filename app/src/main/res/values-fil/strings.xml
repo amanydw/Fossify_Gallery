@@ -253,4 +253,5 @@
     <string name="faq_12_title">Mukhang hindi gumagana nang tama ang pag-uuri ayon sa Petsa ng Pagkuha, paano ko ito maaayos?</string>
     <string name="faq_12_text">Malamang na dulot ito ng mga file na kinopya mula sa ibang lugar. Maaayos mo ito sa pamamagitan ng pagpili sa mga thumbnail ng file at pagpili ng “Ayusin ang halaga ng Petsa ng Pagkuha”.</string>
     <string name="faq_13_title">May nakikita akong color banding sa mga imahe. Paano ko mapapabuti ang kalidad?</string>
+    <string name="faq_13_text">Ang kasalukuyang solusyon sa pagpapakita ng mga imahe ay maayos na gumagana sa halos lahat ng pagkakataon, ngunit kung gusto mo ng mas mahusay pang kalidad ng imahe, maaari mong i-enable ang “Ipakita ang mga imahe sa pinakamataas na posibleng kalidad” sa mga setting ng app, sa seksyong “Mga imaheng malalim na maza-zoom”.</string>
 </resources>
