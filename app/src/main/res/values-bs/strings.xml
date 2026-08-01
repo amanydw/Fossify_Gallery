@@ -36,4 +36,9 @@
     <string name="reorder_by_dragging">Promijeni redoslijed foldera prevlačenjem</string>
     <string name="reorder_by_dragging_pro">Promijeni redoslijed foldera prevlačenjem (Pro)</string>
     <string name="restore_to_path">Vraćanje u „%s”</string>
+    <plurals name="restore_confirmation">
+        <item quantity="one">Sigurno želiš vratiti %d datoteku?</item>
+        <item quantity="few">Sigurno želiš vratiti %d datoteke?</item>
+        <item quantity="other">Sigurno želiš vratiti %d datoteka?</item>
+    </plurals>
 </resources>
