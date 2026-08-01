@@ -128,4 +128,5 @@
     <string name="move_backwards">Umatras</string>
     <string name="loop_slideshow">Ulitin ang slideshow</string>
     <string name="animation">Animation</string>
+    <string name="no_animation">Wala</string>
 </resources>
