@@ -234,4 +234,5 @@
     <string name="faq_1_text">Una, kailangan mong hanapin ang kasalukuyang default na gallery sa seksyong Mga App ng mga setting ng iyong device, hanapin ang button na may nakasulat na tulad ng “Buksan bilang default”, i-tap ito, pagkatapos ay piliin ang “I-clear ang mga default”. Sa susunod na pagbukas mo ng imahe o video, makikita mo ang app picker, kung saan maaari mong piliin ang Fossify Gallery at gawin itong default na app.</string>
     <string name="faq_2_title">Ni-lock ko ang app gamit ang password, ngunit nakalimutan ko ito. Ano ang magagawa ko?</string>
     <string name="faq_2_text">Malulutas mo ito sa 2 paraan. Maaari mong i-install muli ang app, o hanapin ang app sa mga setting ng iyong device at piliin ang “I-clear ang data”. Ire-reset nito ang lahat ng iyong setting, ngunit hindi nito buburahin ang anumang media file.</string>
+    <string name="faq_3_title">Paano ko mapapalaging nasa itaas ang isang album?</string>
 </resources>
