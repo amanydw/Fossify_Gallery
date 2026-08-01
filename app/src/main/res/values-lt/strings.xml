@@ -145,9 +145,7 @@
     <string name="svgs">SVG failai</string>
     <string name="portraits">Portretai</string>
     <string name="exclude_folder_description">Tai išskirs pasirinkimą kartu su jo subaplankais tik iš Fossify galerijos. Išskirtus aplankus galite tvarkyti Nustatymuose.</string>
-    <string name="excluded_activity_placeholder">Aplankų išskyrimas juos kartu su subaplankais paslėps tik Fossify galerijoje; jie vis tiek bus matomi kitose programose.
-
-Jei norite juos paslėpti ir nuo kitų programų, naudokite funkciją Slėpti.</string>
+    <string name="excluded_activity_placeholder">Aplankų išskyrimas juos kartu su subaplankais paslėps tik Fossify galerijoje; jie vis tiek bus matomi kitose programose.\n\nJei norite juos paslėpti ir nuo kitų programų, naudokite funkciją Slėpti.</string>
     <string name="hidden_all_files">Turite suteikti programai prieigą prie visų failų, kad matytumėte paslėptus failus, kitaip tai neveiks.</string>
     <string name="cant_unhide_folder">Jei aplanko arba vieno iš jo pirminių aplankų pavadinimas prasideda tašku, jis yra paslėptas ir taip negali būti parodytas. Tašką turite pašalinti pervadindami.</string>
     <string name="no_media_add_included">Nerasta medijos failų. Tai galite išspręsti rankiniu būdu pridėdami aplankus, kuriuose yra medijos failų.</string>
