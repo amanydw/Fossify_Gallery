@@ -145,4 +145,5 @@
     <string name="by_extension">Sambungan fail</string>
     <string name="show_file_count_section_header">Tunjukkan bilangan fail pada pengepala bahagian</string>
     <string name="grouping_and_sorting">Sila ambil perhatian bahawa pengumpulan dan pengisihan ialah 2 medan yang berasingan</string>
+    <string name="folder_on_widget">Folder yang ditunjukkan pada widget:</string>
 </resources>
