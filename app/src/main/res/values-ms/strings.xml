@@ -20,4 +20,5 @@
     <string name="brightness">Kecerahan</string>
     <string name="lock_orientation">Kunci orientasi</string>
     <string name="unlock_orientation">Buka kunci orientasi</string>
+    <string name="change_orientation">Tukar orientasi</string>
 </resources>
