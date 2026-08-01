@@ -258,7 +258,7 @@
     <string name="failed_to_load_media">تعذر تحميل الوسائط.</string>
     <plurals name="restore_confirmation">
         <item quantity="zero">لا ملفات لاستعادة</item>
-        <item quantity="one">أمتأكد من أنك تريد استعادة ملف واحد؟</item>
+        <item quantity="one">هل أنت متأكد من أنك تريد استعادة %d ملف؟</item>
         <item quantity="two">أمتأكد من أنك تريد استعادة ملفين؟</item>
         <item quantity="few">أمتأكد من أنك تريد استعادة %d ملفات؟</item>
         <item quantity="many">أمتأكد من أنك تريد استعادة %d ملفًا؟</item>
