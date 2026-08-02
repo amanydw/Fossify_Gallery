@@ -243,9 +243,7 @@
         <item quantity="other">Неуспешна промена величине %d слика</item>
     </plurals>
     <string name="force_landscape_reverse">Форсирај пејзаж (обрнуто)</string>
-    <string name="excluded_activity_placeholder">Искључивање фасцикли ће их, заједно са њиховим подфасциклама, сакрити само у Fossify Gallery; и даље ће бити видљиве у другим апликацијама.
-
-Ако желите да их сакријете и од других апликација, користите функцију Сакриј.</string>
+    <string name="excluded_activity_placeholder">Искључивање фасцикли ће их, заједно са њиховим подфасциклама, сакрити само у Fossify Gallery; и даље ће бити видљиве у другим апликацијама.\n\nАко желите да их сакријете и од других апликација, користите функцију Сакриј.</string>
     <string name="resize_multiple_images">Промени величину више слика</string>
     <string name="resize_factor_error">Унесите број између 10 и 90</string>
     <string name="basic_editor">Основни уређивач</string>

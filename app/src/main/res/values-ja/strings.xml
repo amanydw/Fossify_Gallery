@@ -51,7 +51,7 @@
     <string name="include_folders">追加フォルダー</string>
     <string name="manage_included_folders">追加フォルダーの管理</string>
     <string name="add_folder">フォルダーを追加</string>
-    <string name="included_activity_placeholder">メディア入りのフォルダーがアプリで認識されない場合は手動で追加します。</string>
+    <string name="included_activity_placeholder">メディアが入っているのにアプリで認識されなかったフォルダーがある場合は、ここで手動で追加できます。\n\nここに項目を追加しても、他のフォルダーが除外されることはありません。</string>
     <string name="no_media_add_included">メディアファイルが見つかりません。メディアファイルを手動で追加することにより解決できます。</string>
     <string name="resize_and_save">選択領域をリサイズして保存</string>
     <string name="width">幅</string>
@@ -239,23 +239,17 @@
     <string name="cant_unhide_folder">フォルダーまたは親フォルダーの名前がドットから始まる場合、そのフォルダーは非表示となり、このような形で表示することはできません。名前からドットを削除する必要があります。</string>
     <string name="resize_factor_info">指定した割合に画像のサイズを変更。値は10から90までの間を指定してください。</string>
     <plurals name="failed_to_resize_images">
-        <item quantity="other">%d個の画像のサイズを変更できませんでした</item>
-    
-        <item quantity="one">%d 枚の画像のサイズ変更に失敗しました</item>
-</plurals>
+        <item quantity="other">%d 枚の画像のサイズ変更に失敗しました</item>
+    </plurals>
     <string name="images_resized_successfully">画像のサイズを変更しました</string>
     <string name="wallpaper">壁紙</string>
     <string name="exclude_folder_description">選択したフォルダーとその子フォルダーをFossifyギャラリーから除外します。除外したフォルダーは設定画面で管理できます。</string>
     <plurals name="restore_confirmation">
-        <item quantity="other">本当に %d ファイルを復元しますか?</item>
-    
-        <item quantity="one">ファイルを %d 件復元しますか？</item>
-</plurals>
+        <item quantity="other">本当に %d 件のファイルを復元しますか？</item>
+    </plurals>
     <string name="overwrite_original">元のファイルを上書きする</string>
     <string name="force_landscape_reverse">横で固定（反転）</string>
-    <string name="excluded_activity_placeholder">除外したフォルダーは、サブフォルダーごと Fossify Gallery 内でのみ非表示になります。他のアプリでは引き続き表示されます。
-
-他のアプリからも非表示にするには、非表示機能を使用してください。</string>
+    <string name="excluded_activity_placeholder">除外したフォルダーは、サブフォルダーごと Fossify Gallery 内でのみ非表示になります。他のアプリでは引き続き表示されます。\n\n他のアプリからも非表示にするには、非表示機能を使用してください。</string>
     <string name="render_ultra_hdr_photos">Ultra HDR 写真を HDR で表示</string>
     <string name="keep_screen_on_fullscreen_photos">全画面で写真を表示中は画面をオンにしたままにする</string>
     <string name="playback_speed">再生速度</string>

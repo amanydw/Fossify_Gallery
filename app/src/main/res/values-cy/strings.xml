@@ -190,15 +190,11 @@
     <string name="full_storage_permission_required">Mae angen mynediad llawn ar Fossify Gallery i ddangos eich holl luniau a fideos. Ewch i Gosodiadau > Caniatadau > Lluniau a fideos > Caniatáu popeth.</string>
     <string name="hide_folder_description">Mae\'r swyddogaeth hon yn cuddio\'r ffolder trwy ychwanegu ffeil \'.nomedia\' ynddo, bydd hefyd yn cuddio\'r holl is-ffolderi. Gallwch eu gweld trwy droi\'r opsiwn \'Dangos eitemau cudd\' ymlaen yn Gosodiadau. Parhau?</string>
     <string name="exclude_folder_description">Bydd hyn yn eithrio\'r detholiad gyda\'i is-ffolderi yn unig o Fossify Gallery. Gallwch reoli ffolderi wedi\'u heithrio yn Gosodiadau.</string>
-    <string name="excluded_activity_placeholder">Bydd eithrio ffolderi yn eu cuddio gyda\'u his-ffolderi dim ond yn Fossify Gallery, byddant yn dal i fod yn weladwy mewn ceisiadau eraill.
-
-Os ydych am eu cuddio rhag ceisiadau eraill hefyd, defnyddiwch y swyddogaeth Cuddio.</string>
+    <string name="excluded_activity_placeholder">Bydd eithrio ffolderi yn eu cuddio gyda\'u his-ffolderi dim ond yn Fossify Gallery, byddant yn dal i fod yn weladwy mewn ceisiadau eraill.\n\nOs ydych am eu cuddio rhag ceisiadau eraill hefyd, defnyddiwch y swyddogaeth Cuddio.</string>
     <string name="hidden_folders_placeholder">Mae\'n ymddangos nad oes gennych unrhyw ffolderi wedi\'u cuddio gyda ffeil \".nomedia\".</string>
     <string name="hidden_all_files">Mae\'n rhaid i chi roi mynediad Pob Ffeil i\'r ap i weld ffeiliau cudd, fel arall ni all weithio.</string>
     <string name="cant_unhide_folder">Os oes dot o flaen enw ffolder neu un o\'i riant-ffolderi, mae wedi\'i guddio ac ni ellir ei ddangos fel hyn. Rhaid i chi gael gwared ar y dot trwy ei ailenwi.</string>
-    <string name="included_activity_placeholder">Os oes gennych rai ffolderi sy\'n cynnwys cyfryngau, ond heb eu hadnabod gan yr ap, gallwch eu hychwanegu â llaw yma.
-
-Ni fydd ychwanegu rhai eitemau yma yn eithrio unrhyw ffolder arall.</string>
+    <string name="included_activity_placeholder">Os oes gennych rai ffolderi sy\'n cynnwys cyfryngau, ond heb eu hadnabod gan yr ap, gallwch eu hychwanegu â llaw yma.\n\nNi fydd ychwanegu rhai eitemau yma yn eithrio unrhyw ffolder arall.</string>
     <string name="no_media_add_included">Ni ddaethpwyd o hyd i unrhyw ffeiliau cyfryngau. Gallwch ddatrys hyn trwy ychwanegu\'r ffolderi sy\'n cynnwys ffeiliau cyfryngau â llaw.</string>
     <string name="invalid_values">Rhowch gydraniad dilys</string>
     <string name="resize_factor_error">Rhowch rif rhwng 10 a 90</string>

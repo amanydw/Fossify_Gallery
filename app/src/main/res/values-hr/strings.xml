@@ -11,7 +11,7 @@
     <string name="show_all">Prikaži sadržaj svih mapa</string>
     <string name="all_folders">Sve mape</string>
     <string name="folder_view">Prijeđi na prikaz mape</string>
-    <string name="other_folder">Ostale mape</string>
+    <string name="other_folder">Druga mapa</string>
     <string name="show_on_map">Prikaži na karti</string>
     <string name="unknown_location">Nepoznata lokacija</string>
     <string name="volume">Glasnoća</string>
@@ -48,7 +48,7 @@
     <string name="manage_hidden_folders">Upravljaj skrivenim mapama</string>
     <string name="hidden_folders_placeholder">Čini se da nemaš skrivene mape s \".nomedia\" datotekom.</string>
     <string name="hidden_all_files">Aplikaciji moraš odobriti pristup svim datotekama za prikaz skrivenih datoteka, inače neće raditi.</string>
-    <string name="cant_unhide_folder">Ukoliko mapa ili neka od mapa koje je sadržavaju imaju ime koje počinje sa tačkom, ne mogu se otkriti na ovaj način. Morate ukloniti tačku iz njihovog imena da biste ih otkrili.</string>
+    <string name="cant_unhide_folder">Ako mapa ili neka od njezinih nadređenih mapa ima točku ispred naziva, ona je skrivena i ne može se otkriti na ovaj način. Moraš ukloniti točku preimenovanjem.</string>
     <string name="include_folders">Uključene mape</string>
     <string name="manage_included_folders">Upravljaj uključenim mapama</string>
     <string name="add_folder">Dodaj mapu</string>
@@ -56,7 +56,7 @@
 \n
 \nDodavanjem stavki ovdje neće isključiti bilo koju drugu mapu.</string>
     <string name="no_media_add_included">Medijske datoteke nisu pronađene. To možeš riješiti ručnim dodavanjem mapa koje sadrže medijske datoteke.</string>
-    <string name="resize_and_save">Promjeni veličinu odabira i spremi</string>
+    <string name="resize_and_save">Promijeni veličinu odabira i spremi</string>
     <string name="width">Širina</string>
     <string name="height">Visina</string>
     <string name="keep_aspect_ratio">Zadrži omjer</string>
@@ -92,7 +92,7 @@
     <string name="error_saving_file">Nije moguće prepisati izvornu datoteku</string>
     <string name="rotate_left">Okreni nalijevo</string>
     <string name="rotate_right">Okreni nadesno</string>
-    <string name="rotate_one_eighty">Okreni za 180 º</string>
+    <string name="rotate_one_eighty">Okreni za 180º</string>
     <string name="transform">Transformiraj</string>
     <string name="crop">Obreži</string>
     <string name="draw">Crtaj</string>
@@ -104,12 +104,12 @@
     <string name="set_as_wallpaper">Postavi kao sliku pozadine</string>
     <string name="set_as_wallpaper_failed">Postavljanje kao slike pozadine neuspjelo</string>
     <string name="set_as_wallpaper_with">Postavi kao sliku pozadine pomoću:</string>
-    <string name="setting_wallpaper">Postavljanje slike pozadine …</string>
+    <string name="setting_wallpaper">Postavljanje slike pozadine…</string>
     <string name="wallpaper_set_successfully">Slika pozadine je uspješno postavljena</string>
     <string name="portrait_aspect_ratio">Uspravni omjer slike</string>
     <string name="landscape_aspect_ratio">Položeni omjer slike</string>
     <string name="home_screen">Početni ekran</string>
-    <string name="lock_screen">Zaključaj ekran</string>
+    <string name="lock_screen">Zaključani ekran</string>
     <string name="home_and_lock_screen">Početni i zaključani ekran</string>
     <string name="allow_changing_aspect_ratio">Dopusti mijenjanje omjera</string>
     <string name="slideshow">Dijaprojekcija</string>
@@ -158,7 +158,7 @@
     <string name="delete_empty_folders">Izbriši prazne mape nakon brisanja njihovog sadržaja</string>
     <string name="allow_photo_gestures">Dozvoli kontroliranje svjetline fotografije okomitim pokretima</string>
     <string name="allow_video_gestures">Dozvoli kontroliranje glasnoće videa i svjetline okomitim pokretima</string>
-    <string name="show_media_count">Prikaži broja medija mapa u glavnom prikazu</string>
+    <string name="show_media_count">Prikaži broj medijskih datoteka u mapama u glavnom prikazu</string>
     <string name="show_extended_details">Prikaži proširene pojedinosti ispred cjeloekranskog prikaza medija</string>
     <string name="manage_extended_details">Upravljaj proširenim pojedinostima</string>
     <string name="one_finger_zoom">Dozvoli zumiranje jednim prstom u cjeloekranskom prikazu medija</string>
@@ -197,7 +197,7 @@
     <string name="media_management_prompt">Kako bi sve radnje s datotekama pouzdano radile, postavi ovu aplikaciju kao aplikaciju za upravljanje medijima u postavkama uređaja.</string>
     <string name="password_protect_excluded">Lozinkom zaštiti vidljivost isključene mape</string>
     <string name="media_management_manual">Nešto nije u redu. Idi u Postavke - Aplikacije - Poseban pristup aplikacije - Aplikacije za upravljanje medijima i dozvoli ovoj aplikaciji da upravlja medijima.</string>
-    <string name="media_management_note">Ako preusmjeravanje ne radi, idi u Postavke - Aplikacije - Poseban pristup aplikacijie- Aplikacije za upravljanje medijima i dozvoli ovoj aplikaciji da upravlja medijima.</string>
+    <string name="media_management_note">Ako preusmjeravanje ne radi, idi u Postavke - Aplikacije - Poseban pristup aplikacije - Aplikacije za upravljanje medijima i dozvoli ovoj aplikaciji da upravlja medijima.</string>
     <string name="media_management_alternative">Ako to ne želiš učiniti, na svom uređaju idi u Postavke - Aplikacije - Poseban pristup aplikacije - Aplikacije za upravljanje medijima i dozvoli ovoj aplikaciji da upravlja medijima.</string>
     <string name="alternative_media_access">Alternativno možeš dozvoliti pristup samo medijskim datotekama. U tom slučaju nećeš moći raditi sa skrivenim datotekama.</string>
     <string name="media_only">Samo mediji</string>
@@ -231,7 +231,7 @@
     <string name="faq_12_title">Razvrstavanje prema datumu snimanja nije točno, kako to mogu ispraviti\?</string>
     <string name="faq_12_text">Vjerojatan uzrok tome je da su slike kopirane s drugih mjesta. Dodirni dugo sličice datoteka i odaberi funkciju „Ispravi vrijednost datuma snimanja”.</string>
     <string name="faq_13_title">Vidim nekakvo preklapanje boja na slikama. Kako mogu poboljšati kvalitetu\?</string>
-    <string name="faq_13_text">Aktualno rješenje za prikazivanje slika funkcionira dobro u većini slučajeva, ali ako želiš još bolju kvalitetu slike, možeš aktivirati „Prikaži slike u najvišoj mogućoj kvaliteti” u postavkama aplikacije, u odjeljku „Slike visoke rezolucije.</string>
+    <string name="faq_13_text">Aktualno rješenje za prikazivanje slika funkcionira dobro u većini slučajeva, ali ako želiš još bolju kvalitetu slike, možeš aktivirati „Prikaži slike u najvišoj mogućoj kvaliteti” u postavkama aplikacije, u odjeljku „Slike visoke rezolucije”.</string>
     <string name="faq_14_title">Sakrio sam datoteku/mapu. Kako je mogu opet prikazati\?</string>
     <string name="faq_14_text">U glavnom ekranu pritisni stavku izbornika „Privremeno prikaži skrivene stavke” ili uključi „Prikaži skrivene stavke” u postavkama aplikacije. Ako je želiš prikazati, pritisni je dugo i odaberi „Otkrij”. Mape se skrivaju dodavanjem skrivene datoteke „.nomedia”. Datoteku možeš izbrisati i s bilo kojim upravljačem datoteka. Imaj na umu da skrivanje ipak radi rekurzivno, pa ako sakriješ mapu, sve podmape će se također sakriti. Za otkrivanje podmapa moraš otkriti nadređenu mapu.</string>
     <string name="faq_15_title">Zašto aplikacija koristi toliko memorije\?</string>
@@ -242,7 +242,7 @@
     <string name="faq_17_title">Zašto više ne mogu uključiti nedostajuće mape\?</string>
     <string name="faq_17_text">To je prestalo raditi zbog promjena sustava koje su uvedene s Androidom 11. Aplikacija više ne može pregledavati stvarne mape, oslanja se na takozvani MediaStore za dohvaćanje podataka.</string>
     <string name="faq_18_title">Zašto vidim oglase tijekom reprodukcije videa\?</string>
-    <string name="faq_18_text">Naše aplikacije ne sadrže oglase. Ako ih vidiš tijekom reprodukcije videa, vjerojatno koristiš neki drugi video player. Pokušaj pronaći standardni video player u postavkama uređaja, a zatim na njemu izvrši „Očisti standardne postavke“. Sljedeći put kada pozoveš neku namjeru gledanja videa, vidjet ćeš upit za biranje aplikacija u kojem možeš odabrati aplikaciju koju želiš koristiti.</string>
+    <string name="faq_18_text">Naše aplikacije ne sadrže oglase. Ako ih vidiš tijekom reprodukcije videa, vjerojatno koristiš neki drugi video player. Pokušaj pronaći standardni video player u postavkama uređaja, a zatim na njemu izvrši „Očisti standardne postavke”. Sljedeći put kada pozoveš neku namjeru gledanja videa, vidjet ćeš upit za biranje aplikacija u kojem možeš odabrati aplikaciju koju želiš koristiti.</string>
     <string name="faq_1_title">Kako mogu odrediti Fossify Gallery kao standardnu galeriju uređaja?</string>
     <string name="wallpaper">Slika pozadine</string>
     <string name="exclude_folder_description">Ovo će isključiti odabir zajedno s njegovim podmapama samo iz Fossify galerije. Isključenim mapama možeš upravljati u postavkama.</string>
@@ -250,8 +250,8 @@
 \n
 \nAko ih želiš sakriti i od drugih aplikacija, koristi funkciju „Sakrij”.</string>
     <string name="slide">Prijelaz</string>
-    <string name="faq_1_text">Najprije moraš pronaći trenutačno zadanu galeriju u odjeljku aplikacija u postavkama tvog uređaja. Potraži gumb koji kaže nešto poput „Standardno otvori”, pritisni ga, a zatim odaberi „Očisti standardne postavke“. Kada sljedeći put pokušaš otvoriti sliku ili video vidjet ćeš birač aplikacija, gdje možeš odabrati aplikaciju „Fossify galerija” i postaviti je kao standardnu aplikaciju.</string>
-    <string name="faq_5_text">Opcija „Isključi” sprječava prikazivanje mape samo u Fossify galeriji, dok opcija „Sakrij” funkcionira za cijeli sustav te skriva mapu i od drugih galerija. Radi tako što stvara praznu datoteku „.nomedia” u zadnoj mapi, koju zatim možeš ukloniti s bilo kojim upravljačem datoteka. Imaj na umu da neki uređaji ne dopuštaju skrivanje mapa kao što su Kamera, Slike ekrana i Preuzimanja.</string>
+    <string name="faq_1_text">Najprije moraš pronaći trenutačno zadanu galeriju u odjeljku aplikacija u postavkama tvog uređaja. Potraži gumb koji kaže nešto poput „Standardno otvori”, pritisni ga, a zatim odaberi „Očisti standardne postavke”. Kada sljedeći put pokušaš otvoriti sliku ili video vidjet ćeš birač aplikacija, gdje možeš odabrati aplikaciju „Fossify galerija” i postaviti je kao standardnu aplikaciju.</string>
+    <string name="faq_5_text">Opcija „Isključi” sprječava prikazivanje mape samo u Fossify galeriji, dok opcija „Sakrij” funkcionira za cijeli sustav te skriva mapu i od drugih galerija. Radi tako što stvara praznu datoteku „.nomedia” u zadanoj mapi, koju zatim možeš ukloniti s bilo kojim upravljačem datoteka. Imaj na umu da neki uređaji ne dopuštaju skrivanje mapa kao što su Kamera, Slike ekrana i Preuzimanja.</string>
     <string name="full_storage_permission_required">Fossify galerija treba puni pristup za prikaz svih tvojih fotografija i videa. Idi na Postavke &gt; Dozvole &gt; Fotografije i videa &gt; Dozvoli sve.</string>
     <string name="playback_speed">Brzina reprodukcije</string>
     <string name="unsupported_format">Nepodržan format.</string>

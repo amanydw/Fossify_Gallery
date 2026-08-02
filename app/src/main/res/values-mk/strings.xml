@@ -55,9 +55,7 @@
     <string name="hide_folder_description">Оваа функција ја крие папката со додавање \'.nomedia\' датотека во неа, ќе ги скрие и сите подпапки. Можете да ги видите со вклучување на опцијата \'Прикажи скриени ставки\' во Поставки. Продолжи?</string>
     <string name="exclude_folder_description">Ова ќе го исклучи изборот заедно со неговите подпапки само од Fossify Gallery. Исклучените папки можете да ги управувате во Поставки.</string>
     <string name="exclude_folder_parent">Да исклучам родител наместо тоа?</string>
-    <string name="excluded_activity_placeholder">Исклучувањето на папки ќе ги направи, заедно со нивните подпапки, скриени само во Fossify Gallery; тие сепак ќе бидат видливи во други апликации.
-
-Ако сакате да ги скриете и од други апликации, користете ја функцијата Скриј.</string>
+    <string name="excluded_activity_placeholder">Исклучувањето на папки ќе ги направи, заедно со нивните подпапки, скриени само во Fossify Gallery; тие сепак ќе бидат видливи во други апликации.\n\nАко сакате да ги скриете и од други апликации, користете ја функцијата Скриј.</string>
     <string name="hidden_folders">Скриени папки</string>
     <string name="manage_hidden_folders">Управувај со скриени папки</string>
     <string name="hidden_folders_placeholder">Изгледа дека немате скриени папки со \".nomedia\" датотека.</string>
@@ -66,9 +64,7 @@
     <string name="include_folders">Вклучени папки</string>
     <string name="manage_included_folders">Управувај со вклучени папки</string>
     <string name="add_folder">Додади папка</string>
-    <string name="included_activity_placeholder">Ако имате папки кои содржат медиуми, но не биле препознаени од апликацијата, можете да ги додадете рачно овде.
-
-Додавањето ставки овде нема да исклучи друга папка.</string>
+    <string name="included_activity_placeholder">Ако имате папки кои содржат медиуми, но не биле препознаени од апликацијата, можете да ги додадете рачно овде.\n\nДодавањето ставки овде нема да исклучи друга папка.</string>
     <string name="no_media_add_included">Не се пронајдени медиумски датотеки. Можете да го решите ова со рачно додавање на папките што содржат медиумски датотеки.</string>
     <string name="resize_and_save">Промени ја големината на изборот и зачувај</string>
     <string name="width">Ширина</string>

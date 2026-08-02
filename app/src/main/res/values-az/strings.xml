@@ -52,9 +52,7 @@
     <string name="hide_folder_description">Bu funksiya qovluğa \'.nomedia\' faylı əlavə edərək onu gizlədir və bütün altqovluqları da gizlədəcək. Onları Parametrlərdə \'Gizli elementləri göstər\' seçimini açaraq görə bilərsiniz. Davam edirsiniz?</string>
     <string name="exclude_folder_description">Bu, seçimi altqovluqları ilə birlikdə yalnız Fossify Qalereyasından xaric edəcək. Xaric edilmiş qovluqları Parametrlərdə idarə edə bilərsiniz.</string>
     <string name="exclude_folder_parent">Əvəzində valideyni xaric edirsiniz?</string>
-    <string name="excluded_activity_placeholder">Qovluqları xaric etmək onları altqovluqları ilə birlikdə yalnız Fossify Qalereyasında gizlədəcək; digər proqramlarda onlar görünməyə davam edəcək.
-
-Onları başqa proqramlardan da gizlətmək istəyirsinizsə, Gizlət funksiyasından istifadə edin.</string>
+    <string name="excluded_activity_placeholder">Qovluqları xaric etmək onları altqovluqları ilə birlikdə yalnız Fossify Qalereyasında gizlədəcək; digər proqramlarda onlar görünməyə davam edəcək.\n\nOnları başqa proqramlardan da gizlətmək istəyirsinizsə, Gizlət funksiyasından istifadə edin.</string>
     <string name="hidden_folders">Gizli qovluqlar</string>
     <string name="manage_hidden_folders">Gizli qovluqları idarə et</string>
     <string name="hidden_folders_placeholder">Görünür, \".nomedia\" faylı ilə gizlədilmiş heç bir qovluğunuz yoxdur.</string>
@@ -63,9 +61,7 @@ Onları başqa proqramlardan da gizlətmək istəyirsinizsə, Gizlət funksiyas�
     <string name="include_folders">Daxil edilmiş qovluqlar</string>
     <string name="manage_included_folders">Daxil edilmiş qovluqları idarə et</string>
     <string name="add_folder">Qovluq əlavə et</string>
-    <string name="included_activity_placeholder">Əgər media olan, lakin proqram tərəfindən tanınmayan qovluqlarınız varsa, onları burada əl ilə əlavə edə bilərsiniz.
-
-Buraya nəsə əlavə etmək digər qovluqları xaric etməyəcək.</string>
+    <string name="included_activity_placeholder">Əgər media olan, lakin proqram tərəfindən tanınmayan qovluqlarınız varsa, onları burada əl ilə əlavə edə bilərsiniz.\n\nBuraya nəsə əlavə etmək digər qovluqları xaric etməyəcək.</string>
     <string name="no_media_add_included">Heç bir media faylı tapılmadı. Media faylları olan qovluqları əl ilə əlavə edərək bunu həll edə bilərsiniz.</string>
     <string name="resize_and_save">Seçimin ölçüsünü dəyişdir və yadda saxla</string>
     <string name="width">En</string>
